@@ -10,7 +10,7 @@ O nosso objetivo é ajudar as pessoas a encontrar as melhores configurações pa
 License
 --------
 
-    Copyright 2013 DEV MARQUES/Rogers Marques, Inc.
+    Copyright 2019 DEV MARQUES/Rogers Marques, Inc.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
