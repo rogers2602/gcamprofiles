@@ -1,21 +1,51 @@
 [
 {
-"nome":" Mid Teste ",
-"descricao":" Esse perfil serve para tal finalidade ...",
-"url":"www.url.com",
-"versao":"1"
-},
-
-{
-"nome":" Mid Teste ",
-"descricao":" Esse perfil serve para tal finalidade ...",
-"url":"www.url.com",
+"nome":"Quick",
+"descricao":"Quick é um disparo rápido. Excelente para usar de dia, em bares com amigos. Nos momentos que você precisa de uma foto rápida. Sem risco de borrar. Porém em baixa luz ele não tem tanta qualidade. Podendo haver ruídos. ",
+"desc_global":"Quick is a quick shot. Great for daytime wear at bars with friends. At times you need a quick photo. No risk of erasure. But in low light it does not have as much quality. There may be noises.",
+"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-QuickUr-1.3.xml",
 "versao":"1"
 },
 {
-"nome":" Mid Teste ",
-"descricao":" Esse perfil serve para tal finalidade ...",
-"url":"www.url.com",
+"nome":"Fast",
+"descricao":"Seguindo o mesmo intuito do Quick, o Fast é um disparo rápido. Porém mas lento que o Quick. Preservando um pouco mais detalhes nas sombras. Uso durante o dia muito bom, rápido e tem uma ótima qualidade. A noite é bacana pra usar para fotografar os amigos porém. Requer que as pessoas fiquem um pouco mais estáticas pra evitar borrões. Em situação de luzes muito baixas pode haver ruídos e má qualidade.",
+"desc_global":"Following Quick's goal, Fast is a fast shot. But slower than Quick. Preserving a little more detail in the shadows. Use during the day very good, fast and has a great quality. The night is cool to use to photograph friends though. It requires people to stay a bit more static to avoid smudging. In very low light conditions there may be noises and poor quality.",
+"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-FastUr-1.3.xml",
+"versao":"1"
+},
+{
+"nome":"Mid",
+"descricao":"Um pouco mais lento que o Fast, porém com aumento de detalhes. Mantendo uma boa qualidade de fotos. Ideal pra quem não está com tanta pressa, mas também não pode esperar muito. Por isso o nome. Mid, de meio meio rápido meio lento. ",
+"desc_global":"A little slower than the Fast, but with increased detail. Maintaining a good quality of photos. Ideal for those who are not in such a hurry, but also can not wait too long. So the name. Mid, medium half fast medium slow.",
+"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-MidUr-1.3.xml",
+"versao":"1"
+},
+{
+"nome":"Higher",
+"descricao":"Aqui o negócio começa ficar mais sério. Não e um perfil pra uso casual. Esse já e pra fotos mais preparadas, fotos feitas com qualidade. Tem um excelente nível de detalhes nas sombras e uma nitidez absurda. Porem é um disparo mais lento. De dia dificilmente a foto vai borrar em céu aberto. Em locais fechados. Precisa de um pouco mais de cuidado e mãos firmes.",
+"desc_global":"Here the business starts getting more serious. It is not a profile for casual use. This is already for the most prepared photos, photos made with quality. It has an excellent level of detail in the shadows and an absurd sharpness. But it's a slower shot. By day the picture will hardly clear in the open. Indoors. You need a little more care and firm hands.",
+"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-HigherUr-1.3.xml",
+"versao":"1"
+},
+{
+"nome":"Daystroyer",
+"descricao":"Assim como nome já diz. Esse é pra destruir /n HDR monstruoso. Capaz de capturar a luz em várias fases e uma recuperação de sombras fantástica. Recomendo esse perfil pra fotógrafos. Pessoas que realmente querem extrair o máximo do sensor. Embora tenha o nome de Day (dia) ele também funciona absurdamente bem a noite. Ao custo de um disparo mais lento. Não recomendo usar pra fotos em pessoas em lowlight, a não ser que a pessoa seja bem estática e você tenha mãos firmes. ",
+"desc_global":"Just like the name already says. This is to destroy /n Monstrous HDR. Capable of capturing light in various phases and a fantastic shadow recovery. I recommend this profile for photographers. People really want to get the most out of the sensor. Although it has the name of Day (day) it also works absurdly well at night. At the cost of a slower firing. I do not recommend using it for photos in lowlight people, unless the person is very static and you have firm hands.",
+"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-DaystroyerUr-1.3.xml",
+"versao":"1"
+},
+{
+"nome":"NightVision",
+"descricao":"NV segue a mesma linha do Daystroyer, porém com uma compensação de luz maior. O foco dele é fotos noturnas. Também recomendado para fotógrafos. Não 3 um tipo de perfil pra tirar foto dos amigos num bar ou balada. Usar um perfil desse pra mostrar a câmera é pedir pra passar vergonha pq ele é bem lento. Ideal para prédios. Trânsito e paisagens noturnas. ",
+"desc_global":"NV follows the same line as the Daystroyer, but with greater light compensation. His focus is night shots. Also recommended for photographers. Not a profile type to take pictures of friends in a bar or club. To use a profile of this to show the camera is to ask for embarrassment because it is very slow. Ideal for buildings. Traffic and night scenery.",
+"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-NighVisionUr-1.3.xml",
+"versao":"1"
+},
+{
+"nome":"NVLong",
+"descricao":"Esse perfil literalmente não serve pra quem não tem conhecimento básico de fotos com longa exposição. Feito pensado em capturar estrelas, rastros de luz. E ambientes com luz extremamente baixa. Recomendado uso de tripé.",
+"desc_global":"Esse perfil literalmente não serve pra quem não tem conhecimento básico de fotos com longa exposição. Feito pensado em capturar estrelas, rastros de luz. E ambientes com luz extremamente baixa. Recomendado uso de tripé. ",
+"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-NVLongUr-1.3.xml",
 "versao":"1"
 }
 ]
