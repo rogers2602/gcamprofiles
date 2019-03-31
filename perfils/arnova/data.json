@@ -29,22 +29,22 @@
 },
 {
 "nome":"Daystroyer",
-"descricao":"Assim como nome já diz. Esse é pra destruir /n HDR monstruoso. Capaz de capturar a luz em várias fases e uma recuperação de sombras fantástica. Recomendo esse perfil pra fotógrafos. Pessoas que realmente querem extrair o máximo do sensor. Embora tenha o nome de Day (dia) ele também funciona absurdamente bem a noite. Ao custo de um disparo mais lento. Não recomendo usar pra fotos em pessoas em lowlight, a não ser que a pessoa seja bem estática e você tenha mãos firmes. ",
-"desc_global":"Just like the name already says. This is to destroy /n Monstrous HDR. Capable of capturing light in various phases and a fantastic shadow recovery. I recommend this profile for photographers. People really want to get the most out of the sensor. Although it has the name of Day (day) it also works absurdly well at night. At the cost of a slower firing. I do not recommend using it for photos in lowlight people, unless the person is very static and you have firm hands.",
+"descricao":"Assim como nome já diz, esse é pra destruir com um HDR monstruoso. Capaz de capturar a luz em várias fases e uma recuperação de sombras fantástica. Recomendo esse perfil pra fotógrafos e pessoas que realmente querem extrair o máximo do sensor. Embora tenha o nome de Day (dia), ele também funciona absurdamente bem a noite ao custo de um disparo mais lento. Não recomendo usar pra fotos de pessoas com pouca luz, pois requererá que tanto o fotógrafo quanto o fotografado fiquem completamente estáticos. ",
+"desc_global":"As the name already says, this is to destroy with a monnstrous HDR. It has the capability of capturing light in various phases with a fantastic shadow recovery. I recommend this profile for photographers and those who really want to get the most out of the sensor. Despite the name Day, it would also work absurdly well at night with the cost of a slower firing. I do not recommend using it for photos of people in lowlight, unless both the photographer and the photographed stay completely statics.",
 "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-DaystroyerAr-1.3.xml",
 "versao":"1"
 },
 {
 "nome":"NightVision",
-"descricao":"NV segue a mesma linha do Daystroyer, porém com uma compensação de luz maior. O foco dele é fotos noturnas. Também recomendado para fotógrafos. Não 3 um tipo de perfil pra tirar foto dos amigos num bar ou balada. Usar um perfil desse pra mostrar a câmera é pedir pra passar vergonha pq ele é bem lento. Ideal para prédios. Trânsito e paisagens noturnas. ",
-"desc_global":"NV follows the same line as the Daystroyer, but with greater light compensation. His focus is night shots. Also recommended for photographers. Not a profile type to take pictures of friends in a bar or club. To use a profile of this to show the camera is to ask for embarrassment because it is very slow. Ideal for buildings. Traffic and night scenery.",
+"descricao":"Este perfil segue a mesma linha do Daystroyer, porém com uma compensação de luz maior, pois o seu foco são fotos noturnas. Também recomendado para fotógrafos. Não é um perfil pra tirar foto dos amigos num bar ou balada. Usar um perfil desse para mostrar o desempenho da câmera é pedir pra passar vergonha, pois ele é bem lento. Ideal para prédios, trânsito e paisagens noturnas. ",
+"desc_global":"This profile follows the line of the Daystroyer, but with greater light compensation, cause its focus are night shots. Also recommended for photographers. Not a profile for a photo session of friends in a bar or club. Usage of this profile for camera prowess showoff is ask for being embarrassed cause it is a very slow mode. It is ideal for buildings, traffic and night scenery shots.",
 "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-NighVisionAr-1.3.xml",
 "versao":"1"
 },
 {
 "nome":"NVLong",
-"descricao":"Esse perfil literalmente não serve pra quem não tem conhecimento básico de fotos com longa exposição. Feito pensado em capturar estrelas, rastros de luz. E ambientes com luz extremamente baixa. Recomendado uso de tripé.",
-"desc_global":"Esse perfil literalmente não serve pra quem não tem conhecimento básico de fotos com longa exposição. Feito pensado em capturar estrelas, rastros de luz. E ambientes com luz extremamente baixa. Recomendado uso de tripé. ",
+"descricao":"Este perfil literalmente não serve pra quem não tem conhecimento básico de fotos com longa exposição. Feito pensado em capturar estrelas, rastros de luz e ambientes com baixa iluminação. Recomendado uso de tripé.",
+"desc_global":"This profile is not for those without basic knowledge of overexposed shots. Made thinking of stars shots, light trails and for lowlight ambients. It is recommended the usage of a tripod. ",
 "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-NVLongAr-1.3.xml",
 "versao":"1"
 }
