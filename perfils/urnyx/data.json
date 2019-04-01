@@ -4,6 +4,8 @@
 "descricao":"Uso diurno. Disparador rápido. 1/33 controle de denoise pra suprimir ruídos. Lib Xlib2, ajustes de saturação na câmera frontal e traseira. Grid Proporção Áurea. SuperZoom ativado. 15 frames.",
 "desc_global":"Day use. Quick release. 1/33 denoise control to suppress noises. Lib Xlib2, saturation settings on front and rear camera. Grid Golden Ratio. SuperZoom enabled. 15 frames.",
 "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-D-Ur-1.0-1.0.xml",
+"dispo_compativeis":"MI A2, MI 6X, One Plus 5/5T.",
+"chagelog":"Fix tal \nRebase",
 "versao":"1.0 - Rebase"
 },
 {
@@ -11,6 +13,8 @@
 "descricao":"Uso noturno. Disparador um pouco mais lento. Porém ainda rápido o bastante pra tirar fotos de pessoas nos bares com amigos sem muito esforço, ou precisar ficar congelado por muito tempo. Disparador 1/20 supressão de ruído alterada para adequar ao disparador. Lib Xlib2 e tudo que temos no perfil D. 15 frames ",
 "desc_global":"Night use. Trigger slightly slower. But still fast enough to take pictures of people in bars with friends without too much effort, or need to be frozen for long. Trigger 1/20 noise suppression changed to fit the trigger. Lib Xlib2 and everything we have in profile D. 15 frames.",
 "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-D-Ur-1.0.xml",
+"dispo_compativeis":"MI A2, MI 6X, One Plus 5/5T.",
+"chagelog":"Fix tal \nRebase",
 "versao":"1.0 - Rebase"
 },
 {
@@ -18,6 +22,8 @@
 "descricao":"Uso em ambas situações dia e noite. Disparador 1/8 ideal pra paisagens diurnas e noturnas. Retratos corre o risco de borrar. Cancelamento de ruído e SuperZoom ativados. Xlib2 15 frames",
 "desc_global":"Use in both situations day and night. 1/8 trigger ideal for daytime and nighttime landscapes. Portraits risks erasing. Noise cancellation and SuperZoom enabled. Xlib2 15 frames.",
 "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-D-Ur-1.0.xml",
+"dispo_compativeis":"MI A2, MI 6X, One Plus 5/5T.",
+"chagelog":"Fix tal \nRebase",
 "versao":"1.0 - Rebase"
 }
 ]
