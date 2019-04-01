@@ -19,54 +19,5 @@
 "desc_global":"Use in both situations day and night. 1/8 trigger ideal for daytime and nighttime landscapes. Portraits risks erasing. Noise cancellation and SuperZoom enabled. Xlib2 15 frames.",
 "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0.xml",
 "versao":"1.0 - Rebase"
-},
-{
-"nome":"Quick",
-"descricao":"Quick é um disparo rápido. Excelente para usar de dia, em bares com amigos. Nos momentos que você precisa de uma foto rápida. Sem risco de borrar. Porém em baixa luz ele não tem tanta qualidade. Podendo haver ruídos. ",
-"desc_global":"Quick is a fast shot mode. Great for daytime use at bars with friends. On the moments you need a quick shoot without the worry of get a blurry photo. But in low light you'll not get a good quality, with the possibility of noises.",
-"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-QuickAr-1.3.xml",
-"versao":"1"
-},
-{
-"nome":"Fast",
-"descricao":"Seguindo o mesmo intuito do Quick, o Fast é um disparo rápido. Porém mas lento que o Quick. Preservando um pouco mais detalhes nas sombras. Uso durante o dia muito bom, rápido e tem uma ótima qualidade. A noite é bacana pra usar para fotografar os amigos, porém requer que as pessoas fiquem um pouco mais estáticas pra evitar borrões. Em situação de luzes muito baixas pode haver ruídos e má qualidade.",
-"desc_global":"Following Quick's goal, Fast is just a little bit slower but preservs a little more detail in the shadows than Quick. Really good for day usage, with fast and great quality photos. It's also good to use at night to shot with friends but it requires people to stay a bit more static to avoid smudging. In very low light conditions it could have noises and poor quality.",
-"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-FastAr-1.3.xml",
-"versao":"1"
-},
-{
-"nome":"Mid",
-"descricao":"Um pouco mais lento que o Fast, porém com aumento de detalhes. Mantendo uma boa qualidade de fotos. Ideal pra quem não está com tanta pressa, mas também não pode esperar muito. Por isso o nome Mid, de meio rápido, meio lento. ",
-"desc_global":"A little bit slower than Fast but with detail increase. Maintaining a good quality of photos. Ideal for those who are not in such a hurry but also can't wait long. So the name Mid as mid fast, mid slow.",
-"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-MidAr-1.3.xml",
-"versao":"1"
-},
-{
-"nome":"Higher",
-"descricao":"Aqui o negócio começa ficar mais sério. Não e um perfil pra uso casual. Esse já e pra fotos mais preparadas, fotos feitas com qualidade. Tem um excelente nível de detalhes nas sombras e uma nitidez absurda. Porem é um disparo mais lento. De dia dificilmente a foto vai borrar em céu aberto. Mas em locais fechados precisará de um pouco mais de cuidado e mãos firmes.",
-"desc_global":"Here things start getting serious. This is not a profile for casual use but for more prepared and qualities photos. It has an excellent level of detail in the shadows and an absurd sharpness. But it's a slower shot. At daytime and open sky pictures will hardly get smudged. But for indoor usage you'll need a little more care and steady hands.",
-"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-HigherAr-1.3.xml",
-"versao":"1"
-},
-{
-"nome":"Daystroyer",
-"descricao":"Assim como nome já diz, esse é pra destruir com um HDR monstruoso. Capaz de capturar a luz em várias fases e uma recuperação de sombras fantástica. Recomendo esse perfil pra fotógrafos e pessoas que realmente querem extrair o máximo do sensor. Embora tenha o nome de Day (dia), ele também funciona absurdamente bem a noite ao custo de um disparo mais lento. Não recomendo usar pra fotos de pessoas com pouca luz, pois requererá que tanto o fotógrafo quanto o fotografado fiquem completamente estáticos. ",
-"desc_global":"As the name already says, this is to destroy with a monnstrous HDR. It has the capability of capturing light in various phases with a fantastic shadow recovery. I recommend this profile for photographers and those who really want to get the most out of the sensor. Despite the name Day, it would also work absurdly well at night with the cost of a slower firing. I do not recommend using it for photos of people in lowlight, unless both the photographer and the photographed stay completely statics.",
-"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-DaystroyerAr-1.3.xml",
-"versao":"1"
-},
-{
-"nome":"NightVision",
-"descricao":"Este perfil segue a mesma linha do Daystroyer, porém com uma compensação de luz maior, pois o seu foco são fotos noturnas. Também recomendado para fotógrafos. Não é um perfil pra tirar foto dos amigos num bar ou balada. Usar um perfil desse para mostrar o desempenho da câmera é pedir pra passar vergonha, pois ele é bem lento. Ideal para prédios, trânsito e paisagens noturnas. ",
-"desc_global":"This profile follows the line of the Daystroyer, but with greater light compensation, cause its focus are night shots. Also recommended for photographers. Not a profile for a photo session of friends in a bar or club. Usage of this profile for camera prowess showoff is ask for being embarrassed cause it is a very slow mode. It is ideal for buildings, traffic and night scenery shots.",
-"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-NighVisionAr-1.3.xml",
-"versao":"1"
-},
-{
-"nome":"NVLong",
-"descricao":"Este perfil literalmente não serve pra quem não tem conhecimento básico de fotos com longa exposição. Feito pensado em capturar estrelas, rastros de luz e ambientes com baixa iluminação. Recomendado uso de tripé.",
-"desc_global":"This profile is not for those without basic knowledge of overexposed shots. Made thinking of stars shots, light trails and for lowlight ambients. It is recommended the usage of a tripod. ",
-"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-NVLongAr-1.3.xml",
-"versao":"1"
 }
 ]
