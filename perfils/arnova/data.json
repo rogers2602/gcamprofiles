@@ -3,7 +3,7 @@
       "nome":"Day",
       "descricao":"Uso diurno. Disparador rápido. 1/33 controle de denoise pra suprimir ruídos. Lib Xlib2, ajustes de saturação na câmera frontal e traseira. Grid Proporção Áurea. SuperZoom ativado. 15 frames.",
       "desc_global":"Day use. Quick release. 1/33 denoise control to suppress noises. Lib Xlib2, saturation settings on front and rear camera. Grid Golden Ratio. SuperZoom enabled. 15 frames.",
-      "author":"Richard, Enzo(OP5/T)",
+      "author":"Richard, Enzo OP5/T, @NathanG0m3s S9/PLUS",
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
@@ -20,16 +20,20 @@
          {
             "modelo":"OnePlus 6/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-D-Ar-1.0-JPEG-one.xml"
+         },
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/s9%2B%20Day%20%40NathanG0m3s.xml"
          }
       ],
       "chagelog":"Fix tal \nRebase",
-      "versao":"1.0 - Rebase"
+      "versao":"Inicial"
    },
    {
       "nome":"Night",
       "descricao":"Uso noturno. Disparador um pouco mais lento. Porém ainda rápido o bastante pra tirar fotos de pessoas nos bares com amigos sem muito esforço, ou precisar ficar congelado por muito tempo. Disparador 1/20 supressão de ruído alterada para adequar ao disparador. Lib Xlib2 e tudo que temos no perfil D. 15 frames ",
       "desc_global":"Night use. Trigger slightly slower. But still fast enough to take pictures of people in bars with friends without too much effort, or need to be frozen for long. Trigger 1/20 noise suppression changed to fit the trigger. Lib Xlib2 and everything we have in profile D. 15 frames.",
-      "author":"Richard, Enzo(OP5/T)",
+      "author":"Richard, Enzo OP5/T, @NathanG0m3s S9/PLUS",
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
@@ -46,16 +50,20 @@
          {
             "modelo":"OnePlus 6/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.0-JPEG-one.xml"
+         },
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Night%20%40NathanG0m3s.xml"
          }
       ],
       "chagelog":"Fix tal \nRebase",
-      "versao":"1.0 - Rebase"
+      "versao":"Inicial"
    },
    {
       "nome":"Sharpen",
       "descricao":"Uso em ambas situações dia e noite. Disparador 1/8 ideal pra paisagens diurnas e noturnas. Retratos corre o risco de borrar. Cancelamento de ruído e SuperZoom ativados. Xlib2 15 frames",
       "desc_global":"Use in both situations day and night. 1/8 trigger ideal for daytime and nighttime landscapes. Portraits risks erasing. Noise cancellation and SuperZoom enabled. Xlib2 15 frames.",
-      "author":"Richard, Enzo(OP5/T)",
+      "author":"Richard, Enzo OP5/T",
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
@@ -74,7 +82,7 @@
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml"
          }
       ],
-      "chagelog":"Fix tal \nRebase",
+      "chagelog":"Inicial",
       "versao":"1.0 - Rebase"
    },
    {
@@ -88,7 +96,21 @@
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/3nZ0-SharpN'Quick-Ar%201.0.xml"
          }
       ],
-      "chagelog":"Fix tal \nRebase",
+      "chagelog":"Inicial",
+      "versao":"1.0 - Rebase"
+   },
+   {
+      "nome":"Daystroyer",
+      "descricao":"Sem descrição...",
+      "desc_global":"",
+      "author":"@NathanG0m3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Daystroyer%20%40NathanG0m3s.xml"
+         }
+      ],
+      "chagelog":"Inicial",
       "versao":"1.0 - Rebase"
    }
 ]
