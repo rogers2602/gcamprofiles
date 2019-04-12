@@ -1,0 +1,23 @@
+[
+{
+"nomegcam":"Google Camera - Arnova",
+"descricao":"Perfis de camera para Google Camera do Desenvolvedor Arnova.",
+"desc_global":"Camera Profiles for Google Camera from Arnova Developer.",
+"icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/gcam_arnova.png",
+"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/arnova/data.json"
+},
+{
+"nomegcam":"Google Camera - Urnyx",
+"descricao":"Perfis de camera para Google Camera do Desenvolvedor Urnyx.",
+"desc_global":"Camera Profiles for Google Camera from Urnyx Developer.",
+"icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/gcam_urnyx.png",
+"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/urnyx/data.json"
+},
+{
+"nomegcam":"Google Camera - Xcam",
+"descricao":"Perfis de camera para Google Camera do Desenvolvedor Xtrme",
+"desc_global":"amera Profiles for Google Camera from Xtrme Developer.",
+"icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/gcam_xcam.png",
+"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/xcam/data.json"
+}
+]
