@@ -2,11 +2,11 @@
    {
       "nome":"Daily F1",
       "descricao":"Perfil voltado ao uso diário, para fotos rápidas.",
-      "desc_global":"  ",
+      "desc_global":"No description. ",
       "author":"Desconhecido",
       "dispo_compativeis":[
          {
-            "modelo":"   ",
+            "modelo":"Pocophone F1",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/sanity/dailyF1.xml"
          }
       ],
@@ -16,11 +16,11 @@
    {
       "nome":"HDR+ Plus",
       "descricao":"Perfil voltado pro HDR+ e para um processamento mais detalhado, mais detalhes na foto.",
-      "desc_global":"  ",
+      "desc_global":"No description.",
       "author":"Desconhecido",
       "dispo_compativeis":[
          {
-            "modelo":"   ",
+            "modelo":"Pocophone F1",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/sanity/PoCo-F1-Setting.xml"
          }
       ],
@@ -34,7 +34,7 @@
       "author":"Desconhecido",
       "dispo_compativeis":[
          {
-            "modelo":"   ",
+            "modelo":"Pocophone F1",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/sanity/V3n0m-X-San1ty.xml"
          }
       ],
