@@ -1,1 +1,44 @@
-
+[
+   {
+      "nome":"Daily F1",
+      "descricao":"Perfil voltado ao uso diário, para fotos rápidas.",
+      "desc_global":"  ",
+      "author":"Desconhecido",
+      "dispo_compativeis":[
+         {
+            "modelo":"   ",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/sanity/dailyF1.xml"
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.0"
+   },
+   {
+      "nome":"HDR+ Plus",
+      "descricao":"Perfil voltado pro HDR+ e para um processamento mais detalhado, mais detalhes na foto.",
+      "desc_global":"  ",
+      "author":"Desconhecido",
+      "dispo_compativeis":[
+         {
+            "modelo":"   ",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/sanity/PoCo-F1-Setting.xml"
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Venom Sanity",
+      "descricao":"Sem descrição no momento.",
+      "desc_global":"No description.",
+      "author":"Desconhecido",
+      "dispo_compativeis":[
+         {
+            "modelo":"   ",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/sanity/V3n0m-X-San1ty.xml"
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.0"
+   }
+]
