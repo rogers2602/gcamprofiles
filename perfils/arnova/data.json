@@ -2,7 +2,7 @@
    {
       "nome":"Day",
       "descricao":"Uso diurno. Disparador rápido. 1/33 controle de denoise pra suprimir ruídos. Lib Xlib2, ajustes de saturação na câmera frontal e traseira. Grid Proporção Áurea. SuperZoom ativado. 15 frames.",
-      "desc_global":"Day use. Quick release. 1/33 denoise control to suppress noises. Lib Xlib2, saturation settings on front and rear camera. Grid Golden Ratio. SuperZoom enabled. 15 frames.",
+      "desc_global":"Daily usage. Quick shoot. 1/33 denoise control for noise suppression. Xlib2 lib, saturation settings on front and rear camera. Golden ratio grid. SuperZoom enabled. 15 frames.",
       "author":"Richard, Enzo OP5/T, @NathanG0m3s S9/PLUS",
       "dispo_compativeis":[
          {
@@ -26,13 +26,13 @@
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/s9%2B%20Day%20%40NathanG0m3s.xml"
          }
       ],
-      "chagelog":"Versão final Para Mi A2/6X",
+      "changelog":"Versão final Para Mi A2/6X",
       "versao":"1.4"
    },
    {
       "nome":"Night",
-      "descricao":"Uso noturno. Disparador um pouco mais lento. Porém ainda rápido o bastante pra tirar fotos de pessoas nos bares com amigos sem muito esforço, ou precisar ficar congelado por muito tempo. Disparador 1/20 supressão de ruído alterada para adequar ao disparador. Lib Xlib2 e tudo que temos no perfil D. 15 frames ",
-      "desc_global":"Night use. Trigger slightly slower. But still fast enough to take pictures of people in bars with friends without too much effort, or need to be frozen for long. Trigger 1/20 noise suppression changed to fit the trigger. Lib Xlib2 and everything we have in profile D. 15 frames.",
+      "descricao":"Uso noturno. Disparador um pouco mais lento, porém ainda rápido o bastante pra tirar fotos com amigos ou pessoas em um bar sem muito esforço ou necessidade de se manter imóvel por muito tempo. Disparador 1/20, supressão de ruído adequado ao disparador. Lib Xlib2 e tudo que temos no perfil D. 15 frames ",
+      "desc_global":"Night usage. Slightly slower shoot, but still fast enough to take pictures with friends or people with no effort or the need to be still for a long time. Shutter 1/20. Noise suppression changed to fit the shutter. Xlib2 lib and everything we have in profile D. 15 frames.",
       "author":"Richard, Enzo OP5/T, @NathanG0m3s S9/PLUS",
       "dispo_compativeis":[
          {
@@ -62,7 +62,7 @@
    {
       "nome":"Sharpen",
       "descricao":"Uso em ambas situações dia e noite. Disparador 1/8 ideal pra paisagens diurnas e noturnas. Retratos corre o risco de borrar. Cancelamento de ruído e SuperZoom ativados. Xlib2 15 frames",
-      "desc_global":"Use in both situations day and night. 1/8 trigger ideal for daytime and nighttime landscapes. Portraits risks erasing. Noise cancellation and SuperZoom enabled. Xlib2 15 frames.",
+      "desc_global":"Use in both situations day and night. 1/8 shutter ideal for daytime and nighttime landscapes. Portraits risks erasing. Noise cancellation and SuperZoom enabled. Xlib2 15 frames.",
       "author":"Richard, Enzo OP5/T",
       "dispo_compativeis":[
          {
