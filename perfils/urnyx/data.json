@@ -8,14 +8,20 @@
          {
             "modelo":"MI A2/6X",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-D-Ur-1.0.xml"
+			"chagelog":"Initial",
+			"versao":1.3
          },
          {
             "modelo":"OnePlus 5/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ(E)-D-Ur%201.0.xml"
+			"chagelog":"Initial",
+			"versao":1.5
          },
          {
             "modelo":"OnePlus 6/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-D-Ur-1.0.xml"
+			"chagelog":"Initial",
+			"versao":1.8
          }
       ],
       "chagelog":"Initial",
@@ -30,14 +36,20 @@
          {
             "modelo":"MI A2/6X",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-N-Ur-1.0.xml"
+			"chagelog":"Initial",
+			"versao":1.1
          },
          {
             "modelo":"OnePlus 5/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ(E)-N-Ur%201.0.xml"
+			"chagelog":"Initial",
+			"versao":1.1
          },
          {
             "modelo":"OnePlus 6/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-N-Ur-1.0.xml"
+			"chagelog":"Initial",
+			"versao":1.1
          }
       ],
       "chagelog":"Initial",
@@ -52,14 +64,20 @@
          {
             "modelo":"MI A2/6X",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-S-Ur-1.0.xml"
+			"chagelog":"Initial",
+			"versao":1.1
          },
          {
             "modelo":"OnePlus 5/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ(E)-S-Ur%201.0.xml"
+			"chagelog":"Initial",
+			"versao":1.1
          },
          {
             "modelo":"OnePlus 6/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-S-Ur-1.0.xml"
+			"chagelog":"Initial",
+			"versao":1.1
          }
       ],
       "chagelog":"Initial",
