@@ -82,8 +82,8 @@
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml"
          }
       ],
-       "chagelog":"Versão final Para Mi A2/6X",
-       "versao":"1.4"
+      "chagelog":"Versão final Para Mi A2/6X",
+      "versao":"1.4"
    },
    {
       "nome":"SharpN Quick",
@@ -112,5 +112,89 @@
       ],
       "chagelog":"Inicial",
       "versao":"1.0 - Rebase"
+   },
+   {
+      "nome":"SG",
+      "descricao":"Qualquer condição, cores reais.",
+      "desc_global":"Any condition, real colors.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%2020-3%20Arnova%201.4.xml"
+         }
+      ],
+      "chagelog":"No changelog",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - Exclusive",
+      "descricao":"Recem criado SG, zero de Ruido/Noise, ideal para qualquer condição.",
+      "desc_global":"Just created SG, Noise Noise / Noise, ideal for any condition.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20Exclusive%20Arnova%201.4.xml"
+         }
+      ],
+      "chagelog":"No changelog",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - Satured",
+      "descricao":"Qualquer condições,cores saturadas.",
+      "desc_global":"Any conditions, saturated colors.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20SATURATED%2020-3%20Arnova%201.4.xml"
+         }
+      ],
+      "chagelog":"No changelog",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - Sports",
+      "descricao":"Modo Sport para tirar fotos de pessoas/objetos em movimiento.",
+      "desc_global":"Sport mode for taking pictures of people/objects on the move.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20SPORTS%20Arnova.xml"
+         }
+      ],
+      "chagelog":"No changelog",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - SuperZoom",
+      "descricao":"Super resolução ao aplicar zoom.",
+      "desc_global":"Super Resolution when zooming.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20SuperResZoom%2029-3%20Arnova%201.4.xml"
+         }
+      ],
+      "chagelog":"No changelog",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - White",
+      "descricao":"Se você notar tons amarelados, este XML irá corrigir, entregando cores mais brancas",
+      "desc_global":"If you notice yellowish tones, this XML will fix, delivering whiter colors",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Daystroyer%20%40NathanG0m3s.xml"
+         }
+      ],
+      "chagelog":"No changelog",
+      "versao":"1.4"
    }
 ]
