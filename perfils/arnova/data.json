@@ -7,27 +7,42 @@
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-D-Ar-1.4.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-D-Ar-1.4.xml",
+            "chagelog":"Version Final 4.4.",
+            "author":" Richard",
+            "versao":1.4
          },
          {
             "modelo":"Mi 8/Pro/EE",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-D-Ar-1.0-JPEG-one.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-D-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
          },
          {
             "modelo":"OnePlus 5/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ(E)-D-Ar%201.0o5t.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ(E)-D-Ar%201.0o5t.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
          },
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-D-Ar-1.0-JPEG-one.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-D-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
          },
          {
             "modelo":"Galaxy S9/Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/s9%2B%20Day%20%40NathanG0m3s.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/s9%2B%20Day%20%40NathanG0m3s.xml",
+            "chagelog":"---",
+            "author":" @NathanGom3s",
+            "versao":1.0
          }
       ],
       "changelog":"Versão final Para Mi A2/6X",
-      "versao":"1.4"
+      "versao":"1.0"
    },
    {
       "nome":"Night",
@@ -37,27 +52,42 @@
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.4.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.4.xml",
+            "chagelog":"Version Final 4.4.",
+            "author":" Richard",
+            "versao":1.4
          },
          {
             "modelo":"Mi 8/Pro/EE",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.0-JPEG-one.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
          },
          {
             "modelo":"OnePlus 5/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ(E)-N-Ar%201.0o5t.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ(E)-N-Ar%201.0o5t.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
          },
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.0-JPEG-one.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
          },
          {
             "modelo":"Galaxy S9/Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Night%20%40NathanG0m3s.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Night%20%40NathanG0m3s.xml",
+            "chagelog":"---",
+            "author":" @NathanGom3s",
+            "versao":1.0
          }
       ],
       "chagelog":"Versão final Para Mi A2/6X",
-      "versao":"1.4"
+      "versao":"1.0"
    },
    {
       "nome":"Sharpen",
@@ -67,23 +97,35 @@
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.4.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.4.xml",
+            "chagelog":"Version Final 4.4.",
+            "author":" Richard",
+            "versao":1.4
          },
          {
             "modelo":"Mi 8/Pro/EE",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
          },
          {
             "modelo":"OnePlus 5/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ(E)-S-Ar%201.0o5t.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ(E)-S-Ar%201.0o5t.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
          },
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Versão final Para Mi A2/6X",
-      "versao":"1.4"
+      "versao":"1.0"
    },
    {
       "nome":"SharpN Quick",
@@ -93,11 +135,14 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 5/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/3nZ0-SharpN'Quick-Ar%201.0.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/3nZ0-SharpN'Quick-Ar%201.0.xml",
+            "chagelog":"No changelog",
+            "author":" Enzo",
+            "versao":1.0
          }
       ],
       "chagelog":"Inicial",
-      "versao":"1.0 - Rebase"
+      "versao":"1.0"
    },
    {
       "nome":"Daystroyer",
@@ -107,11 +152,14 @@
       "dispo_compativeis":[
          {
             "modelo":"Galaxy S9/Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Daystroyer%20%40NathanG0m3s.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Daystroyer%20%40NathanG0m3s.xml",
+            "chagelog":"---",
+            "author":" @NathanGom3s",
+            "versao":1.0
          }
       ],
-      "chagelog":"Inicial",
-      "versao":"1.0 - Rebase"
+      "chagelog":"---",
+      "versao":"1.0"
    },
    {
       "nome":"SG",
@@ -121,10 +169,13 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%2020-3%20Arnova%201.4.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%2020-3%20Arnova%201.4.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
          }
       ],
-      "chagelog":"No changelog",
+      "chagelog":"---",
       "versao":"1.4"
    },
    {
@@ -135,10 +186,13 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20Exclusive%20Arnova%201.4.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20Exclusive%20Arnova%201.4.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
          }
       ],
-      "chagelog":"No changelog",
+      "chagelog":"---",
       "versao":"1.4"
    },
    {
@@ -149,10 +203,13 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20SATURATED%2020-3%20Arnova%201.4.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20SATURATED%2020-3%20Arnova%201.4.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
          }
       ],
-      "chagelog":"No changelog",
+      "chagelog":"---",
       "versao":"1.4"
    },
    {
@@ -163,10 +220,13 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20SPORTS%20Arnova.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20SPORTS%20Arnova.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
          }
       ],
-      "chagelog":"No changelog",
+      "chagelog":"---",
       "versao":"1.4"
    },
    {
@@ -177,10 +237,13 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20SuperResZoom%2029-3%20Arnova%201.4.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20SuperResZoom%2029-3%20Arnova%201.4.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
          }
       ],
-      "chagelog":"No changelog",
+      "chagelog":"---",
       "versao":"1.4"
    },
    {
@@ -191,10 +254,13 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Daystroyer%20%40NathanG0m3s.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Daystroyer%20%40NathanG0m3s.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
          }
       ],
-      "chagelog":"No changelog",
+      "chagelog":"---",
       "versao":"1.4"
    }
 ]
