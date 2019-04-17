@@ -162,6 +162,23 @@
       "versao":"1.0"
    },
    {
+      "nome":"Jay Moto G",
+      "descricao":"Perfil para uso geral, e remoção de manchas roxas.",
+      "desc_global":"Profile for general use, and removal of purple spots.",
+      "author":"Juan Antonio",
+      "dispo_compativeis":[
+         {
+            "modelo":"G5 Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/jap.xml",
+            "chagelog":"---",
+            "author":" Juan Antonio",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.0"
+   },
+   {
       "nome":"SG",
       "descricao":"Qualquer condição, cores reais.",
       "desc_global":"Any condition, real colors.",
