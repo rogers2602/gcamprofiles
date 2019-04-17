@@ -8,10 +8,10 @@
          {
             "modelo":"MI A2/6X",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/rZ-Day-Xtreme-1.4-Final.xml",
-			"chagelog":"Version Final",
-			"author":" Richard",
-			"versao":1.4
-		 }
+            "chagelog":"Version Final",
+            "author":" Richard",
+            "versao":1.4
+         }
       ],
       "chagelog":"Inicial",
       "versao":"1.4"
@@ -25,9 +25,9 @@
          {
             "modelo":"MI A2/6X",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/rZ-Night-Xtreme-1.4-Final.xml",
-			"chagelog":"Version Final",
-			"author":" Richard",
-			"versao":1.4
+            "chagelog":"Version Final",
+            "author":" Richard",
+            "versao":1.4
          }
       ],
       "chagelog":"Inicial",
@@ -42,12 +42,80 @@
          {
             "modelo":"MI A2/6X",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/rZ-Sharpen-Xtreme-1.4-Final.xml",
-			"chagelog":"Version Final",
-			"author":" Richard",
-			"versao":1.4
+            "chagelog":"Version Final",
+            "author":" Richard",
+            "versao":1.4
          }
       ],
       "chagelog":"Inicial",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG",
+      "descricao":"Qualquer condição, cores reais.",
+      "desc_global":"Any condition, real colors.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/88a2a3dadf3737a47d1b8892c7d941031ac132bc/files/xcam/SG%2028-2%20XTRME20.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - Satured",
+      "descricao":"Qualquer condições,cores saturadas.",
+      "desc_global":"Any conditions, saturated colors.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/88a2a3dadf3737a47d1b8892c7d941031ac132bc/files/xcam/SG%20SATURATED%2028-2%20XTRME20.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - Sports",
+      "descricao":"Modo Sport para tirar fotos de pessoas/objetos em movimiento.",
+      "desc_global":"Sport mode for taking pictures of people/objects on the move.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/88a2a3dadf3737a47d1b8892c7d941031ac132bc/files/xcam/SG%20SPORTS%20Xtrme.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - White",
+      "descricao":"Se você notar tons amarelados, este XML irá corrigir, entregando cores mais brancas",
+      "desc_global":"If you notice yellowish tones, this XML will fix, delivering whiter colors",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/88a2a3dadf3737a47d1b8892c7d941031ac132bc/files/xcam/SG%20WHITE%2028-2%20XTRME20.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
       "versao":"1.4"
    }
 ]
