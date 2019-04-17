@@ -2,13 +2,16 @@
    {
       "nome":"Daily F1",
       "descricao":"Perfil voltado ao uso diário, para fotos rápidas.",
-      "desc_global":"No description. ",
+      "desc_global":"Profile for everyday use, for quick photos.",
       "author":"Desconhecido",
       "dispo_compativeis":[
          {
             "modelo":"Pocophone F1",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/sanity/dailyF1.xml"
-         }
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/sanity/dailyF1.xml",
+			"chagelog":"Initial",
+			"author":" Desconhecido",
+			"versao":1.0
+		 }
       ],
       "chagelog":"Inicial",
       "versao":"1.0"
@@ -16,13 +19,16 @@
    {
       "nome":"HDR+ Plus",
       "descricao":"Perfil voltado pro HDR+ e para um processamento mais detalhado, mais detalhes na foto.",
-      "desc_global":"No description.",
+      "desc_global":"Profile oriented pro HDR + and for more detailed processing, more details in the photo.",
       "author":"Desconhecido",
       "dispo_compativeis":[
          {
             "modelo":"Pocophone F1",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/sanity/PoCo-F1-Setting.xml"
-         }
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/sanity/PoCo-F1-Setting.xml",
+			"chagelog":"Initial",
+			"author":" Desconhecido",
+			"versao":1.0
+		 }
       ],
       "chagelog":"Inicial",
       "versao":"1.0"
@@ -35,8 +41,11 @@
       "dispo_compativeis":[
          {
             "modelo":"Pocophone F1",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/sanity/V3n0m-X-San1ty.xml"
-         }
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/sanity/V3n0m-X-San1ty.xml",
+			"chagelog":"Initial",
+			"author":" Desconhecido",
+			"versao":1.0
+		 }
       ],
       "chagelog":"Inicial",
       "versao":"1.0"
