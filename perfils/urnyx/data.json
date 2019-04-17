@@ -8,23 +8,23 @@
          {
             "modelo":"MI A2/6X",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-Day-Urnyx-Final.xml",
-			"chagelog":"Version Final 4.4.",
-			"author":" Richard",
-			"versao":1.4
+            "chagelog":"Version Final 4.4.",
+            "author":" Richard",
+            "versao":1.4
          },
          {
             "modelo":"OnePlus 5/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ(E)-D-Ur%201.0.xml",
-			"chagelog":"Initial",
-			"author":" Richard",
-			"versao":1.0
+            "chagelog":"Initial",
+            "author":" Richard",
+            "versao":1.0
          },
          {
             "modelo":"OnePlus 6/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-D-Ur-1.0.xml",
-			"chagelog":"Initial",
-			"author":" Richard",
-			"versao":1.0
+            "chagelog":"Initial",
+            "author":" Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Updated profiles for Mi 6X/A2",
@@ -39,23 +39,23 @@
          {
             "modelo":"MI A2/6X",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-Night-Urnyx-Final.xml",
-			"chagelog":"Version Final 4.4.",
-			"author":" Richard",
-			"versao":1.4
+            "chagelog":"Version Final 4.4.",
+            "author":" Richard",
+            "versao":1.4
          },
          {
             "modelo":"OnePlus 5/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ(E)-N-Ur%201.0.xml",
-			"chagelog":"Initial",
-			"author":" Richard",
-			"versao":1.0
+            "chagelog":"Initial",
+            "author":" Richard",
+            "versao":1.0
          },
          {
             "modelo":"OnePlus 6/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-N-Ur-1.0.xml",
-			"chagelog":"Initial",
-			"author":" Richard",
-			"versao":1.0
+            "chagelog":"Initial",
+            "author":" Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Updated profiles for Mi 6X/A2",
@@ -70,26 +70,128 @@
          {
             "modelo":"MI A2/6X",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-Sharpen-Urnyx-Final.xml",
-			"chagelog":"Version Final 4.4.",
-			"author":" Richard",
-			"versao":1.4
+            "chagelog":"Version Final 4.4.",
+            "author":" Richard",
+            "versao":1.4
          },
          {
             "modelo":"OnePlus 5/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ(E)-S-Ur%201.0.xml",
-			"chagelog":"Initial",
-			"author":" Richard",
-			"versao":1.0
+            "chagelog":"Initial",
+            "author":" Richard",
+            "versao":1.0
          },
          {
             "modelo":"OnePlus 6/T",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/rZ-S-Ur-1.0.xml",
-			"chagelog":"Initial",
-			"author":" Richard",
-			"versao":1.0
+            "chagelog":"Initial",
+            "author":" Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Updated profiles for Mi 6X/A2",
       "versao":"---"
+   },
+   {
+      "nome":"SG",
+      "descricao":"Qualquer condição, cores reais.",
+      "desc_global":"Any condition, real colors.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/33de7454e45dd5f2d33f372133bf50fe07099849/files/urnyx/SG%209-4%20Urnyx05%204.4.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - Exclusive",
+      "descricao":"Recem criado SG, zero de Ruido/Noise, ideal para qualquer condição.",
+      "desc_global":"Just created SG, Noise Noise / Noise, ideal for any condition.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/33de7454e45dd5f2d33f372133bf50fe07099849/files/urnyx/SG%20Exclusive%20Urnyx05%204.4.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - Satured",
+      "descricao":"Qualquer condições,cores saturadas.",
+      "desc_global":"Any conditions, saturated colors.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/33de7454e45dd5f2d33f372133bf50fe07099849/files/urnyx/SG%20SATURATED%209-4%20Urnyx05%204.4.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - Sports",
+      "descricao":"Modo Sport para tirar fotos de pessoas/objetos em movimiento.",
+      "desc_global":"Sport mode for taking pictures of people/objects on the move.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/33de7454e45dd5f2d33f372133bf50fe07099849/files/urnyx/SG%20SPORTS%20Urnyx05.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - SuperZoom",
+      "descricao":"Super resolução ao aplicar zoom.",
+      "desc_global":"Super Resolution when zooming.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/33de7454e45dd5f2d33f372133bf50fe07099849/files/urnyx/SG%20SuperResZoom%209-4%20Urnyx05%204.4.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - White",
+      "descricao":"Se você notar tons amarelados, este XML irá corrigir, entregando cores mais brancas",
+      "desc_global":"If you notice yellowish tones, this XML will fix, delivering whiter colors",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/33de7454e45dd5f2d33f372133bf50fe07099849/files/urnyx/SG%20WHITE%209-4%20Urnyx05%204.4.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
    }
 ]
