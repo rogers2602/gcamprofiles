@@ -7,11 +7,14 @@
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/rZ-D-Xt-1.0.xml"
-         }
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/rZ-Day-Xtreme-1.4-Final.xml",
+			"chagelog":"Version Final",
+			"author":" Richard",
+			"versao":1.4
+		 }
       ],
       "chagelog":"Inicial",
-      "versao":"1.0 - Rebase"
+      "versao":"1.4"
    },
    {
       "nome":"Night",
@@ -21,11 +24,14 @@
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/rZ-N-Xt-1.0.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/rZ-Night-Xtreme-1.4-Final.xml",
+			"chagelog":"Version Final",
+			"author":" Richard",
+			"versao":1.4
          }
       ],
       "chagelog":"Inicial",
-      "versao":"1.0 - Rebase"
+      "versao":"1.4"
    },
    {
       "nome":"Sharpen",
@@ -35,10 +41,13 @@
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/rZ-S-Xt-1.0.xml"
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/rZ-Sharpen-Xtreme-1.4-Final.xml"
+			"chagelog":"Version Final",
+			"author":" Richard",
+			"versao":1.4
          }
       ],
       "chagelog":"Inicial",
-      "versao":"1.0 - Rebase"
+      "versao":"1.4"
    }
 ]
