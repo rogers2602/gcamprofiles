@@ -1,12 +1,5 @@
 [
    {
-      "nomegcam":"!!! Update !!!",
-      "descricao":"Atualize o aplicativo, em breve essa versão irá parar de funcionar 21/04/2019.",
-      "desc_global":"Update the application, this version will stop working soon 04/21/2019.",
-      "icone":"",
-      "url":""
-   },
-   {
       "nomegcam":"Arnova",
       "descricao":"Perfis de camera para Google Camera do Desenvolvedor Arnova.",
       "desc_global":"Camera Profiles for Google Camera from Arnova Developer.",
