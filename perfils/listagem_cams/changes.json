@@ -1,4 +1,12 @@
 [
+   
+{
+   "title":"Pequenos erros corrigidos.",
+   "title_global":"Small bugs fixed",
+   "data":"19-04-2019 - 16:30.",
+   "descricao":"Correção de cor de texto nos itens marca e modelo.<br>Correção de permissões de arquivos<br>Adicionado emoticon de no files<br>Fixado a identificação de arquivos na listagem de profiles<br>Corrigido erros de segurança<br>Adicionado sessão sobre, devido créditos<br>Adicionado link Gcam Brasil Downloads<br>Melhorias no geral.<br>",
+   "desc_global":" Text color correction on the make and model items<br>Fixing file permissions<br>Added emoticon of no files<br>Fixed the identification of files in the profile listing<br>Fixed security errors<br>Added session on, due credits<br>Added Link Gcam Brasil Downloads<br>Overall improvements.<br>"
+},
    {
       "title":"Correções e Novo Layout",
       "title_global":"Fixes and New Layout",
