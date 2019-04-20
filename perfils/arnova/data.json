@@ -39,6 +39,20 @@
             "chagelog":"---",
             "author":" @NathanGom3s",
             "versao":1.0
+         },
+         {
+            "modelo":"Lenovo K6 Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/1UpArnovaXSDay.xml",
+            "chagelog":"initial",
+            "author":"Jairo Rossi",
+            "versao":1.0
+         },
+         {
+            "modelo":"Redmi Note 6/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/RN6P_pTk.xml",
+            "chagelog":"initial",
+            "author":"Patrick Pereira",
+            "versao":1.0
          }
       ],
       "changelog":"Versão final Para Mi A2/6X",
@@ -100,6 +114,13 @@
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Night%20S9%2B%201.4.xml",
             "chagelog":"---",
             "author":" @NathanGom3s",
+            "versao":1.0
+         },
+         {
+            "modelo":"Lenovo K6 Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/1UpArnovaR0Night.xml",
+            "chagelog":"initial",
+            "author":"Jairo Rossi",
             "versao":1.0
          }
       ],
@@ -203,7 +224,7 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%2020-3%20Arnova%201.4.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%2018-4%20Arnova%201.5.xml",
             "chagelog":"---",
             "author":" Juan/Canario",
             "versao":1.4
@@ -220,7 +241,7 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20Exclusive%20Arnova%201.4.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20Exclusive%20Arnova%201.5.xml",
             "chagelog":"---",
             "author":" Juan/Canario",
             "versao":1.4
@@ -237,7 +258,7 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20SATURATED%2020-3%20Arnova%201.4.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20SATURATED%2018-4%20Arnova%201.5.xml",
             "chagelog":"---",
             "author":" Juan/Canario",
             "versao":1.4
@@ -254,7 +275,7 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20SPORTS%20Arnova.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20SPORTS%20Arnova%201.5.xml",
             "chagelog":"---",
             "author":" Juan/Canario",
             "versao":1.4
@@ -271,7 +292,7 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/6798cabf9a04f1b8203b91ffc4636db4b4e319fd/files/arnova/SG%20SuperResZoom%2029-3%20Arnova%201.4.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20SuperResZoom%2018-4%20Arnova%201.5.xml",
             "chagelog":"---",
             "author":" Juan/Canario",
             "versao":1.4
@@ -288,7 +309,7 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20WHITE%2020-3%20Arnova%201.4.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20WHITE%2018-4%20Arnova%201.5.xml",
             "chagelog":"---",
             "author":" Juan/Canario",
             "versao":1.4
