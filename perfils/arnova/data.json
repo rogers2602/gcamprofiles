@@ -35,14 +35,31 @@
          },
          {
             "modelo":"Galaxy S9/Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/s9%2B%20Day%20%40NathanG0m3s.xml",
-            "chagelog":"---",
-            "author":" @NathanGom3s",
-            "versao":1.0
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Night%20S9%2B%201.4.xml",
+            "chagelog":"Update libs",
+            "author":"@NathanGom3s",
+            "versao":1.4
          }
       ],
       "changelog":"Versão final Para Mi A2/6X",
       "versao":"1.0"
+   },
+   {
+      "nome":"Super Day S9 Plus",
+      "descricao":"Este perfil é parecido com day, porém é pros dias de sol mais forte.",
+      "desc_global":"This profile is similar to day, however it is the days of strongest sun.",
+      "author":"@NathanGom3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Super%20Day%20S9%2B%201.4%20%40NathanG0m3s.xml",
+            "chagelog":"Update libs",
+            "author":"@NathanGom3s",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
    },
    {
       "nome":"Night",
@@ -80,7 +97,7 @@
          },
          {
             "modelo":"Galaxy S9/Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Night%20%40NathanG0m3s.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Night%20S9%2B%201.4.xml",
             "chagelog":"---",
             "author":" @NathanGom3s",
             "versao":1.0
@@ -147,15 +164,15 @@
    {
       "nome":"Daystroyer",
       "descricao":"Sem descrição...",
-      "desc_global":"",
+      "desc_global":"No description at moment",
       "author":"@NathanG0m3s",
       "dispo_compativeis":[
          {
             "modelo":"Galaxy S9/Plus",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Daystroyer%20%40NathanG0m3s.xml",
-            "chagelog":"---",
+            "chagelog":"Update libs",
             "author":" @NathanGom3s",
-            "versao":1.0
+            "versao":1.4
          }
       ],
       "chagelog":"---",
