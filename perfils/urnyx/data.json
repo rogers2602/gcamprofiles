@@ -100,14 +100,14 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/33de7454e45dd5f2d33f372133bf50fe07099849/files/urnyx/SG%209-4%20Urnyx05%204.4.xml",
-            "chagelog":"---",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/SG%2021-4%20Urnyx05%204.5.xml",
+            "chagelog":"Changed the HDR+E by ZSL (HDR+)",
             "author":" Juan/Canario",
-            "versao":1.4
+            "versao":1.5
          }
       ],
       "chagelog":"---",
-      "versao":"1.4"
+      "versao":"1.5"
    },
    {
       "nome":"SG - Exclusive",
@@ -117,14 +117,14 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/33de7454e45dd5f2d33f372133bf50fe07099849/files/urnyx/SG%20Exclusive%20Urnyx05%204.4.xml",
-            "chagelog":"---",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/SG%20Exclusive%20Urnyx05%204.5.xml",
+            "chagelog":"Changed the HDR+E by ZSL (HDR+)",
             "author":" Juan/Canario",
-            "versao":1.4
+            "versao":1.5
          }
       ],
       "chagelog":"---",
-      "versao":"1.4"
+      "versao":"1.5"
    },
    {
       "nome":"SG - Satured",
@@ -134,14 +134,14 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/33de7454e45dd5f2d33f372133bf50fe07099849/files/urnyx/SG%20SATURATED%209-4%20Urnyx05%204.4.xml",
-            "chagelog":"---",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/SG%20SATURATED%2021-4%20Urnyx05%204.5.xml",
+            "chagelog":"Changed the HDR+E by ZSL (HDR+)",
             "author":" Juan/Canario",
-            "versao":1.4
+            "versao":1.5
          }
       ],
       "chagelog":"---",
-      "versao":"1.4"
+      "versao":"1.5"
    },
    {
       "nome":"SG - Sports",
@@ -168,14 +168,14 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/33de7454e45dd5f2d33f372133bf50fe07099849/files/urnyx/SG%20SuperResZoom%209-4%20Urnyx05%204.4.xml",
-            "chagelog":"---",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/SG%20SuperResZoom%2021-4%20Urnyx05%204.5.xml",
+            "chagelog":"Changed the HDR+E by ZSL (HDR+)",
             "author":" Juan/Canario",
-            "versao":1.4
+            "versao":1.5
          }
       ],
       "chagelog":"---",
-      "versao":"1.4"
+      "versao":"1.5"
    },
    {
       "nome":"SG - White",
@@ -185,13 +185,13 @@
       "dispo_compativeis":[
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/33de7454e45dd5f2d33f372133bf50fe07099849/files/urnyx/SG%20WHITE%209-4%20Urnyx05%204.4.xml",
-            "chagelog":"---",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/SG%20WHITE%2021-4%20Urnyx05%204.5.xml",
+            "chagelog":"Changed the HDR+E by ZSL (HDR+)",
             "author":" Juan/Canario",
-            "versao":1.4
+            "versao":1.5
          }
       ],
       "chagelog":"---",
-      "versao":"1.4"
+      "versao":"1.5"
    }
 ]
