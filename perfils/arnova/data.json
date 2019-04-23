@@ -59,6 +59,68 @@
       "versao":"1.0"
    },
    {
+      "nome":"Daily use - Exynos",
+      "descricao":"Este perfil é para uso diário em geral, voltado para o dia.",
+      "desc_global":"This profile is for everyday use in general, geared towards the day.",
+      "author":"Chillrod",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Chillrod_arnova1.4.1_note9SD_Pie.xml",
+            "chagelog":"Initial",
+            "author":"Chillrod",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"Daily use - Snapdragon",
+      "descricao":"Este perfil é para uso diário em geral, voltado para o dia.",
+      "desc_global":"This profile is for everyday use in general, geared towards the day.",
+      "author":"d2fan, @NathanGom3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/vkboy_S9_S9Plus_Note9_Exynos.xml",
+            "chagelog":"Initial",
+            "author":"vkboy",
+            "versao":1.0
+         },
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/d2fan.xml",
+            "chagelog":"Initial",
+            "author":"d2fan",
+            "versao":1.5
+         },
+         {
+            "modelo":"Mi A2/6X",
+            "link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/arnova/Fresquinha%20xiaomis.xml",
+            "chagelog":"Initial",
+            "author":"@NathanGom3s",
+            "versao":1.0
+         },
+         {
+            "modelo":"Redmi Note 7/Pro",
+            "link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/arnova/Fresquinha%20xiaomis.xml",
+            "chagelog":"Initial",
+            "author":"@NathanGom3s",
+            "versao":1.0
+         },
+         {
+            "modelo":"Mi 8/Pro/EE",
+            "link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/arnova/Fresquinha%20xiaomis.xml",
+            "chagelog":"Initial",
+            "author":"@NathanGom3s",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
       "nome":"Super Day S9 Plus",
       "descricao":"Este perfil é parecido com day, porém é pros dias de sol mais forte.",
       "desc_global":"This profile is similar to day, however it is the days of strongest sun.",
