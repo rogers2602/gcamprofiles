@@ -93,6 +93,23 @@
       "versao":"---"
    },
    {
+      "nome":"GlobalConfig",
+      "descricao":"Configurações globais para mais informações acesse veja o changelog",
+      "desc_global":"Global settings for more information go to see the changelog",
+      "author":"@srmarcos",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/GlobalConfig%20%40srmarcos.xml",
+            "chagelog":"Enabled color correction HDR + \nGrade 3x3\nHDR + 20 frames\n\nSuper zoom off\nOff Google photos gallery\nEnabled photo on Raw\nRaw Compression Off\nAuto exposure 1/10 Shuttle\nOff HDR enhancing for portrait mode\nLibs Stock Google\nDenoise Paramentos by Richard\nSaturation Paramentos by Richard",
+            "author":"@srmarcos",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"",
+      "versao":"1.0"
+   },
+   {
       "nome":"SG",
       "descricao":"Qualquer condição, cores reais.",
       "desc_global":"Any condition, real colors.",
