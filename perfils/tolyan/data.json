@@ -1,0 +1,36 @@
+[
+   {
+      "nome":"Day",
+      "descricao":"",
+      "desc_global":"",
+      "author":"Vitor",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/tolyan/VTR-Tolyan-1.4a-Day.xml",
+            "chagelog":"Initial",
+            "author":"Vitor - @Geovitito",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.4"
+   },
+   {
+      "nome":"Night",
+      "descricao":"",
+      "desc_global":"",
+      "author":"Vitor",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/tolyan/VTR-Tolyan-1.4a-Night.xml",
+            "chagelog":"Initial",
+            "author":"Vitor - @Geovitito",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.4"
+   }
+]
