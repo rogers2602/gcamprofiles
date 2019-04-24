@@ -1,8 +1,8 @@
 [
    {
       "nome":"Day",
-      "descricao":"",
-      "desc_global":"",
+      "descricao":"Recomendável para ambientes bem iluminados, como ambientes externos, podendo ser até mesmo com o céu de fundo (nesse caso, exponha corretamente o ponto focal).",
+      "desc_global":"Recommended for well-lit environments, such as outdoor environments, even with the background sky (in this case, correctly expose the focal point).",
       "author":"Vitor",
       "dispo_compativeis":[
          {
@@ -18,8 +18,8 @@
    },
    {
       "nome":"Night",
-      "descricao":"",
-      "desc_global":"",
+      "descricao":"Recomendável para ambientes com iluminação artificial baixa, ambientes externos com pouca iluminação. O obturador ficará mais tempo aberto, então não serve para fotos com movimento.",
+      "desc_global":"Recommended for environments with low artificial lighting, outdoor environments with low illumination.The shutter will stay open longer, so it will not fit for motion pictures.",
       "author":"Vitor",
       "dispo_compativeis":[
          {
