@@ -1,37 +1,9 @@
 [
    {
       "nomegcam":"!!! Update !!!",
-      "descricao":"Atualize o aplicativo, em breve essa versão irá parar de funcionar 21/04/2019.",
-      "desc_global":"Update the application, this version will stop working soon 04/21/2019.",
+      "descricao":"Atualize essa versão está obsoleta.",
+      "desc_global":"Update this version is deprecated",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/attention.png",
       "url":""
-   },
-   {
-      "nomegcam":"Google Camera - Arnova",
-      "descricao":"Perfis de camera para Google Camera do Desenvolvedor Arnova.",
-      "desc_global":"Camera Profiles for Google Camera from Arnova Developer.",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_arnova.png",
-      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/arnova/data.json"
-   },
-   {
-      "nomegcam":"Google Camera - Urnyx",
-      "descricao":"Perfis de camera para Google Camera do Desenvolvedor Urnyx.",
-      "desc_global":"Camera Profiles for Google Camera from Urnyx Developer.",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_urnyx.png",
-      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/urnyx/data.json"
-   },
-   {
-      "nomegcam":"Google Camera - Xcam",
-      "descricao":"Perfis de camera para Google Camera do Desenvolvedor Xtrme",
-      "desc_global":"Camera Profiles for Google Camera from Xtrme Developer.",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_xcam.png",
-      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/xcam/data.json"
-   },
-  {
-      "nomegcam":"Google Camera - Sanity",
-      "descricao":"Perfis de camera para Google Camera/Ports do Desenvolvedor Sanity",
-      "desc_global":"Camera Profiles for Google Camera/Ports from Sanity Developer.",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_sanity.png",
-      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/sanity/data.json"
    }
 ]
