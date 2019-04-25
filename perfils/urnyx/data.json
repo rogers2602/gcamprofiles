@@ -100,14 +100,14 @@
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/urnyx/GlobalConfig%20%40srmarcos.xml",
-            "chagelog":"Enabled color correction HDR + \nGrade 3x3\nHDR + 20 frames\n\nSuper zoom off\nOff Google photos gallery\nEnabled photo on Raw\nRaw Compression Off\nAuto exposure 1/10 Shuttle\nOff HDR enhancing for portrait mode\nLibs Stock Google\nDenoise Paramentos by Richard\nSaturation Paramentos by Richard",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Global%20Config%20V1.1.xml",
+            "chagelog":"Shuttle 1/12 HDR Enhanced\nShuttle 1/2 Night Mode - Sticks firmly, you can do with your hand\nColor correction pixel 3 Off\nSaturation set up\nLibs Google Stock\nHDR 20 frames - Better dynamic range\nSuper zoom off\nHDR enhancing for portrait mode\nNoise noise reduction Shuttle lag - will use more exposure and less iso \nFixed memory 1680MB\nAnti banding mode enabled\nRaw enabled\nBitrate 80mbps\nFHD video Eis of",
             "author":"@srmarcos",
-            "versao":1.0
+            "versao":1.1
          }
       ],
       "chagelog":"",
-      "versao":"1.0"
+      "versao":"1.1"
    },
    {
       "nome":"SG",
