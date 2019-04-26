@@ -1,0 +1,111 @@
+[
+   {
+      "nome":"Max Quality AWB-Off",
+      "descricao":"Sem descrição",
+      "desc_global":"No description",
+      "author":"Community",
+      "dispo_compativeis":[
+         {
+            "modelo":"Mi 6",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Max%20Quality%20AWB-Off.xml",
+            "chagelog":"---",
+            "author":"Unknown",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Max Quality AWB-On",
+      "descricao":"Sem descrição",
+      "desc_global":"No description",
+      "author":"Community",
+      "dispo_compativeis":[
+         {
+            "modelo":"Mi 6",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Max%20Quality%20AWB-On.xml",
+            "chagelog":"---",
+            "author":"Unknown",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Pit_Z.s.L(Pixel_2XL/Mi 6)",
+      "descricao":"Sem descrição",
+      "desc_global":"No description",
+      "author":"Community",
+      "dispo_compativeis":[
+         {
+            "modelo":"Mi 6",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Pit_Z.s.L(Pixel_2XL).xml",
+            "chagelog":"---",
+            "author":"Unknown",
+            "versao":1.0
+         },
+         {
+            "modelo":"Pixel 2/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Pit_Z.s.L(Pixel_2XL).xml",
+            "chagelog":"---",
+            "author":"Unknown",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
+      "nome":"S8 Exynos",
+      "descricao":"Sem descrição",
+      "desc_global":"No description",
+      "author":"Community",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy S8/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/S8_Exy_190419.xml",
+            "chagelog":"---",
+            "author":"Unknown",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
+      "nome":"ZSL AWB-Off",
+      "descricao":"Sem descrição",
+      "desc_global":"No description",
+      "author":"Community",
+      "dispo_compativeis":[
+         {
+            "modelo":"Mi 6",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/ZSL%20AWB-Off.xml",
+            "chagelog":"---",
+            "author":"Unknown",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
+      "nome":"ZSL AWB-On",
+      "descricao":"Sem descrição",
+      "desc_global":"No description",
+      "author":"Community",
+      "dispo_compativeis":[
+         {
+            "modelo":"Mi 6",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/ZSL%20AWB-On.xml",
+            "chagelog":"---",
+            "author":"Unknown",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   }
+]
