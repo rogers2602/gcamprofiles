@@ -1,12 +1,5 @@
 [
    {
-      "nomegcam":"Telegram Group",
-      "descricao":"Acesse a aba changes para mais informações",
-      "desc_global":"Visit the changes tab for more information",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/group.png",
-      "url":"null"
-   },
-   {
       "nomegcam":"Arnova ",
       "descricao":"Perfis de camera para Google Camera do Desenvolvedor Arnova.",
       "desc_global":"Camera Profiles for Google Camera from Arnova Developer.",
@@ -28,6 +21,13 @@
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/tolyan/data.json"
    },
    {
+      "nomegcam":"Uncategorized",
+      "descricao":"Perfis de alguns modelos de celular não categorizados nem autor nem gcam, esses é só testantando.",
+      "desc_global":"Profiles of some mobile phone models not categorized neither author nor gcam, these are just testing.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/uncategorized.png",
+      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/uncategorized/data.json"
+   },
+   {
       "nomegcam":"Urnyx",
       "descricao":"Perfis de camera para Google Camera do Desenvolvedor Urnyx.",
       "desc_global":"Camera Profiles for Google Camera from Urnyx Developer.",
@@ -40,5 +40,5 @@
       "desc_global":"Camera Profiles for Google Camera from Xtrme Developer.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_xcam.png",
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/xcam/data.json"
-   }  
+   }
 ]
