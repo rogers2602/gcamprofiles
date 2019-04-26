@@ -1,51 +1,58 @@
 [
-   {
-      "title":"Novos profiles!",
-      "title_global":"New profiles!",
-      "data":"23-04-2019 - 20:19.",
-      "descricao":"Nova sessão Tolyan, profiles global na sessão Urnyx atualizado.",
-      "desc_global":"New session Tolyan, global profiles in the Urnyx session updated."
-   },
-   {
-      "title":"Novos profiles!",
-      "title_global":"New profiles!",
-      "data":"23-04-2019 - 20:19.",
-      "descricao":"Novos profiles<br> - Arnova - Daily Use Exynos/Snapdragon:<br>Galaxy S9/Plus/Galaxy Note 9 - Mi A2/6X, Redmi Note 7/Pro, Mi 8/Pro/EE<font color='#ab000d'>New!</font><br>- Global Profiles - Urnyx:<br>MI A2/6X<font color='#ab000d'>New!</font>",
-      "desc_global":"New profiles <br> - Arnova - Daily Use Exynos/Snapdragon:<br> Galaxy S9/Plus/Galaxy Note 9 - MI A2/6X, Redmi Note 7/Pro, MI 8/Pro/EE <font color='#ab000d'>New!</Font><br>- Global Profiles - Urnyx:<br>MI A2/6X<font color='#ab000d'>New!</Font>"
-   },
-   {
-      "title":"Grupo no Telegram",
-      "title_global":"Telgram Group",
-      "data":"21-04-2019 - 23:58.",
-      "descricao":"Seguindo a segustões foi criado um grupo no telegram para compartilhamento de profiles em geral, para pessoas de todo o mundo <br>Abaixo está o link para o grupo<br><br>https://t.me/gcam_profiles ou @gcam_profiles",
-      "desc_global":"Following the assumptions was created a group in the telegram for sharing profiles in general, for people from all over the world <br> Below is the link to the group<br><br>https://t.me/gcam_profiles or @gcam_profiles"
-   },
-   {
-      "title":"Profiles SG Atualizados!",
-      "title_global":"Profiles SG Updated!",
-      "data":"21-04-2019 - 23:54.",
-      "descricao":"Foram atualizados os perfis SG, Exclusive, Satured, SuperResZoom e White <br> As mudanças foram (Changed the HDR+E by ZSL (HDR+)).",
-      "desc_global":"SG, Exclusive, Saturated, Super Zoom and White profiles were updated. The changes were (Changed the HDR + E by ZSL (HDR +))."
-   },
-   {
-      "title":"Novos profiles adicionados!",
-      "title_global":"New profiles added!",
-      "data":"20-04-2019 - 01:40.",
-      "descricao":"Novos perfis adicionados:<br>Day para Redmi Note 6 - <font color='#ab000d'>New!</font><br>Day/Night Lenovo K6 Plus - <font color='#ab000d'>New!</font><br>Na sessão Arnova todos os perfis (SGS) foram atualizados<br> Perfis do Galaxy s9 atualizados<br>Day Daystroyer <font color='#ab000d'>Update!</font><br>Nigh - <font color='#ab000d'>Update!</font><br>Super Day - <font color='#ab000d'>New!</font><br>",
-      "desc_global":"New profiles added: <br> Day for Redmi Note 6 - <font color ='#ab000d'> New! </font><br>Day/Night Lenovo K6 Plus - <font color ='#ab000d'>New!</font><br> In the Arnova session all profiles (SGS) were updated <br> Galaxy s9 profiles updated <br>Day Daystroyer <font color='#ab000d'>Update!</font><br> Nigh - <font color='#ab000d'>Update!</font><br>Super Day - <font color='#ab000d'>New!</font> <br>"
-   },
-   {
-      "title":"Pequenos erros corrigidos.",
-      "title_global":"Small bugs fixed",
-      "data":"19-04-2019 - 16:30.",
-      "descricao":"Correção de cor de texto nos itens marca e modelo.<br>Correção de permissões de arquivos<br>Adicionado emoticon de no files<br>Fixado a identificação de arquivos na listagem de profiles<br>Corrigido erros de segurança<br>Adicionado sessão sobre, devido créditos<br>Adicionado link Gcam Brasil Downloads<br>Melhorias no geral.<br>",
-      "desc_global":" Text color correction on the make and model items<br>Fixing file permissions<br>Added emoticon of no files<br>Fixed the identification of files in the profile listing<br>Fixed security errors<br>Added session on, due credits<br>Added Link Gcam Brasil Downloads<br>Overall improvements.<br>"
-   },
-   {
-      "title":"Correções e Novo Layout",
-      "title_global":"Fixes and New Layout",
-      "data":"17-04-2019 - 00:53.",
-      "descricao":"Agora é possível visualizar todos os arquivos da pasta configs<br>Novo Layout<p>Nova sessão changes.<br>Novos profiles adicionados:<p>SG na sessão Xcam e Urnixy para One Plus 6/T <br>Adicionado perfil para Moto G5 Plus Jap na sessão Arnova.",
-      "desc_global":"You can now view all the files in the configs folder <br>New Layout <p>New session changes. <br>New profiles added:<br>SG in Xcam session and Urnixy for One Plus 6/T <br>Added profile for Moto G5 Plus Jap in Arnova session. "
-   }
+	{
+		"title":"Nova categoria e modelos!",
+		"title_global":"New category and models!",
+		"data":"26-04-2019 - 16:50.",
+		"descricao":"Novos modelos adicionados Xiaomi Mi 6, Pixel 2xl e S8 Exynos, esse profiles foram adicionados na sessão Não categorizado.",
+		"desc_global":"New models added Xiaomi Mi 6, Pixel 2xl and S8 Exynos, these profiles were added in the session Not categorized."
+	},
+	{
+		"title":"Novos profiles!",
+		"title_global":"New profiles!",
+		"data":"25-04-2019 - 18:36.",
+		"descricao":"Nova sessão Tolyan, profiles global na sessão Urnyx atualizado.",
+		"desc_global":"New session Tolyan, global profiles in the Urnyx session updated."
+	},
+	{
+		"title":"Novos profiles!",
+		"title_global":"New profiles!",
+		"data":"23-04-2019 - 20:19.",
+		"descricao":"Novos profiles<br> - Arnova - Daily Use Exynos/Snapdragon:<br>Galaxy S9/Plus/Galaxy Note 9 - Mi A2/6X, Redmi Note 7/Pro, Mi 8/Pro/EE<font color='#ab000d'>New!</font><br>- Global Profiles - Urnyx:<br>MI A2/6X<font color='#ab000d'>New!</font>",
+		"desc_global":"New profiles <br> - Arnova - Daily Use Exynos/Snapdragon:<br> Galaxy S9/Plus/Galaxy Note 9 - MI A2/6X, Redmi Note 7/Pro, MI 8/Pro/EE <font color='#ab000d'>New!</Font><br>- Global Profiles - Urnyx:<br>MI A2/6X<font color='#ab000d'>New!</Font>"
+	},
+	{
+		"title":"Grupo no Telegram",
+		"title_global":"Telgram Group",
+		"data":"21-04-2019 - 23:58.",
+		"descricao":"Seguindo a segustões foi criado um grupo no telegram para compartilhamento de profiles em geral, para pessoas de todo o mundo <br>Abaixo está o link para o grupo<br><br>https://t.me/gcam_profiles ou @gcam_profiles",
+		"desc_global":"Following the assumptions was created a group in the telegram for sharing profiles in general, for people from all over the world <br> Below is the link to the group<br><br>https://t.me/gcam_profiles or @gcam_profiles"
+	},
+	{
+		"title":"Profiles SG Atualizados!",
+		"title_global":"Profiles SG Updated!",
+		"data":"21-04-2019 - 23:54.",
+		"descricao":"Foram atualizados os perfis SG, Exclusive, Satured, SuperResZoom e White <br> As mudanças foram (Changed the HDR+E by ZSL (HDR+)).",
+		"desc_global":"SG, Exclusive, Saturated, Super Zoom and White profiles were updated. The changes were (Changed the HDR + E by ZSL (HDR +))."
+	},
+	{
+		"title":"Novos profiles adicionados!",
+		"title_global":"New profiles added!",
+		"data":"20-04-2019 - 01:40.",
+		"descricao":"Novos perfis adicionados:<br>Day para Redmi Note 6 - <font color='#ab000d'>New!</font><br>Day/Night Lenovo K6 Plus - <font color='#ab000d'>New!</font><br>Na sessão Arnova todos os perfis (SGS) foram atualizados<br> Perfis do Galaxy s9 atualizados<br>Day Daystroyer <font color='#ab000d'>Update!</font><br>Nigh - <font color='#ab000d'>Update!</font><br>Super Day - <font color='#ab000d'>New!</font><br>",
+		"desc_global":"New profiles added: <br> Day for Redmi Note 6 - <font color ='#ab000d'> New! </font><br>Day/Night Lenovo K6 Plus - <font color ='#ab000d'>New!</font><br> In the Arnova session all profiles (SGS) were updated <br> Galaxy s9 profiles updated <br>Day Daystroyer <font color='#ab000d'>Update!</font><br> Nigh - <font color='#ab000d'>Update!</font><br>Super Day - <font color='#ab000d'>New!</font> <br>"
+	},
+	{
+		"title":"Pequenos erros corrigidos.",
+		"title_global":"Small bugs fixed",
+		"data":"19-04-2019 - 16:30.",
+		"descricao":"Correção de cor de texto nos itens marca e modelo.<br>Correção de permissões de arquivos<br>Adicionado emoticon de no files<br>Fixado a identificação de arquivos na listagem de profiles<br>Corrigido erros de segurança<br>Adicionado sessão sobre, devido créditos<br>Adicionado link Gcam Brasil Downloads<br>Melhorias no geral.<br>",
+		"desc_global":" Text color correction on the make and model items<br>Fixing file permissions<br>Added emoticon of no files<br>Fixed the identification of files in the profile listing<br>Fixed security errors<br>Added session on, due credits<br>Added Link Gcam Brasil Downloads<br>Overall improvements.<br>"
+	},
+	{
+		"title":"Correções e Novo Layout",
+		"title_global":"Fixes and New Layout",
+		"data":"17-04-2019 - 00:53.",
+		"descricao":"Agora é possível visualizar todos os arquivos da pasta configs<br>Novo Layout<p>Nova sessão changes.<br>Novos profiles adicionados:<p>SG na sessão Xcam e Urnixy para One Plus 6/T <br>Adicionado perfil para Moto G5 Plus Jap na sessão Arnova.",
+		"desc_global":"You can now view all the files in the configs folder <br>New Layout <p>New session changes. <br>New profiles added:<br>SG in Xcam session and Urnixy for One Plus 6/T <br>Added profile for Moto G5 Plus Jap in Arnova session. "
+	}
 ]
