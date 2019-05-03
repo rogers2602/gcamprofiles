@@ -145,6 +145,23 @@
       "versao":"1.4"
    },
    {
+      "nome":"Iron HRT 9",
+      "descricao":"Trabalhando Gcam para Violet, black_small_square: Trabalhando Night Sight, black_small_square: Como importar/exportar arquivo de configuração",
+      "desc_global":"Working Gcam for Violet, black_small_square: Working Night Sight, black_small_square: Portraits are working fine too, black_small_square: How to import/export config file",
+      "author":"Boxer198615",
+      "dispo_compativeis":[
+         {
+            "modelo":"Redmi Note 7/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/RN7P-IronHrt-9.xml",
+            "chagelog":"---",
+            "author":"Boxer198615",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
       "nome":"Night",
       "descricao":"Uso noturno. Disparador um pouco mais lento, porém ainda rápido o bastante pra tirar fotos com amigos ou pessoas em um bar sem muito esforço ou necessidade de se manter imóvel por muito tempo. Disparador 1/20, supressão de ruído adequado ao disparador. Lib Xlib2 e tudo que temos no perfil D. 15 frames ",
       "desc_global":"Night usage. Slightly slower shoot, but still fast enough to take pictures with friends or people with no effort or the need to be still for a long time. Shutter 1/20. Noise suppression changed to fit the shutter. Xlib2 lib and everything we have in profile D. 15 frames.",
