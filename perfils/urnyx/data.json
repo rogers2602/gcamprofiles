@@ -62,6 +62,23 @@
       "versao":"---"
    },
    {
+      "nome":"Redmi_n6pro",
+      "descricao":"Nome original Tulip@Coga89SpecialThanksToUrnyx05.xml sem descrição",
+      "desc_global":"Original name Tulip@Coga89SpecialThanksToUrnyx05.xml no description",
+      "author":"Tulip@Coga89",
+      "dispo_compativeis":[
+         {
+            "modelo":"Redmi Note 6/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Tulip%40Coga89SpecialThanksToUrnyx05.xml",
+            "chagelog":"---",
+            "author":"Tulip@Coga89",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
       "nome":"Sharpen",
       "descricao":"Uso em ambas situações dia e noite. Disparador 1/8 ideal pra paisagens diurnas e noturnas. Retratos corre o risco de borrar. Cancelamento de ruído e SuperZoom ativados. Xlib2 15 frames",
       "desc_global":"Use in both situations day and night. 1/8 trigger ideal for daytime and nighttime landscapes. Portraits risks erasing. Noise cancellation and SuperZoom enabled. Xlib2 15 frames.",
