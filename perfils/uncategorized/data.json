@@ -1,5 +1,22 @@
 [
    {
+      "nome":"Arnova g1.3",
+      "descricao":"Sem descrição",
+      "desc_global":"No description",
+      "author":"Community",
+      "dispo_compativeis":[
+         {
+            "modelo":"Redmi Note 6/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/arnovag1.3.xml",
+            "chagelog":"---",
+            "author":"Unknown",
+            "versao":1.3
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
       "nome":"Max Quality AWB-Off",
       "descricao":"Sem descrição",
       "desc_global":"No description",
