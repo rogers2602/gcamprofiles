@@ -1,5 +1,12 @@
 [
 	{
+		"title":"Novos Profiles",
+		"title_global":"New profiles",
+		"data":"10-05-2019 - 10:20.",
+		"descricao":"Novos perfis adicionados para Moto X4, Z2 Plus e Nokia 7 Plus na sessão não categorizada.\nAdicionado anteriormente, Tourão rápido, para mi a2 e 6x.",
+		"desc_global":"New profiles added for Moto X4, Z2 Plus and Nokia 7 Plus in uncategorized session.\nPreviously added, Fast Touring, for my a2 and 6x."
+	},
+	{
 		"title":"Novo perfil RN7 PRO",
 		"title_global":"New profile RN7 PRO",
 		"data":"03-05-2019 - 10:40.",
@@ -54,19 +61,5 @@
 		"data":"20-04-2019 - 01:40.",
 		"descricao":"Novos perfis adicionados:<br>Day para Redmi Note 6 - <font color='#ab000d'>New!</font><br>Day/Night Lenovo K6 Plus - <font color='#ab000d'>New!</font><br>Na sessão Arnova todos os perfis (SGS) foram atualizados<br> Perfis do Galaxy s9 atualizados<br>Day Daystroyer <font color='#ab000d'>Update!</font><br>Nigh - <font color='#ab000d'>Update!</font><br>Super Day - <font color='#ab000d'>New!</font><br>",
 		"desc_global":"New profiles added: <br> Day for Redmi Note 6 - <font color ='#ab000d'> New! </font><br>Day/Night Lenovo K6 Plus - <font color ='#ab000d'>New!</font><br> In the Arnova session all profiles (SGS) were updated <br> Galaxy s9 profiles updated <br>Day Daystroyer <font color='#ab000d'>Update!</font><br> Nigh - <font color='#ab000d'>Update!</font><br>Super Day - <font color='#ab000d'>New!</font> <br>"
-	},
-	{
-		"title":"Pequenos erros corrigidos.",
-		"title_global":"Small bugs fixed",
-		"data":"19-04-2019 - 16:30.",
-		"descricao":"Correção de cor de texto nos itens marca e modelo.<br>Correção de permissões de arquivos<br>Adicionado emoticon de no files<br>Fixado a identificação de arquivos na listagem de profiles<br>Corrigido erros de segurança<br>Adicionado sessão sobre, devido créditos<br>Adicionado link Gcam Brasil Downloads<br>Melhorias no geral.<br>",
-		"desc_global":" Text color correction on the make and model items<br>Fixing file permissions<br>Added emoticon of no files<br>Fixed the identification of files in the profile listing<br>Fixed security errors<br>Added session on, due credits<br>Added Link Gcam Brasil Downloads<br>Overall improvements.<br>"
-	},
-	{
-		"title":"Correções e Novo Layout",
-		"title_global":"Fixes and New Layout",
-		"data":"17-04-2019 - 00:53.",
-		"descricao":"Agora é possível visualizar todos os arquivos da pasta configs<br>Novo Layout<p>Nova sessão changes.<br>Novos profiles adicionados:<p>SG na sessão Xcam e Urnixy para One Plus 6/T <br>Adicionado perfil para Moto G5 Plus Jap na sessão Arnova.",
-		"desc_global":"You can now view all the files in the configs folder <br>New Layout <p>New session changes. <br>New profiles added:<br>SG in Xcam session and Urnixy for One Plus 6/T <br>Added profile for Moto G5 Plus Jap in Arnova session. "
 	}
 ]
