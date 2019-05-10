@@ -1,128 +1,179 @@
 [
-   {
-      "nome":"Arnova g1.3",
-      "descricao":"Sem descrição",
-      "desc_global":"No description",
-      "author":"Community",
-      "dispo_compativeis":[
-         {
-            "modelo":"Redmi Note 6/Pro",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/arnovag1.3.xml",
-            "chagelog":"---",
-            "author":"Unknown",
-            "versao":1.3
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.0"
-   },
-   {
-      "nome":"Max Quality AWB-Off",
-      "descricao":"Sem descrição",
-      "desc_global":"No description",
-      "author":"Community",
-      "dispo_compativeis":[
-         {
-            "modelo":"Mi 6",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Max%20Quality%20AWB-Off.xml",
-            "chagelog":"---",
-            "author":"Unknown",
-            "versao":1.0
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.0"
-   },
-   {
-      "nome":"Max Quality AWB-On",
-      "descricao":"Sem descrição",
-      "desc_global":"No description",
-      "author":"Community",
-      "dispo_compativeis":[
-         {
-            "modelo":"Mi 6",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Max%20Quality%20AWB-On.xml",
-            "chagelog":"---",
-            "author":"Unknown",
-            "versao":1.0
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.0"
-   },
-   {
-      "nome":"Pit_Z.s.L(Pixel_2XL/Mi 6)",
-      "descricao":"Sem descrição",
-      "desc_global":"No description",
-      "author":"Community",
-      "dispo_compativeis":[
-         {
-            "modelo":"Mi 6",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Pit_Z.s.L(Pixel_2XL).xml",
-            "chagelog":"---",
-            "author":"Unknown",
-            "versao":1.0
-         },
-         {
-            "modelo":"Pixel 2/XL",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Pit_Z.s.L(Pixel_2XL).xml",
-            "chagelog":"---",
-            "author":"Unknown",
-            "versao":1.0
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.0"
-   },
-   {
-      "nome":"S8 Exynos",
-      "descricao":"Sem descrição",
-      "desc_global":"No description",
-      "author":"Community",
-      "dispo_compativeis":[
-         {
-            "modelo":"Galaxy S8/Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/S8_Exy_190419.xml",
-            "chagelog":"---",
-            "author":"Unknown",
-            "versao":1.0
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.0"
-   },
-   {
-      "nome":"ZSL AWB-Off",
-      "descricao":"Sem descrição",
-      "desc_global":"No description",
-      "author":"Community",
-      "dispo_compativeis":[
-         {
-            "modelo":"Mi 6",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/ZSL%20AWB-Off.xml",
-            "chagelog":"---",
-            "author":"Unknown",
-            "versao":1.0
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.0"
-   },
-   {
-      "nome":"ZSL AWB-On",
-      "descricao":"Sem descrição",
-      "desc_global":"No description",
-      "author":"Community",
-      "dispo_compativeis":[
-         {
-            "modelo":"Mi 6",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/ZSL%20AWB-On.xml",
-            "chagelog":"---",
-            "author":"Unknown",
-            "versao":1.0
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.0"
-   }
+	{
+		"nome":"Arnova g1.3",
+		"descricao":"Sem descrição",
+		"desc_global":"No description",
+		"author":"Community",
+		"dispo_compativeis":[
+			{
+				"modelo":"Redmi Note 6/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/arnovag1.3.xml",
+				"chagelog":"---",
+				"author":"Unknown",
+				"versao":1.3
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
+	},
+	{
+		"nome":"Max Quality AWB-Off",
+		"descricao":"Sem descrição",
+		"desc_global":"No description",
+		"author":"Community",
+		"dispo_compativeis":[
+			{
+				"modelo":"Mi 6",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Max%20Quality%20AWB-Off.xml",
+				"chagelog":"---",
+				"author":"Unknown",
+				"versao":1.0
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
+	},
+	{
+		"nome":"Nokia 7 Plus",
+		"descricao":"Melhoria na qualidade das fotos",
+		"desc_global":"Improve photo quality",
+		"author":"Community",
+		"dispo_compativeis":[
+			{
+				"modelo":"X4",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Moto_X4.xml",
+				"chagelog":"---",
+				"author":"Unknown",
+				"versao":1.0
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
+	},
+	{
+		"nome":"Max Quality AWB-On",
+		"descricao":"Sem descrição",
+		"desc_global":"No description",
+		"author":"Community",
+		"dispo_compativeis":[
+			{
+				"modelo":"Mi 6",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Max%20Quality%20AWB-On.xml",
+				"chagelog":"---",
+				"author":"Unknown",
+				"versao":1.0
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
+	},
+	{
+		"nome":"Nokia 7 Plus",
+		"descricao":"Melhoria na qualidade das fotos",
+		"desc_global":"Improve photo quality",
+		"author":"Community",
+		"dispo_compativeis":[
+			{
+				"modelo":"Nokia 7 Plus",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Nokia_7_Plus.xml",
+				"chagelog":"---",
+				"author":"Unknown",
+				"versao":1.0
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
+	},
+	{
+		"nome":"Pit_Z.s.L(Pixel_2XL/Mi 6)",
+		"descricao":"Sem descrição",
+		"desc_global":"No description",
+		"author":"Community",
+		"dispo_compativeis":[
+			{
+				"modelo":"Mi 6",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Pit_Z.s.L(Pixel_2XL).xml",
+				"chagelog":"---",
+				"author":"Unknown",
+				"versao":1.0
+			},
+			{
+				"modelo":"Pixel 2/XL",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Pit_Z.s.L(Pixel_2XL).xml",
+				"chagelog":"---",
+				"author":"Unknown",
+				"versao":1.0
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
+	},
+	{
+		"nome":"S8 Exynos",
+		"descricao":"Sem descrição",
+		"desc_global":"No description",
+		"author":"Community",
+		"dispo_compativeis":[
+			{
+				"modelo":"Galaxy S8/Plus",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/S8_Exy_190419.xml",
+				"chagelog":"---",
+				"author":"Unknown",
+				"versao":1.0
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
+	},
+	{
+		"nome":"ZSL AWB-Off",
+		"descricao":"Sem descrição",
+		"desc_global":"No description",
+		"author":"Community",
+		"dispo_compativeis":[
+			{
+				"modelo":"Mi 6",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/ZSL%20AWB-Off.xml",
+				"chagelog":"---",
+				"author":"Unknown",
+				"versao":1.0
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
+	},
+	{
+		"nome":"ZSL AWB-On",
+		"descricao":"Sem descrição",
+		"desc_global":"No description",
+		"author":"Community",
+		"dispo_compativeis":[
+			{
+				"modelo":"Mi 6",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/ZSL%20AWB-On.xml",
+				"chagelog":"---",
+				"author":"Unknown",
+				"versao":1.0
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
+	},
+	{
+		"nome":"Zuk Z2 Plus",
+		"descricao":"Melhoria na qualidade das fotos (Tolyan)",
+		"desc_global":"Improve photo quality (Tolyan)",
+		"author":"Community",
+		"dispo_compativeis":[
+			{
+				"modelo":"ZUK Z2 Plus",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/z2_plus%20tolyan%20gcam%20config.xml",
+				"chagelog":"---",
+				"author":"Unknown",
+				"versao":1.0
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
+	}
 ]
