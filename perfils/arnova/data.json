@@ -128,23 +128,6 @@
       "versao":"1.4"
    },
    {
-      "nome":"Super Day S9 Plus",
-      "descricao":"Este perfil é parecido com day, porém é pros dias de sol mais forte.",
-      "desc_global":"This profile is similar to day, however it is the days of strongest sun.",
-      "author":"@NathanGom3s",
-      "dispo_compativeis":[
-         {
-            "modelo":"Galaxy S9/Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Super%20Day%20S9%2B%201.4%20%40NathanG0m3s.xml",
-            "chagelog":"Update libs",
-            "author":"@NathanGom3s",
-            "versao":1.4
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.4"
-   },
-   {
       "nome":"Iron HRT 9",
       "descricao":"Trabalhando Gcam para Violet, black_small_square: Trabalhando Night Sight, black_small_square: Como importar/exportar arquivo de configuração",
       "desc_global":"Working Gcam for Violet, black_small_square: Working Night Sight, black_small_square: Portraits are working fine too, black_small_square: How to import/export config file",
@@ -214,6 +197,47 @@
       "versao":"1.0"
    },
    {
+      "nome":"Portrait",
+      "descricao":"Metering mode focado em retratos\nSaturação mais real possível.\nDisparador 1/33 ótimo para fotos diurnas",
+      "desc_global":"Metering mode focused on portraits \nSaturation as real as possible. \nDriver 1/33 great for daytime photos",
+      "author":"@NathanG0m3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20NathanG0m3s.xml",
+            "chagelog":"No changelog",
+            "author":"@NathanG0m3s",
+            "versao":1.5
+         },
+          {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20NathanG0m3s.xml",
+            "chagelog":"No changelog",
+            "author":"@NathanG0m3s",
+            "versao":1.5
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.5"
+   },
+   {
+      "nome":"Super Day S9 Plus",
+      "descricao":"Este perfil é parecido com day, porém é pros dias de sol mais forte.",
+      "desc_global":"This profile is similar to day, however it is the days of strongest sun.",
+      "author":"@NathanGom3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Super%20Day%20S9%2B%201.4%20%40NathanG0m3s.xml",
+            "chagelog":"Update libs",
+            "author":"@NathanGom3s",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
       "nome":"Sharpen",
       "descricao":"Uso em ambas situações dia e noite. Disparador 1/8 ideal pra paisagens diurnas e noturnas. Retratos corre o risco de borrar. Cancelamento de ruído e SuperZoom ativados. Xlib2 15 frames",
       "desc_global":"Use in both situations day and night. 1/8 shutter ideal for daytime and nighttime landscapes. Portraits risks erasing. Noise cancellation and SuperZoom enabled. Xlib2 15 frames.",
@@ -254,7 +278,7 @@
    {
       "nome":"SharpN Quick",
       "descricao":"Nítida com disparo rápido, boa pra macros.",
-      "desc_global":"",
+      "desc_global":"Sharp with fast firing, good for macros.",
       "author":"Enzo",
       "dispo_compativeis":[
          {
