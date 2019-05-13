@@ -126,10 +126,10 @@
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Xcam6%20tour%C3%A3o%20r%C3%A1pido.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Xcam-MiA2-6X-Tour%C3%A3o-Fast-V2.xml",
             "chagelog":"---",
             "author":"Vitor",
-            "versao":1.0
+            "versao":2.0
          },
          {
             "modelo":"Mi 8/Pro/EE",
@@ -154,6 +154,13 @@
             "chagelog":"---",
             "author":"Vitor",
             "versao":4.0
+         },
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Xcam-MiA2-6X-Tour%C3%A3o-Medio-V4.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":4.0
          }
       ],
       "chagelog":"---",
@@ -171,7 +178,15 @@
             "chagelog":"---",
             "author":"Vitor",
             "versao":2.0
+         },
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Xcam-MiA2-6X-Tour%C3%A3o-Night-V2.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":2.0
          }
+         
       ],
       "chagelog":"---",
       "versao":"2.0"
