@@ -145,6 +145,40 @@
       "versao":"1.0"
    },
    {
+      "nome":"Daystroyer",
+      "descricao":"Sem descrição...",
+      "desc_global":"No description at moment",
+      "author":"@NathanG0m3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Daystroyer%20%40NathanG0m3s.xml",
+            "chagelog":"Update libs",
+            "author":" @NathanGom3s",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Jap Moto G",
+      "descricao":"Perfil para uso geral, e remoção de manchas roxas.",
+      "desc_global":"Profile for general use, and removal of purple spots.",
+      "author":"Juan Antonio",
+      "dispo_compativeis":[
+         {
+            "modelo":"G5 Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/jap.xml",
+            "chagelog":"---",
+            "author":" Juan Antonio",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.0"
+   },
+   {
       "nome":"Night",
       "descricao":"Uso noturno. Disparador um pouco mais lento, porém ainda rápido o bastante pra tirar fotos com amigos ou pessoas em um bar sem muito esforço ou necessidade de se manter imóvel por muito tempo. Disparador 1/20, supressão de ruído adequado ao disparador. Lib Xlib2 e tudo que temos no perfil D. 15 frames ",
       "desc_global":"Night usage. Slightly slower shoot, but still fast enough to take pictures with friends or people with no effort or the need to be still for a long time. Shutter 1/20. Noise suppression changed to fit the shutter. Xlib2 lib and everything we have in profile D. 15 frames.",
@@ -197,7 +231,31 @@
       "versao":"1.0"
    },
    {
-      "nome":"Portrait",
+      "nome":"Night zero noise",
+      "descricao":"Nortuno 0 Ruído",
+      "desc_global":"Night zero noise",
+      "author":"@NathanG0m3s.xml",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Noturno%200%20de%20ru%C3%ADdo%20%40NathanG0m3s.xml",
+            "chagelog":"---",
+            "author":"@NathanG0m3s.xml",
+            "versao":1.0
+         },
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Noturno%200%20de%20ru%C3%ADdo%20%40NathanG0m3s.xml",
+            "chagelog":"---",
+            "author":"@NathanG0m3s.xml",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Portrait GCAM 1.5",
       "descricao":"Metering mode focado em retratos\nSaturação mais real possível.\nDisparador 1/33 ótimo para fotos diurnas",
       "desc_global":"Metering mode focused on portraits \nSaturation as real as possible. \nDriver 1/33 great for daytime photos",
       "author":"@NathanG0m3s",
@@ -215,6 +273,54 @@
             "chagelog":"No changelog",
             "author":"@NathanG0m3s",
             "versao":1.5
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.5"
+   },
+   {
+      "nome":"Portrait GCAM 1.4",
+      "descricao":"Metering mode focado em retratos\nSaturação mais real possível.\nDisparador 1/33 ótimo para fotos diurnas",
+      "desc_global":"Metering mode focused on portraits \nSaturation as real as possible. \nDriver 1/33 great for daytime photos",
+      "author":"@NathanG0m3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20Arnova%201.4%20%40%2CNathanG0m3s.xml",
+            "chagelog":"No changelog",
+            "author":"@NathanG0m3s",
+            "versao":1.4
+         },
+          {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20Arnova%201.4%20%40%2CNathanG0m3s.xml",
+            "chagelog":"No changelog",
+            "author":"@NathanG0m3s",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.5"
+   },
+   {
+      "nome":"Portrait GCAM 1.4 - strong sun",
+      "descricao":"(Sol Forte) Metering mode focado em retratos\nSaturação mais real possível.\nDisparador 1/33 ótimo para fotos diurnas",
+      "desc_global":"(strong sun)Metering mode focused on portraits \nSaturation as real as possible. \nDriver 1/33 great for daytime photos",
+      "author":"@NathanG0m3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20Arnova%201.4%20SOL%20Forte%20%40NathanG0m3s.xml",
+            "chagelog":"No changelog",
+            "author":"@NathanG0m3s",
+            "versao":1.4
+         },
+          {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20Arnova%201.4%20SOL%20Forte%20%40NathanG0m3s.xml",
+            "chagelog":"No changelog",
+            "author":"@NathanG0m3s",
+            "versao":1.4
          }
       ],
       "chagelog":"Inicial",
@@ -286,40 +392,6 @@
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/3nZ0-SharpN'Quick-Ar%201.0.xml",
             "chagelog":"No changelog",
             "author":" Enzo",
-            "versao":1.0
-         }
-      ],
-      "chagelog":"Inicial",
-      "versao":"1.0"
-   },
-   {
-      "nome":"Daystroyer",
-      "descricao":"Sem descrição...",
-      "desc_global":"No description at moment",
-      "author":"@NathanG0m3s",
-      "dispo_compativeis":[
-         {
-            "modelo":"Galaxy S9/Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Daystroyer%20%40NathanG0m3s.xml",
-            "chagelog":"Update libs",
-            "author":" @NathanGom3s",
-            "versao":1.4
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.0"
-   },
-   {
-      "nome":"Jap Moto G",
-      "descricao":"Perfil para uso geral, e remoção de manchas roxas.",
-      "desc_global":"Profile for general use, and removal of purple spots.",
-      "author":"Juan Antonio",
-      "dispo_compativeis":[
-         {
-            "modelo":"G5 Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/jap.xml",
-            "chagelog":"---",
-            "author":" Juan Antonio",
             "versao":1.0
          }
       ],
