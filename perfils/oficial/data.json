@@ -1,0 +1,64 @@
+[
+   {
+      "nome":"Inlight",
+      "descricao":"Esse Profile foi criado pensado em uma usabilidade casual, rápida porém com qualidade sem perda de nitidez. Ótimo pra inúmeras situações.",
+      "desc_global":"This Profile was created thinking of a casual, fast but quality usability without loss of sharpness. Great for countless situations.",
+      "author":"Richard",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI A2/6X",
+            "link":"",
+            "chagelog":"",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"MI A2/6X",
+            "link":"",
+            "chagelog":"",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"MI A2/6X",
+            "link":"",
+            "chagelog":"",
+            "author":" Richard",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Night",
+      "descricao":"Esse Profile foi criado no intuito de tirar uma foto de boa qualidade em ambientes com a iluminação mais fraca, dentro de casa, a noite. Ele é um pouco mais lento porem ainda assim pode ser usado pra fotografar pessoas a noite por exemplo. Ótimo pra usar a noite.",
+      "desc_global":"This Profile was created in order to take a good quality picture in environments with the weakest lighting, indoors, at night. It is a bit slower but still can be used to photograph people at night for example. Great to use the night.",
+      "author":"Richard",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/rZ-Night-Xtreme-1.4-Final.xml",
+            "chagelog":"Version Final",
+            "author":" Richard",
+            "versao":1.4
+         },
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/rZ-Night-Xtreme-1.4-Final.xml",
+            "chagelog":"Version Final",
+            "author":" Richard",
+            "versao":1.4
+         },
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/rZ-Night-Xtreme-1.4-Final.xml",
+            "chagelog":"Version Final",
+            "author":" Richard",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.0"
+   }
+]
