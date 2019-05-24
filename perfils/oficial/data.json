@@ -83,6 +83,13 @@
             "versao":1.0
          },
          {
+            "modelo":"Redmi 7",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-JRS.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+         {
             "modelo":"Mi Max 3",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/InLightGcamBr.xml",
             "chagelog":"",
