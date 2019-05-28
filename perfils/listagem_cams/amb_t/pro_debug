@@ -28,27 +28,6 @@
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/sanity/data.json"
    },
    {
-      "nomegcam":"Tolyan009",
-      "descricao":"Perfis de camera para Google Camera/Ports do Desenvolvedor Tolyan009",
-      "desc_global":"Camera Profiles for Google Camera/Ports from Tolyan009 Developer.",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_toylan.png",
-      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/tolyan/data.json"
-   },
-   {
-      "nomegcam":"Uncategorized",
-      "descricao":"Perfis de alguns modelos de celular não categorizados nem autor nem gcam, esses é só testantando.",
-      "desc_global":"Profiles of some mobile phone models not categorized neither author nor gcam, these are just testing.",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/uncategorized.png",
-      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/uncategorized/data.json"
-   },
-   {
-      "nomegcam":"Urnyx",
-      "descricao":"Perfis de camera para Google Camera do Desenvolvedor Urnyx.",
-      "desc_global":"Camera Profiles for Google Camera from Urnyx Developer.",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_urnyx.png",
-      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/urnyx/data.json"
-   },
-   {
       "nomegcam":"Xcam",
       "descricao":"Perfis de camera para Google Camera do Desenvolvedor Xtrme",
       "desc_global":"Camera Profiles for Google Camera from Xtrme Developer.",
