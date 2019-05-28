@@ -499,5 +499,78 @@
       ],
       "chagelog":"---",
       "versao":"1.4"
+   },
+   {
+      "nome":"Tourão Fast",
+      "descricao":"Configuração para disparo rápido, obturador em 1/33, 9 frames. Recomendado para tirar fotos do seu amigo touro durante o dia ou em boa iluminação.",
+      "desc_global":"Setting for fast shutter, 1/33 shutter, 9 frames. Recommended to take pictures of your bull friend during the day or in good lighting.",
+      "author":"Vitor",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-fast-v3.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":3.0
+         },
+         {
+            "modelo":"Redmi Note 7/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-fast-v3.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":3.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"3.0"
+   },
+   {
+      "nome":"Tourão Medio",
+      "descricao":"Configuração para disparo médio, obturador em 1/8, 12 frames. Recomendado para tirar fotos do seu amigo touro  durante o dia ou em mesmo de noite.",
+      "desc_global":"Setting for medium shooting, 1/8 shutter, 12 frames. Recommended to take pictures of your bull friend during the day or even at night.",
+      "author":"Vitor",
+      "dispo_compativeis":[
+         {
+            "modelo":"Redmi Note 7/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-Mind-V3.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":3.0
+         },
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-Mind-V3.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":3.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"3.0"
+   },
+   {
+      "nome":"Tourão Night",
+      "descricao":"Configuração para disparo lento/noturno, obturador em 1/2, 12 frames. Recomendado para tirar fotos da sua mina que é diferente das outras em ambientes noturnos.",
+      "desc_global":"Setting for slow / night shooting, shutter in 1/2, 12 frames. Recommended for taking photos of your mine that is different from others in nighttime environments.",
+      "author":"Vitor",
+      "dispo_compativeis":[
+         {
+            "modelo":"Redmi Note 7/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-Night-V3.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":3.0
+         },
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-Night-V3.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":3.0
+         }
+         
+      ],
+      "chagelog":"---",
+      "versao":"3.0"
    }
 ]
