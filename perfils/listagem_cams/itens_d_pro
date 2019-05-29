@@ -4,6 +4,7 @@
       "descricao":"Você conheçe alguém que faça profiles, ou você tem algum perfil legal? contrbua enviando para gente, informações na aba Mudanças.",
       "desc_global":"Do you know someone who does profiles, or do you have some interesting profile? contradicts by sending people information on the Changes tab.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/contribute.png",
+      "action":3,
       "url":"null"
    },
    {
@@ -12,6 +13,7 @@
       "desc_global":"Camera Profiles for Google Camera from Arnova Developer.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_arnova.png",
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/arnova/data.json"
+      "action":1,
    },
    {
       "nomegcam":"Gcam Brasil Oficial",
@@ -25,6 +27,7 @@
       "descricao":"Perfis de camera para Google Camera/Ports do Desenvolvedor Sanity",
       "desc_global":"Camera Profiles for Google Camera/Ports from Sanity Developer.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_sanity.png",
+      "action":1,
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/sanity/data.json"
    },
    {
@@ -32,6 +35,7 @@
       "descricao":"Perfis de camera para Google Camera/Ports do Desenvolvedor Tolyan009",
       "desc_global":"Camera Profiles for Google Camera/Ports from Tolyan009 Developer.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_toylan.png",
+      "action":1,
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/tolyan/data.json"
    },
    {
@@ -39,6 +43,7 @@
       "descricao":"Perfis de alguns modelos de celular não categorizados nem autor nem gcam, esses é só testantando.",
       "desc_global":"Profiles of some mobile phone models not categorized neither author nor gcam, these are just testing.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/uncategorized.png",
+      "action":1,
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/uncategorized/data.json"
    },
    {
@@ -46,6 +51,7 @@
       "descricao":"Perfis de camera para Google Camera do Desenvolvedor Urnyx.",
       "desc_global":"Camera Profiles for Google Camera from Urnyx Developer.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_urnyx.png",
+      "action":1,
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/urnyx/data.json"
    },
    {
@@ -53,6 +59,7 @@
       "descricao":"Perfis de camera para Google Camera do Desenvolvedor Xtrme",
       "desc_global":"Camera Profiles for Google Camera from Xtrme Developer.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_xcam.png",
+      "action":1,
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/xcam/data.json"
    }
 ]
