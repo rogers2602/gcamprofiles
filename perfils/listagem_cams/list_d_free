@@ -8,6 +8,14 @@
       "url":"null"
    },
    {
+      "nomegcam":"Gcam Brasil Downloads",
+      "descricao":"No Gcam Brasil você baixa a Gcam adequada para seu celular basta selecionar a marca e modelo.",
+      "desc_global":"In Gcam Brasil you download the appropriate Gcam for your cell phone just select the make and model.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/icondwsite2.png",
+      "action":2,
+      "url":"https://gcambrasil.com.br/downloads"
+   },
+   {
       "nomegcam":"Arnova ",
       "descricao":"Perfis de camera para Google Camera do Desenvolvedor Arnova.",
       "desc_global":"Camera Profiles for Google Camera from Arnova Developer.",
