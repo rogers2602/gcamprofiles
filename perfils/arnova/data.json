@@ -122,6 +122,13 @@
             "chagelog":"Initial",
             "author":"@NathanGom3s",
             "versao":1.0
+         },
+         {
+            "modelo":"Mi 8 Lite",
+            "link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/arnova/Fresquinha%20xiaomis.xml",
+            "chagelog":"Initial",
+            "author":"@NathanGom3s",
+            "versao":1.0
          }
       ],
       "chagelog":"---",
@@ -193,6 +200,13 @@
          },
          {
             "modelo":"Mi 8/Pro/EE",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"Mi 8 Lite",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.0-JPEG-one.xml",
             "chagelog":"No changelog",
             "author":" Richard",
@@ -358,6 +372,13 @@
          },
          {
             "modelo":"Mi 8/Pro/EE",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"Mi 8 Lite",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml",
             "chagelog":"No changelog",
             "author":" Richard",
