@@ -1,11 +1,11 @@
 [
    {
-      "nomegcam":"Contribua (Contribute)",
-      "descricao":"Você conheçe alguém que faça profiles, ou você tem algum perfil legal? contrbua enviando para gente, informações na aba Mudanças.",
-      "desc_global":"Do you know someone who does profiles, or do you have some interesting profile? contradicts by sending people information on the Changes tab.",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/contribute.png",
-      "action":3,
-      "url":"null"
+      "nomegcam":"Wallpapers All (AD)",
+      "descricao":"Diversos wallpapers natureza, cidade, marvel, espaço, texturas e muito mais!",
+      "desc_global":"Various nature wallpapers, city, marvel, space, textures and more!",
+      "icone":"https://lh3.googleusercontent.com/jYZT9pxoIaJMlDrsd7jINNnhi34kbcPQ1NPoZ3WrQgf4GQ4p8XtX4AZFRUvl4hia6bWG=s180-rw",
+      "action":2,
+      "url":"https://play.google.com/store/apps/details?id=pluswallpapers.devmarques.com.wallpapersall&hl=pt_BR"
    },
    {
       "nomegcam":"Gcam Brasil Downloads",
