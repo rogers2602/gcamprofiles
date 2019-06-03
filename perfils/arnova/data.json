@@ -168,6 +168,23 @@
       "chagelog":"---",
       "versao":"1.0"
    },
+    {
+      "nome":"Geral",
+      "descricao":"Uso geral",
+      "desc_global":"General use",
+      "author":"@DricaMoreira",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI 6",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Mi6TopGeral.xml",
+            "chagelog":"",
+            "author":"@DricaMoreiras",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
    {
       "nome":"Jap Moto G",
       "descricao":"Perfil para uso geral, e remoção de manchas roxas.",
