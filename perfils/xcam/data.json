@@ -137,6 +137,13 @@
             "chagelog":"---",
             "author":"Vitor",
             "versao":2.0
+         },
+         {
+            "modelo":"Mi 8 Lite",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Xcam-Mi8-Tourão-Fast-V2.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":2.0
          }
       ],
       "chagelog":"---",
@@ -150,6 +157,13 @@
       "dispo_compativeis":[
          {
             "modelo":"Mi 8/Pro/EE",
+            "link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/xcam/Xcam-Mi8-Tourão-Medio-V4.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":4.0
+         },
+         {
+            "modelo":"Mi 8 Lite",
             "link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/xcam/Xcam-Mi8-Tourão-Medio-V4.xml",
             "chagelog":"---",
             "author":"Vitor",
@@ -174,6 +188,13 @@
       "dispo_compativeis":[
          {
             "modelo":"Mi 8/Pro/EE",
+            "link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/xcam/Xcam-Mi8-Tourão-Night-V2.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":2.0
+         },
+         {
+            "modelo":"Mi 8 Lite",
             "link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/xcam/Xcam-Mi8-Tourão-Night-V2.xml",
             "chagelog":"---",
             "author":"Vitor",
