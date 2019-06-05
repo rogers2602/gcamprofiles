@@ -227,10 +227,10 @@
          },
          {
             "modelo":"Mi 9 SE",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Mi9.xml",
-            "chagelog":"---",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Mi91.1.xml",
+            "chagelog":"Corrigido:/nAplicativo fechava ao tirar foto em modo retrato com zoom ativo/nSabre habilitado",
             "author":"Hedertone Almeida",
-            "versao":1.0
+            "versao":1.1
          }
       ],
       "chagelog":"---",
