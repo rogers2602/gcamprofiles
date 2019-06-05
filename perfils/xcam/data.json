@@ -220,10 +220,10 @@
       "dispo_compativeis":[
          {
             "modelo":"Mi 9",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Mi9.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Mi91.1.xml",
             "chagelog":"---",
             "author":"Hedertone Almeida",
-            "versao":1.0
+            "versao":1.1
          },
          {
             "modelo":"Mi 9 SE",
