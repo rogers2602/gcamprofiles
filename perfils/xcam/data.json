@@ -145,8 +145,8 @@
    },
    {
       "nome":"Sport",
-      "descricao":"Perfi.",
-      "desc_global":"Profile for general use.",
+      "descricao":"Modo Sport para tirar fotos de pessoas/objetos em movimiento.",
+      "desc_global":"Sport mode for taking pictures of people/objects on the move.",
       "author":"Hedertone Almeida",
       "dispo_compativeis":[
          {
@@ -166,7 +166,7 @@
       ],
       "chagelog":"---",
       "versao":"1.0"
-   }
+   },
    {
       "nome":"Tourão Fast",
       "descricao":"Uso para fotos mais dinâmicas, com disparador rápido, com objetos ou pessoas com algum movimento.\n Disparador 1/33,\n9 frames e xlib v2.2s.\nÓtima para fotografar seu amigo touro distraído.\nTestes por @aldemir1",
@@ -262,7 +262,7 @@
       "versao":"2.0"
    },
    {
-      "nome":"",
+      "nome":"Uso Geral",
       "descricao":"Perfil para uso geral.",
       "desc_global":"Profile for general use.",
       "author":"Hedertone Almeida",
