@@ -39,8 +39,7 @@
       ],
       "chagelog":"---",
       "versao":"1.1"
-   }
-
+   },
    {
       "nome":"Night",
       "descricao":"Uso noturno. Disparador um pouco mais lento. Porém ainda rápido o bastante pra tirar fotos de pessoas nos bares com amigos sem muito esforço, ou precisar ficar congelado por muito tempo. Disparador 1/20 supressão de ruído alterada para adequar ao disparador. Lib Xlib2 e tudo que temos no perfil D. 15 frames ",
