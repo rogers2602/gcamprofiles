@@ -1,8 +1,8 @@
 [
    {
       "nomegcam":"Profiles???",
-      "descricao":"Alguns usuários estão com dificuldades para usar os profiles, no app no menu pontilhado há um tutorial de como usar./nMas se ainda sim, você não consegue, verifique a versão de sua Gcam caso seja a 6.2 ela não tem suporte a importação de Profiles./n/nAgradecemos o feedback de todos usuários em breve melhorias.",
-      "desc_global":"Some users are having difficulty using the profiles, in the menu in the dotted menu there is a tutorial on how to use them. /nBut if still, you can not, check the version of your Gcam if it is 6.2, it does not support importing Profiles./n/nWe appreciate feedback from all users soon improvements.",
+      "descricao":"Alguns usuários estão com dificuldades para usar os profiles, no app no menu pontilhado há um tutorial de como usar.\nMas se ainda sim, você não consegue, verifique a versão de sua Gcam caso seja a 6.2 ela não tem suporte a importação de Profiles.\n\nAgradecemos o feedback de todos usuários em breve melhorias.",
+      "desc_global":"Some users are having difficulty using the profiles, in the menu in the dotted menu there is a tutorial on how to use them.\nBut if still, you can not, check the version of your Gcam if it is 6.2, it does not support importing Profiles.\n\nWe appreciate feedback from all users soon improvements.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/prof_aviso.png",
       "action":3,
       "url":"null"
