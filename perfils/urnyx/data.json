@@ -118,13 +118,13 @@
          {
             "modelo":"MI A2/6X",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Global%20Config%20V1.1.xml",
-            "chagelog":"Shuttle 1/12 HDR Enhanced\nShuttle 1/2 Night Mode - Sticks firmly, you can do with your hand\nColor correction pixel 3 Off\nSaturation set up\nLibs Google Stock\nHDR 20 frames - Better dynamic range\nSuper zoom off\nHDR enhancing for portrait mode\nNoise noise reduction Shuttle lag - will use more exposure and less iso \nFixed memory 1680MB\nAnti banding mode enabled\nRaw enabled\nBitrate 80mbps\nFHD video Eis of",
+            "chagelog":"Profile settings:\nHDR+ 15 Frames\nDenoise Ajusting\nSaturation Ajusting\nLibs Google Pixel\nNoise Mod off\nShuttle HDR+ 1/14\nShuttle Noturno 1/4\nHDR+ on Retrato\n\n-Settings extras\nGoogle photos off\nGrade 3x3\nFilmagem 1080p\nRaw enable\nFoco manual On\nSuperZoom Retrato on",
             "author":"@srmarcos",
-            "versao":1.1
+            "versao":1.2
          }
       ],
       "chagelog":"",
-      "versao":"1.1"
+      "versao":"1.2"
    },
    {
       "nome":"SG",
