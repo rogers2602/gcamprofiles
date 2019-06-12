@@ -117,7 +117,7 @@
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Global%20Config%20V1.1.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/GcamConfig%20V1.2.xml",
             "chagelog":"Profile settings:\nHDR+ 15 Frames\nDenoise Ajusting\nSaturation Ajusting\nLibs Google Pixel\nNoise Mod off\nShuttle HDR+ 1/14\nShuttle Noturno 1/4\nHDR+ on Retrato\n\n-Settings extras\nGoogle photos off\nGrade 3x3\nFilmagem 1080p\nRaw enable\nFoco manual On\nSuperZoom Retrato on",
             "author":"@srmarcos",
             "versao":1.2
