@@ -1,0 +1,50 @@
+[
+   {
+      "nomegcam":"Teste Aviso",
+      "descricao":"Você conheçe alguém que faça profiles, ou você tem algum perfil legal? contrbua enviando para gente, informações na aba Mudanças.",
+      "desc_global":"Do you know someone who does profiles, or do you have some interesting profile? contradicts by sending people information on the Changes tab.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/contribute.png",
+      "action":3,
+      "url":"null"
+   },
+   {
+      "nomegcam":"Teste Pagina",
+      "descricao":"Você conheçe alguém que faça profiles, ou você tem algum perfil legal? contrbua enviando para gente, informações na aba Mudanças.",
+      "desc_global":"Do you know someone who does profiles, or do you have some interesting profile? contradicts by sending people information on the Changes tab.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/contribute.png",
+      "action":2,
+      "url":"https://www.tecmundo.com.br/internet/141771-google-lanca-novidade-facilitar-vida-pedir-comida.htm"
+   },
+   {
+      "nomegcam":"Arnova ",
+      "descricao":"Perfis de camera para Google Camera do Desenvolvedor Arnova.",
+      "desc_global":"Camera Profiles for Google Camera from Arnova Developer.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_arnova.png",
+      "action":1,
+      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/arnova/data.json"
+   },
+   {
+      "nomegcam":"Testando o esquema",
+      "descricao":"Profiles oficiais para diversos aparelhos",
+      "desc_global":"Official Profiles for various devices",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_brasil.png",
+      "action":1,
+      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/oficial/data.json"
+   },
+   {
+      "nomegcam":"Sanity",
+      "descricao":"Perfis de camera para Google Camera/Ports do Desenvolvedor Sanity",
+      "desc_global":"Camera Profiles for Google Camera/Ports from Sanity Developer.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_sanity.png",
+      "action":1,
+      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/sanity/data.json"
+   },
+   {
+      "nomegcam":"Xcam",
+      "descricao":"Perfis de camera para Google Camera do Desenvolvedor Xtrme",
+      "desc_global":"Camera Profiles for Google Camera from Xtrme Developer.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_xcam.png",
+      "action":1,
+      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/xcam/data.json"
+   }
+]
