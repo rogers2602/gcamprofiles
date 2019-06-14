@@ -221,8 +221,8 @@
    },
    {
       "nome":"NightHard ",
-      "descricao":"Configuração para se usar em condições extremas com HDR+. E não visão noturna, mas caso queria comparar fique a vontade.",
-      "desc_global":"Configuration for extreme use with HDR +. And not night vision, but if you wanted to compare, feel free.",
+      "descricao":"Configuração para se usar em condições extremas com HDR+. E não visão noturna, mas caso queria comparar fique a vontade.\nUSE UM TRIPÉ POR FAVOR",
+      "desc_global":"Configuration for extreme use with HDR +. And not night vision, but if you wanted to compare, feel free.\nUSE A TRIPOD PLEASE",
       "author":"@srmarcos",
       "dispo_compativeis":[
          {
