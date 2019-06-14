@@ -150,10 +150,10 @@
          },         
          {
             "modelo":"Mi Mix 2S",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
-            "chagelog":"",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Mix2%20Test.xml",
+            "chagelog":"Corrections\nImprovement of noise in photo",
             "author":"Richard",
-            "versao":1.0
+            "versao":1.1
          },
          {
             "modelo":"Mi Mix 3",
