@@ -186,6 +186,23 @@
       "versao":"1.0"
    },
    {
+      "nome":"GlobalConfig",
+      "descricao":"Configurações para uso Geral, em todas as condições que deseja 'Equilibrado'",
+      "desc_global":"Settings for General Use, under all conditions you want 'Balanced'",
+      "author":"@srmarcos",
+      "dispo_compativeis":[
+         {
+            "modelo":"Mi A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/GlobalConfig-1.0-Arnova-Mi%20A2-6X.xml",
+            "chagelog":"Shuttle 1/10\nDenoise paraments adjusted\nRetrato HDR+ enabled\nSuperZoom on\Libs Google Stock\nSaturation Adjusted\n\Correction to color Pixel3 On\nAuxiliary Cam On (long press)\nGrade 3x3\nPhotos Off\nRaw On",
+            "author":"@srmarcos",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"",
+      "versao":"1.0"
+   },
+   {
       "nome":"Jap Moto G",
       "descricao":"Perfil para uso geral, e remoção de manchas roxas.",
       "desc_global":"Profile for general use, and removal of purple spots.",
@@ -200,6 +217,23 @@
          }
       ],
       "chagelog":"Inicial",
+      "versao":"1.0"
+   },
+   {
+      "nome":"NightHard ",
+      "descricao":"Configuração para se usar em condições extremas com HDR+. E não visão noturna, mas caso queria comparar fique a vontade.",
+      "desc_global":"Configuration for extreme use with HDR +. And not night vision, but if you wanted to compare, feel free.",
+      "author":"@srmarcos",
+      "dispo_compativeis":[
+         {
+            "modelo":"Mi A2/6X",
+            "link":"Ajustes\nShuttle 4s\nFrame 3\nGrade 3x3\nNoise reduce\n Pixel 3 correction color\nRaw enable\nCam Aux (aperta e segura o botão de ir para a forntal)\nGoogle photos Off\n",
+            "chagelog":"Shuttle 1/10\nDenoise paraments adjusted\nRetrato HDR+ enabled\nSuperZoom on\Libs Google Stock\nSaturation Adjusted\n\Correction to color Pixel3 On\nAuxiliary Cam On (long press)\nGrade 3x3\nPhotos Off\nRaw On",
+            "author":"@srmarcos",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"",
       "versao":"1.0"
    },
    {
