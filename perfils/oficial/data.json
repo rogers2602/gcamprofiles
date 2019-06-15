@@ -62,6 +62,13 @@
             "versao":1.0
          },
          {
+            "modelo":"Mi 6",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
+            "chagelog":"Corrections\nImprovement of noise in photo",
+            "author":"Richard",
+            "versao":1.0
+         },
+         {
             "modelo":"Mi 9",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-YR10.xml",
             "chagelog":"",
@@ -122,7 +129,7 @@
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Mix2%20Test.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-YR10.xml",
             "chagelog":"",
             "author":"Richard",
             "versao":1.1
@@ -164,6 +171,13 @@
          },
          {
             "modelo":"Mi Mix 2",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
+            "chagelog":"Corrections\nImprovement of noise in photo",
+            "author":"Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"Mi 6",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
             "chagelog":"Corrections\nImprovement of noise in photo",
             "author":"Richard",
