@@ -135,6 +135,23 @@
 		"versao":"1.4"
 	},
 	{
+		"nome":"Exclusive",
+		"descricao":"Trabalhando Gcam para Violet, black_small_square: Trabalhando Night Sight, black_small_square: Como importar/exportar arquivo de configuração",
+		"desc_global":"Working Gcam for Violet, black_small_square: Working Night Sight, black_small_square: Portraits are working fine too, black_small_square: How to import/export config file",
+		"author":"Boxer198615",
+		"dispo_compativeis":[
+			{
+				"modelo":"Redmi Note 7/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/RN7P-IronHrt-9.xml",
+				"chagelog":"---",
+				"author":"Boxer198615",
+				"versao":1.0
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
+	},
+	{
 		"nome":"Iron HRT 9",
 		"descricao":"Trabalhando Gcam para Violet, black_small_square: Trabalhando Night Sight, black_small_square: Como importar/exportar arquivo de configuração",
 		"desc_global":"Working Gcam for Violet, black_small_square: Working Night Sight, black_small_square: Portraits are working fine too, black_small_square: How to import/export config file",
