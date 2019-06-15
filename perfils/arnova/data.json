@@ -1,703 +1,702 @@
 [
-	{
-		"nome":"Day",
-		"descricao":"Uso diurno. Disparador rápido. 1/33 controle de denoise pra suprimir ruídos. Lib Xlib2, ajustes de saturação na câmera frontal e traseira. Grid Proporção Áurea. SuperZoom ativado. 15 frames.",
-		"desc_global":"Daily usage. Quick shoot. 1/33 denoise control for noise suppression. Xlib2 lib, saturation settings on front and rear camera. Golden ratio grid. SuperZoom enabled. 15 frames.",
-		"author":"Richard, Enzo OP5/T, @NathanG0m3s S9/PLUS",
-		"dispo_compativeis":[
-			{
-				"modelo":"MI A2/6X",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-D-Ar-1.4.xml",
-				"chagelog":"Version Final 4.4.",
-				"author":" Richard",
-				"versao":1.4
-			},
-			{
-				"modelo":"Mi 8/Pro/EE",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-D-Ar-1.0-JPEG-one.xml",
-				"chagelog":"No changelog",
-				"author":" Richard",
-				"versao":1.0
-			},
-			{
-				"modelo":"OnePlus 5/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ(E)-D-Ar%201.0o5t.xml",
-				"chagelog":"No changelog",
-				"author":" Richard",
-				"versao":1.0
-			},
-			{
-				"modelo":"OnePlus 6/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-D-Ar-1.0-JPEG-one.xml",
-				"chagelog":"No changelog",
-				"author":" Richard",
-				"versao":1.0
-			},
-			{
-				"modelo":"Galaxy S9/Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/s9%2B%20Day%20%40NathanG0m3s.xml",
-				"chagelog":"---",
-				"author":" @NathanGom3s",
-				"versao":1.0
-			},
-			{
-				"modelo":"Lenovo K6 Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/1UpArnovaXSDay.xml",
-				"chagelog":"initial",
-				"author":"Jairo Rossi",
-				"versao":1.0
-			},
-			{
-				"modelo":"Redmi Note 6/Pro",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/RN6P_pTk.xml",
-				"chagelog":"initial",
-				"author":"Patrick Pereira",
-				"versao":1.0
-			}
-		],
-		"changelog":"Versão final Para Mi A2/6X",
-		"versao":"1.0"
-	},
-	{
-		"nome":"Daily use - Exynos",
-		"descricao":"Este perfil é para uso diário em geral, voltado para o dia.",
-		"desc_global":"This profile is for everyday use in general, geared towards the day.",
-		"author":"Chillrod",
-		"dispo_compativeis":[
-			{
-				"modelo":"Galaxy Note 9",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Chillrod_arnova1.4.1_note9SD_Pie.xml",
-				"chagelog":"Initial",
-				"author":"Chillrod",
-				"versao":1.0
-			},
-			{
-				"modelo":"Galaxy S9/Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Chillrod_arnova1.4.1_note9SD_Pie.xml",
-				"chagelog":"Initial",
-				"author":"Chillrod",
-				"versao":1.0
-			}
-		],
-		"chagelog":"---",
-		"versao":"1.4"
-	},
-	{
-		"nome":"Daily use - Snapdragon",
-		"descricao":"Este perfil é para uso diário em geral, voltado para o dia.",
-		"desc_global":"This profile is for everyday use in general, geared towards the day.",
-		"author":"d2fan, @NathanGom3s",
-		"dispo_compativeis":[
-			{
-				"modelo":"Galaxy Note 9",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/vkboy_S9_S9Plus_Note9_Exynos.xml",
-				"chagelog":"Initial",
-				"author":"vkboy",
-				"versao":1.0
-			},
-			{
-				"modelo":"Galaxy S9/Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/d2fan.xml",
-				"chagelog":"Initial",
-				"author":"d2fan",
-				"versao":1.5
-			},
-			{
-				"modelo":"Mi A2/6X",
-				"link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/arnova/Fresquinha%20xiaomis.xml",
-				"chagelog":"Initial",
-				"author":"@NathanGom3s",
-				"versao":1.0
-			},
-			{
-				"modelo":"Redmi Note 7/Pro",
-				"link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/arnova/Fresquinha%20xiaomis.xml",
-				"chagelog":"Initial",
-				"author":"@NathanGom3s",
-				"versao":1.0
-			},
-			{
-				"modelo":"Mi 8/Pro/EE",
-				"link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/arnova/Fresquinha%20xiaomis.xml",
-				"chagelog":"Initial",
-				"author":"@NathanGom3s",
-				"versao":1.0
-			},
-			{
-				"modelo":"Mi 8 Lite",
-				"link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/arnova/Fresquinha%20xiaomis.xml",
-				"chagelog":"Initial",
-				"author":"@NathanGom3s",
-				"versao":1.0
-			}
-		],
-		"chagelog":"---",
-		"versao":"1.4"
-	},
-	{
-		"nome":"Exclusive",
-		"descricao":"Trabalhando Gcam para Violet, black_small_square: Trabalhando Night Sight, black_small_square: Como importar/exportar arquivo de configuração",
-		"desc_global":"Working Gcam for Violet, black_small_square: Working Night Sight, black_small_square: Portraits are working fine too, black_small_square: How to import/export config file",
-		"author":"Richard Rezende",
-		"dispo_compativeis":[
-			{
-				"modelo":"Galaxy S9/Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-Exclusive-S9N9.xml",
-				"chagelog":"---",
-				"author":"Richard Rezend",
-				"versao":1.0
-			},
-                        {
-				"modelo":"Galaxy Note 9",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-Exclusive-S9N9.xml",
-				"chagelog":"---",
-				"author":"Richard Rezend",
-				"versao":1.0
-			}
-		
-		],
-		"chagelog":"---",
-		"versao":"1.0"
-	},
-	{
-		"nome":"Iron HRT 9",
-		"descricao":"Trabalhando Gcam para Violet, black_small_square: Trabalhando Night Sight, black_small_square: Como importar/exportar arquivo de configuração",
-		"desc_global":"Working Gcam for Violet, black_small_square: Working Night Sight, black_small_square: Portraits are working fine too, black_small_square: How to import/export config file",
-		"author":"Boxer198615",
-		"dispo_compativeis":[
-			{
-				"modelo":"Redmi Note 7/Pro",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/RN7P-IronHrt-9.xml",
-				"chagelog":"---",
-				"author":"Boxer198615",
-				"versao":1.0
-			}
-		],
-		"chagelog":"---",
-		"versao":"1.0"
-	},
-	{
-		"nome":"Daystroyer",
-		"descricao":"Sem descrição...",
-		"desc_global":"No description at moment",
-		"author":"@NathanG0m3s",
-		"dispo_compativeis":[
-			{
-				"modelo":"Galaxy S9/Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Daystroyer%20%40NathanG0m3s.xml",
-				"chagelog":"Update libs",
-				"author":" @NathanGom3s",
-				"versao":1.4
-			}
-		],
-		"chagelog":"---",
-		"versao":"1.0"
-	},
-	{
-		"nome":"Geral",
-		"descricao":"Uso geral",
-		"desc_global":"General use",
-		"author":"@DricaMoreira",
-		"dispo_compativeis":[
-			{
-				"modelo":"MI 6",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Mi6TopGeral.xml",
-				"chagelog":"",
-				"author":"@DricaMoreiras",
-				"versao":1.0
-			},
-			{
-				"modelo":"MI 9",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Mi9-v3.xml",
-				"chagelog":"",
-				"author":"@DricaMoreiras",
-				"versao":1.0
-			},
-			{
-				"modelo":"MI 9 SE",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Mi9-v3.xml",
-				"chagelog":"",
-				"author":"@DricaMoreiras",
-				"versao":1.0
-			}
-		],
-		"chagelog":"---",
-		"versao":"1.0"
-	},
-	{
-		"nome":"GlobalConfig",
-		"descricao":"Configurações para uso Geral, em todas as condições que deseja 'Equilibrado'",
-		"desc_global":"Settings for General Use, under all conditions you want 'Balanced'",
-		"author":"@srmarcos",
-		"dispo_compativeis":[
-			{
-				"modelo":"Mi A2/6X",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/GlobalConfig-1.0-Arnova-Mi%20A2-6X.xml",
-				"chagelog":"Shuttle 1/10 \nDenoise paraments adjusted\nRetrato HDR+ enabled\nSuperZoom on\nLibs Google Stock\nSaturation Adjusted\nCorrection to color Pixel3 On\nAuxiliary Cam On (long press) \nGrade 3x3\nPhotos Off\nRaw On",
-				"author":"@srmarcos",
-				"versao":1.0
-			}
-		],
-		"chagelog":"",
-		"versao":"1.0"
-	},
-	{
-		"nome":"Jap Moto G",
-		"descricao":"Perfil para uso geral, e remoção de manchas roxas.",
-		"desc_global":"Profile for general use, and removal of purple spots.",
-		"author":"Juan Antonio",
-		"dispo_compativeis":[
-			{
-				"modelo":"G5 Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/jap.xml",
-				"chagelog":"---",
-				"author":" Juan Antonio",
-				"versao":1.0
-			}
-		],
-		"chagelog":"Inicial",
-		"versao":"1.0"
-	},
-	{
-		"nome":"NightHard",
-		"descricao":"Configuração para se usar em condições extremas com HDR+. E não visão noturna, mas caso queria comparar fique a vontade.\nUSE UM TRIPÉ POR FAVOR",
-		"desc_global":"Configuration for extreme use with HDR +. And not night vision, but if you wanted to compare, feel free.\nUSE A TRIPOD PLEASE",
-		"author":"@srmarcos",
-		"dispo_compativeis":[
-			{
-				"modelo":"Mi A2/6X",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/NightHard%20V1.0.xml",
-				"chagelog":"Ajustes\nShuttle 4s\nFrame 3\nGrade 3x3\nNoise reduce\n Pixel 3 correction color\nRaw enable\nCam Aux (aperta e segura o botão de ir para a forntal)\nGoogle photos Off\n",
-				"author":"@srmarcos",
-				"versao":1.0
-			}
-		],
-		"chagelog":"",
-		"versao":"1.0"
-	},
-	{
-		"nome":"Night",
-		"descricao":"Uso noturno. Disparador um pouco mais lento, porém ainda rápido o bastante pra tirar fotos com amigos ou pessoas em um bar sem muito esforço ou necessidade de se manter imóvel por muito tempo. Disparador 1/20, supressão de ruído adequado ao disparador. Lib Xlib2 e tudo que temos no perfil D. 15 frames ",
-		"desc_global":"Night usage. Slightly slower shoot, but still fast enough to take pictures with friends or people with no effort or the need to be still for a long time. Shutter 1/20. Noise suppression changed to fit the shutter. Xlib2 lib and everything we have in profile D. 15 frames.",
-		"author":"Richard, Enzo OP5/T, @NathanG0m3s S9/PLUS",
-		"dispo_compativeis":[
-			{
-				"modelo":"MI A2/6X",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.4.xml",
-				"chagelog":"Version Final 4.4.",
-				"author":" Richard",
-				"versao":1.4
-			},
-			{
-				"modelo":"Mi 8/Pro/EE",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.0-JPEG-one.xml",
-				"chagelog":"No changelog",
-				"author":" Richard",
-				"versao":1.0
-			},
-			{
-				"modelo":"Mi 8 Lite",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.0-JPEG-one.xml",
-				"chagelog":"No changelog",
-				"author":" Richard",
-				"versao":1.0
-			},
-			{
-				"modelo":"OnePlus 5/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ(E)-N-Ar%201.0o5t.xml",
-				"chagelog":"No changelog",
-				"author":" Richard",
-				"versao":1.0
-			},
-			{
-				"modelo":"OnePlus 6/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.0-JPEG-one.xml",
-				"chagelog":"No changelog",
-				"author":" Richard",
-				"versao":1.0
-			},
-			{
-				"modelo":"Galaxy S9/Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Night%20S9%2B%201.4.xml",
-				"chagelog":"---",
-				"author":" @NathanGom3s",
-				"versao":1.0
-			},
-			{
-				"modelo":"Lenovo K6 Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/1UpArnovaR0Night.xml",
-				"chagelog":"initial",
-				"author":"Jairo Rossi",
-				"versao":1.0
-			}
-		],
-		"chagelog":"Versão final Para Mi A2/6X",
-		"versao":"1.0"
-	},
-	{
-		"nome":"Night zero noise",
-		"descricao":"Nortuno 0 Ruído",
-		"desc_global":"Night zero noise",
-		"author":"@NathanG0m3s.xml",
-		"dispo_compativeis":[
-			{
-				"modelo":"Galaxy Note 9",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Noturno%200%20de%20ru%C3%ADdo%20%40NathanG0m3s.xml",
-				"chagelog":"---",
-				"author":"@NathanG0m3s.xml",
-				"versao":1.0
-			},
-			{
-				"modelo":"Galaxy S9/Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Noturno%200%20de%20ru%C3%ADdo%20%40NathanG0m3s.xml",
-				"chagelog":"---",
-				"author":"@NathanG0m3s.xml",
-				"versao":1.0
-			}
-		],
-		"chagelog":"Inicial",
-		"versao":"1.0"
-	},
-	{
-		"nome":"Portrait GCAM 1.5",
-		"descricao":"Metering mode focado em retratos\nSaturação mais real possível.\nDisparador 1/33 ótimo para fotos diurnas",
-		"desc_global":"Metering mode focused on portraits \nSaturation as real as possible. \nDriver 1/33 great for daytime photos",
-		"author":"@NathanG0m3s",
-		"dispo_compativeis":[
-			{
-				"modelo":"Galaxy Note 9",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20NathanG0m3s.xml",
-				"chagelog":"No changelog",
-				"author":"@NathanG0m3s",
-				"versao":1.5
-			},
-			{
-				"modelo":"Galaxy S9/Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20NathanG0m3s.xml",
-				"chagelog":"No changelog",
-				"author":"@NathanG0m3s",
-				"versao":1.5
-			}
-		],
-		"chagelog":"Inicial",
-		"versao":"1.5"
-	},
-	{
-		"nome":"Portrait GCAM 1.4",
-		"descricao":"Metering mode focado em retratos\nSaturação mais real possível.\nDisparador 1/33 ótimo para fotos diurnas",
-		"desc_global":"Metering mode focused on portraits \nSaturation as real as possible. \nDriver 1/33 great for daytime photos",
-		"author":"@NathanG0m3s",
-		"dispo_compativeis":[
-			{
-				"modelo":"Galaxy Note 9",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20Arnova%201.4%20%40%2CNathanG0m3s.xml",
-				"chagelog":"No changelog",
-				"author":"@NathanG0m3s",
-				"versao":1.4
-			},
-			{
-				"modelo":"Galaxy S9/Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20Arnova%201.4%20%40%2CNathanG0m3s.xml",
-				"chagelog":"No changelog",
-				"author":"@NathanG0m3s",
-				"versao":1.4
-			}
-		],
-		"chagelog":"Inicial",
-		"versao":"1.5"
-	},
-	{
-		"nome":"Portrait GCAM 1.4 - strong sun",
-		"descricao":"(Sol Forte) Metering mode focado em retratos\nSaturação mais real possível.\nDisparador 1/33 ótimo para fotos diurnas",
-		"desc_global":"(strong sun)Metering mode focused on portraits \nSaturation as real as possible. \nDriver 1/33 great for daytime photos",
-		"author":"@NathanG0m3s",
-		"dispo_compativeis":[
-			{
-				"modelo":"Galaxy Note 9",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20Arnova%201.4%20SOL%20Forte%20%40NathanG0m3s.xml",
-				"chagelog":"No changelog",
-				"author":"@NathanG0m3s",
-				"versao":1.4
-			},
-			{
-				"modelo":"Galaxy S9/Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20Arnova%201.4%20SOL%20Forte%20%40NathanG0m3s.xml",
-				"chagelog":"No changelog",
-				"author":"@NathanG0m3s",
-				"versao":1.4
-			}
-		],
-		"chagelog":"Inicial",
-		"versao":"1.5"
-	},
-	{
-		"nome":"Super Day S9 Plus",
-		"descricao":"Este perfil é parecido com day, porém é pros dias de sol mais forte.",
-		"desc_global":"This profile is similar to day, however it is the days of strongest sun.",
-		"author":"@NathanGom3s",
-		"dispo_compativeis":[
-			{
-				"modelo":"Galaxy S9/Plus",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Super%20Day%20S9%2B%201.4%20%40NathanG0m3s.xml",
-				"chagelog":"Update libs",
-				"author":"@NathanGom3s",
-				"versao":1.4
-			}
-		],
-		"chagelog":"---",
-		"versao":"1.4"
-	},
-	{
-		"nome":"Sharpen",
-		"descricao":"Uso em ambas situações dia e noite. Disparador 1/8 ideal pra paisagens diurnas e noturnas. Retratos corre o risco de borrar. Cancelamento de ruído e SuperZoom ativados. Xlib2 15 frames",
-		"desc_global":"Use in both situations day and night. 1/8 shutter ideal for daytime and nighttime landscapes. Portraits risks erasing. Noise cancellation and SuperZoom enabled. Xlib2 15 frames.",
-		"author":"Richard, Enzo OP5/T",
-		"dispo_compativeis":[
-			{
-				"modelo":"MI A2/6X",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.4.xml",
-				"chagelog":"Version Final 4.4.",
-				"author":" Richard",
-				"versao":1.4
-			},
-			{
-				"modelo":"Mi 8/Pro/EE",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml",
-				"chagelog":"No changelog",
-				"author":" Richard",
-				"versao":1.0
-			},
-			{
-				"modelo":"Mi 8 Lite",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml",
-				"chagelog":"No changelog",
-				"author":" Richard",
-				"versao":1.0
-			},
-			{
-				"modelo":"OnePlus 5/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ(E)-S-Ar%201.0o5t.xml",
-				"chagelog":"No changelog",
-				"author":" Richard",
-				"versao":1.0
-			},
-			{
-				"modelo":"OnePlus 6/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml",
-				"chagelog":"No changelog",
-				"author":" Richard",
-				"versao":1.0
-			}
-		],
-		"chagelog":"Versão final Para Mi A2/6X",
-		"versao":"1.0"
-	},
-	{
-		"nome":"SharpN Quick",
-		"descricao":"Nítida com disparo rápido, boa pra macros.",
-		"desc_global":"Sharp with fast firing, good for macros.",
-		"author":"Enzo",
-		"dispo_compativeis":[
-			{
-				"modelo":"OnePlus 5/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/3nZ0-SharpN'Quick-Ar%201.0.xml",
-				"chagelog":"No changelog",
-				"author":" Enzo",
-				"versao":1.0
-			}
-		],
-		"chagelog":"Inicial",
-		"versao":"1.0"
-	},
-	{
-		"nome":"SG ALL ",
-		"descricao":"SG ALL - Use 6P como Base com P2 AWB para dar cores mais realistas em todos os cenários. Imagens frias ao dia, fotos frias à noite com ruído de 0 (usando HDR + Multiplicador Denoise).",
-		"desc_global":"SG ALL - Use 6P as Base with P2 AWB to give more realistic colors in all scenarios. Cold pictures at day, Cold pictures at night with 0 noise (using HDR+ Multiplier Denoise)",
-		"author":"Juan/Canario",
-		"dispo_compativeis":[
-			{
-				"modelo":"OnePlus 6/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20ALL%20Arnova%201.6.xml",
-				"chagelog":"---",
-				"author":" Juan/Canario",
-				"versao":1.6
-			}
-		],
-		"chagelog":"---",
-		"versao":"1.4"
-	},
-        {
-		"nome":"SG",
-		"descricao":"Qualquer condição, cores reais.",
-		"desc_global":"Any condition, real colors.",
-		"author":"Juan/Canario",
-		"dispo_compativeis":[
-			{
-				"modelo":"OnePlus 6/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%2018-4%20Arnova%201.5.xml",
-				"chagelog":"---",
-				"author":" Juan/Canario",
-				"versao":1.4
-			}
-		],
-		"chagelog":"---",
-		"versao":"1.4"
-	},
-	{
-		"nome":"SG - Exclusive",
-		"descricao":"Recem criado SG, zero de Ruido/Noise, ideal para qualquer condição.",
-		"desc_global":"Just created SG, Noise Noise / Noise, ideal for any condition.",
-		"author":"Juan/Canario",
-		"dispo_compativeis":[
-			{
-				"modelo":"OnePlus 6/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20Exclusive%20Arnova%201.5.xml",
-				"chagelog":"---",
-				"author":" Juan/Canario",
-				"versao":1.4
-			}
-		],
-		"chagelog":"---",
-		"versao":"1.4"
-	},
-	{
-		"nome":"SG - Satured",
-		"descricao":"Qualquer condições,cores saturadas.",
-		"desc_global":"Any conditions, saturated colors.",
-		"author":"Juan/Canario",
-		"dispo_compativeis":[
-			{
-				"modelo":"OnePlus 6/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20SATURATED%2018-4%20Arnova%201.5.xml",
-				"chagelog":"---",
-				"author":" Juan/Canario",
-				"versao":1.4
-			}
-		],
-		"chagelog":"---",
-		"versao":"1.4"
-	},
-	{
-		"nome":"SG - Sports",
-		"descricao":"Modo Sport para tirar fotos de pessoas/objetos em movimiento.",
-		"desc_global":"Sport mode for taking pictures of people/objects on the move.",
-		"author":"Juan/Canario",
-		"dispo_compativeis":[
-			{
-				"modelo":"OnePlus 6/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20SPORTS%20Arnova%201.5.xml",
-				"chagelog":"---",
-				"author":" Juan/Canario",
-				"versao":1.4
-			}
-		],
-		"chagelog":"---",
-		"versao":"1.4"
-	},
-	{
-		"nome":"SG - SuperZoom",
-		"descricao":"Super resolução ao aplicar zoom.",
-		"desc_global":"Super Resolution when zooming.",
-		"author":"Juan/Canario",
-		"dispo_compativeis":[
-			{
-				"modelo":"OnePlus 6/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20SuperResZoom%2018-4%20Arnova%201.5.xml",
-				"chagelog":"---",
-				"author":" Juan/Canario",
-				"versao":1.4
-			}
-		],
-		"chagelog":"---",
-		"versao":"1.4"
-	},
-	{
-		"nome":"SG - White",
-		"descricao":"Se você notar tons amarelados, este XML irá corrigir, entregando cores mais brancas",
-		"desc_global":"If you notice yellowish tones, this XML will fix, delivering whiter colors",
-		"author":"Juan/Canario",
-		"dispo_compativeis":[
-			{
-				"modelo":"OnePlus 6/T",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20WHITE%2018-4%20Arnova%201.5.xml",
-				"chagelog":"---",
-				"author":" Juan/Canario",
-				"versao":1.4
-			}
-		],
-		"chagelog":"---",
-		"versao":"1.4"
-	},
-	{
-		"nome":"Tourão Fast",
-		"descricao":"Configuração para disparo rápido, obturador em 1/33, 9 frames. Recomendado para tirar fotos do seu amigo touro durante o dia ou em boa iluminação.",
-		"desc_global":"Setting for fast shutter, 1/33 shutter, 9 frames. Recommended to take pictures of your bull friend during the day or in good lighting.",
-		"author":"Vitor",
-		"dispo_compativeis":[
-			{
-				"modelo":"MI A2/6X",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-fast-v3.xml",
-				"chagelog":"---",
-				"author":"Vitor",
-				"versao":3.0
-			},
-			{
-				"modelo":"Redmi Note 7/Pro",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-fast-v3.xml",
-				"chagelog":"---",
-				"author":"Vitor",
-				"versao":3.0
-			}
-		],
-		"chagelog":"---",
-		"versao":"3.0"
-	},
-	{
-		"nome":"Tourão Medio",
-		"descricao":"Configuração para disparo médio, obturador em 1/8, 12 frames. Recomendado para tirar fotos do seu amigo touro  durante o dia ou em mesmo de noite.",
-		"desc_global":"Setting for medium shooting, 1/8 shutter, 12 frames. Recommended to take pictures of your bull friend during the day or even at night.",
-		"author":"Vitor",
-		"dispo_compativeis":[
-			{
-				"modelo":"Redmi Note 7/Pro",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-Mind-V3.xml",
-				"chagelog":"---",
-				"author":"Vitor",
-				"versao":3.0
-			},
-			{
-				"modelo":"MI A2/6X",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-Mind-V3.xml",
-				"chagelog":"---",
-				"author":"Vitor",
-				"versao":3.0
-			}
-		],
-		"chagelog":"---",
-		"versao":"3.0"
-	},
-	{
-		"nome":"Tourão Night",
-		"descricao":"Configuração para disparo lento/noturno, obturador em 1/2, 12 frames. Recomendado para tirar fotos da sua mina que é diferente das outras em ambientes noturnos.",
-		"desc_global":"Setting for slow / night shooting, shutter in 1/2, 12 frames. Recommended for taking photos of your mine that is different from others in nighttime environments.",
-		"author":"Vitor",
-		"dispo_compativeis":[
-			{
-				"modelo":"Redmi Note 7/Pro",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-Night-V3.xml",
-				"chagelog":"---",
-				"author":"Vitor",
-				"versao":3.0
-			},
-			{
-				"modelo":"MI A2/6X",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-Night-V3.xml",
-				"chagelog":"---",
-				"author":"Vitor",
-				"versao":3.0
-			}
-		],
-		"chagelog":"---",
-		"versao":"3.0"
-	}
+   {
+      "nome":"Day",
+      "descricao":"Uso diurno. Disparador rápido. 1/33 controle de denoise pra suprimir ruídos. Lib Xlib2, ajustes de saturação na câmera frontal e traseira. Grid Proporção Áurea. SuperZoom ativado. 15 frames.",
+      "desc_global":"Daily usage. Quick shoot. 1/33 denoise control for noise suppression. Xlib2 lib, saturation settings on front and rear camera. Golden ratio grid. SuperZoom enabled. 15 frames.",
+      "author":"Richard, Enzo OP5/T, @NathanG0m3s S9/PLUS",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-D-Ar-1.4.xml",
+            "chagelog":"Version Final 4.4.",
+            "author":" Richard",
+            "versao":1.4
+         },
+         {
+            "modelo":"Mi 8/Pro/EE",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-D-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"OnePlus 5/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ(E)-D-Ar%201.0o5t.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-D-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/s9%2B%20Day%20%40NathanG0m3s.xml",
+            "chagelog":"---",
+            "author":" @NathanGom3s",
+            "versao":1.0
+         },
+         {
+            "modelo":"Lenovo K6 Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/1UpArnovaXSDay.xml",
+            "chagelog":"initial",
+            "author":"Jairo Rossi",
+            "versao":1.0
+         },
+         {
+            "modelo":"Redmi Note 6/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/RN6P_pTk.xml",
+            "chagelog":"initial",
+            "author":"Patrick Pereira",
+            "versao":1.0
+         }
+      ],
+      "changelog":"Versão final Para Mi A2/6X",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Daily use - Exynos",
+      "descricao":"Este perfil é para uso diário em geral, voltado para o dia.",
+      "desc_global":"This profile is for everyday use in general, geared towards the day.",
+      "author":"Chillrod",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Chillrod_arnova1.4.1_note9SD_Pie.xml",
+            "chagelog":"Initial",
+            "author":"Chillrod",
+            "versao":1.0
+         },
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Chillrod_arnova1.4.1_note9SD_Pie.xml",
+            "chagelog":"Initial",
+            "author":"Chillrod",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"Daily use - Snapdragon",
+      "descricao":"Este perfil é para uso diário em geral, voltado para o dia.",
+      "desc_global":"This profile is for everyday use in general, geared towards the day.",
+      "author":"d2fan, @NathanGom3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/vkboy_S9_S9Plus_Note9_Exynos.xml",
+            "chagelog":"Initial",
+            "author":"vkboy",
+            "versao":1.0
+         },
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/d2fan.xml",
+            "chagelog":"Initial",
+            "author":"d2fan",
+            "versao":1.5
+         },
+         {
+            "modelo":"Mi A2/6X",
+            "link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/arnova/Fresquinha%20xiaomis.xml",
+            "chagelog":"Initial",
+            "author":"@NathanGom3s",
+            "versao":1.0
+         },
+         {
+            "modelo":"Redmi Note 7/Pro",
+            "link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/arnova/Fresquinha%20xiaomis.xml",
+            "chagelog":"Initial",
+            "author":"@NathanGom3s",
+            "versao":1.0
+         },
+         {
+            "modelo":"Mi 8/Pro/EE",
+            "link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/arnova/Fresquinha%20xiaomis.xml",
+            "chagelog":"Initial",
+            "author":"@NathanGom3s",
+            "versao":1.0
+         },
+         {
+            "modelo":"Mi 8 Lite",
+            "link":"https://github.com/rogers2602/gcamprofiles/blob/master/files/arnova/Fresquinha%20xiaomis.xml",
+            "chagelog":"Initial",
+            "author":"@NathanGom3s",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"Exclusive",
+      "descricao":"Profile projetado para Galaxy S9 e Note 9, serve pra qualquer situação.\nBaseado no Delight. \nDestaques: \nCamera Frontal, Redução de ruídos. \nApós aplicar vá até configurações avançado clique em Lib e escolha Xlib2s",
+      "desc_global":"Profile presented to the Galaxy S9 and Note 9, cater for any situation.\nBased on Delight. \nDallas: \nCamera Frontal, Noise reduction. \nAfter pages can be launched in Lib and choose Xlib2s",
+      "author":"Richard Rezende",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-Exclusive-S9N9.xml",
+            "chagelog":"---",
+            "author":"Richard Rezend",
+            "versao":1.0
+         },
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-Exclusive-S9N9.xml",
+            "chagelog":"---",
+            "author":"Richard Rezend",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Iron HRT 9",
+      "descricao":"Trabalhando Gcam para Violet, black_small_square: Trabalhando Night Sight, black_small_square: Como importar/exportar arquivo de configuração",
+      "desc_global":"Working Gcam for Violet, black_small_square: Working Night Sight, black_small_square: Portraits are working fine too, black_small_square: How to import/export config file",
+      "author":"Boxer198615",
+      "dispo_compativeis":[
+         {
+            "modelo":"Redmi Note 7/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/RN7P-IronHrt-9.xml",
+            "chagelog":"---",
+            "author":"Boxer198615",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Daystroyer",
+      "descricao":"Sem descrição...",
+      "desc_global":"No description at moment",
+      "author":"@NathanG0m3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/S9%2B%20Daystroyer%20%40NathanG0m3s.xml",
+            "chagelog":"Update libs",
+            "author":" @NathanGom3s",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Geral",
+      "descricao":"Uso geral",
+      "desc_global":"General use",
+      "author":"@DricaMoreira",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI 6",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Mi6TopGeral.xml",
+            "chagelog":"",
+            "author":"@DricaMoreiras",
+            "versao":1.0
+         },
+         {
+            "modelo":"MI 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Mi9-v3.xml",
+            "chagelog":"",
+            "author":"@DricaMoreiras",
+            "versao":1.0
+         },
+         {
+            "modelo":"MI 9 SE",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Mi9-v3.xml",
+            "chagelog":"",
+            "author":"@DricaMoreiras",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
+      "nome":"GlobalConfig",
+      "descricao":"Configurações para uso Geral, em todas as condições que deseja 'Equilibrado'",
+      "desc_global":"Settings for General Use, under all conditions you want 'Balanced'",
+      "author":"@srmarcos",
+      "dispo_compativeis":[
+         {
+            "modelo":"Mi A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/GlobalConfig-1.0-Arnova-Mi%20A2-6X.xml",
+            "chagelog":"Shuttle 1/10 \nDenoise paraments adjusted\nRetrato HDR+ enabled\nSuperZoom on\nLibs Google Stock\nSaturation Adjusted\nCorrection to color Pixel3 On\nAuxiliary Cam On (long press) \nGrade 3x3\nPhotos Off\nRaw On",
+            "author":"@srmarcos",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Jap Moto G",
+      "descricao":"Perfil para uso geral, e remoção de manchas roxas.",
+      "desc_global":"Profile for general use, and removal of purple spots.",
+      "author":"Juan Antonio",
+      "dispo_compativeis":[
+         {
+            "modelo":"G5 Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/jap.xml",
+            "chagelog":"---",
+            "author":" Juan Antonio",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.0"
+   },
+   {
+      "nome":"NightHard",
+      "descricao":"Configuração para se usar em condições extremas com HDR+. E não visão noturna, mas caso queria comparar fique a vontade.\nUSE UM TRIPÉ POR FAVOR",
+      "desc_global":"Configuration for extreme use with HDR +. And not night vision, but if you wanted to compare, feel free.\nUSE A TRIPOD PLEASE",
+      "author":"@srmarcos",
+      "dispo_compativeis":[
+         {
+            "modelo":"Mi A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/NightHard%20V1.0.xml",
+            "chagelog":"Ajustes\nShuttle 4s\nFrame 3\nGrade 3x3\nNoise reduce\n Pixel 3 correction color\nRaw enable\nCam Aux (aperta e segura o botão de ir para a forntal)\nGoogle photos Off\n",
+            "author":"@srmarcos",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Night",
+      "descricao":"Uso noturno. Disparador um pouco mais lento, porém ainda rápido o bastante pra tirar fotos com amigos ou pessoas em um bar sem muito esforço ou necessidade de se manter imóvel por muito tempo. Disparador 1/20, supressão de ruído adequado ao disparador. Lib Xlib2 e tudo que temos no perfil D. 15 frames ",
+      "desc_global":"Night usage. Slightly slower shoot, but still fast enough to take pictures with friends or people with no effort or the need to be still for a long time. Shutter 1/20. Noise suppression changed to fit the shutter. Xlib2 lib and everything we have in profile D. 15 frames.",
+      "author":"Richard, Enzo OP5/T, @NathanG0m3s S9/PLUS",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.4.xml",
+            "chagelog":"Version Final 4.4.",
+            "author":" Richard",
+            "versao":1.4
+         },
+         {
+            "modelo":"Mi 8/Pro/EE",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"Mi 8 Lite",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"OnePlus 5/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ(E)-N-Ar%201.0o5t.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-N-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Night%20S9%2B%201.4.xml",
+            "chagelog":"---",
+            "author":" @NathanGom3s",
+            "versao":1.0
+         },
+         {
+            "modelo":"Lenovo K6 Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/1UpArnovaR0Night.xml",
+            "chagelog":"initial",
+            "author":"Jairo Rossi",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"Versão final Para Mi A2/6X",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Night zero noise",
+      "descricao":"Nortuno 0 Ruído",
+      "desc_global":"Night zero noise",
+      "author":"@NathanG0m3s.xml",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Noturno%200%20de%20ru%C3%ADdo%20%40NathanG0m3s.xml",
+            "chagelog":"---",
+            "author":"@NathanG0m3s.xml",
+            "versao":1.0
+         },
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Noturno%200%20de%20ru%C3%ADdo%20%40NathanG0m3s.xml",
+            "chagelog":"---",
+            "author":"@NathanG0m3s.xml",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Portrait GCAM 1.5",
+      "descricao":"Metering mode focado em retratos\nSaturação mais real possível.\nDisparador 1/33 ótimo para fotos diurnas",
+      "desc_global":"Metering mode focused on portraits \nSaturation as real as possible. \nDriver 1/33 great for daytime photos",
+      "author":"@NathanG0m3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20NathanG0m3s.xml",
+            "chagelog":"No changelog",
+            "author":"@NathanG0m3s",
+            "versao":1.5
+         },
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20NathanG0m3s.xml",
+            "chagelog":"No changelog",
+            "author":"@NathanG0m3s",
+            "versao":1.5
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.5"
+   },
+   {
+      "nome":"Portrait GCAM 1.4",
+      "descricao":"Metering mode focado em retratos\nSaturação mais real possível.\nDisparador 1/33 ótimo para fotos diurnas",
+      "desc_global":"Metering mode focused on portraits \nSaturation as real as possible. \nDriver 1/33 great for daytime photos",
+      "author":"@NathanG0m3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20Arnova%201.4%20%40%2CNathanG0m3s.xml",
+            "chagelog":"No changelog",
+            "author":"@NathanG0m3s",
+            "versao":1.4
+         },
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20Arnova%201.4%20%40%2CNathanG0m3s.xml",
+            "chagelog":"No changelog",
+            "author":"@NathanG0m3s",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.5"
+   },
+   {
+      "nome":"Portrait GCAM 1.4 - strong sun",
+      "descricao":"(Sol Forte) Metering mode focado em retratos\nSaturação mais real possível.\nDisparador 1/33 ótimo para fotos diurnas",
+      "desc_global":"(strong sun)Metering mode focused on portraits \nSaturation as real as possible. \nDriver 1/33 great for daytime photos",
+      "author":"@NathanG0m3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20Arnova%201.4%20SOL%20Forte%20%40NathanG0m3s.xml",
+            "chagelog":"No changelog",
+            "author":"@NathanG0m3s",
+            "versao":1.4
+         },
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Portrait%20Arnova%201.4%20SOL%20Forte%20%40NathanG0m3s.xml",
+            "chagelog":"No changelog",
+            "author":"@NathanG0m3s",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.5"
+   },
+   {
+      "nome":"Super Day S9 Plus",
+      "descricao":"Este perfil é parecido com day, porém é pros dias de sol mais forte.",
+      "desc_global":"This profile is similar to day, however it is the days of strongest sun.",
+      "author":"@NathanGom3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Super%20Day%20S9%2B%201.4%20%40NathanG0m3s.xml",
+            "chagelog":"Update libs",
+            "author":"@NathanGom3s",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"Sharpen",
+      "descricao":"Uso em ambas situações dia e noite. Disparador 1/8 ideal pra paisagens diurnas e noturnas. Retratos corre o risco de borrar. Cancelamento de ruído e SuperZoom ativados. Xlib2 15 frames",
+      "desc_global":"Use in both situations day and night. 1/8 shutter ideal for daytime and nighttime landscapes. Portraits risks erasing. Noise cancellation and SuperZoom enabled. Xlib2 15 frames.",
+      "author":"Richard, Enzo OP5/T",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.4.xml",
+            "chagelog":"Version Final 4.4.",
+            "author":" Richard",
+            "versao":1.4
+         },
+         {
+            "modelo":"Mi 8/Pro/EE",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"Mi 8 Lite",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"OnePlus 5/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ(E)-S-Ar%201.0o5t.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-S-Ar-1.0-JPEG-one.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"Versão final Para Mi A2/6X",
+      "versao":"1.0"
+   },
+   {
+      "nome":"SharpN Quick",
+      "descricao":"Nítida com disparo rápido, boa pra macros.",
+      "desc_global":"Sharp with fast firing, good for macros.",
+      "author":"Enzo",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 5/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/3nZ0-SharpN'Quick-Ar%201.0.xml",
+            "chagelog":"No changelog",
+            "author":" Enzo",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.0"
+   },
+   {
+      "nome":"SG ALL ",
+      "descricao":"SG ALL - Use 6P como Base com P2 AWB para dar cores mais realistas em todos os cenários. Imagens frias ao dia, fotos frias à noite com ruído de 0 (usando HDR + Multiplicador Denoise).",
+      "desc_global":"SG ALL - Use 6P as Base with P2 AWB to give more realistic colors in all scenarios. Cold pictures at day, Cold pictures at night with 0 noise (using HDR+ Multiplier Denoise)",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20ALL%20Arnova%201.6.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.6
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG",
+      "descricao":"Qualquer condição, cores reais.",
+      "desc_global":"Any condition, real colors.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%2018-4%20Arnova%201.5.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - Exclusive",
+      "descricao":"Recem criado SG, zero de Ruido/Noise, ideal para qualquer condição.",
+      "desc_global":"Just created SG, Noise Noise / Noise, ideal for any condition.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20Exclusive%20Arnova%201.5.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - Satured",
+      "descricao":"Qualquer condições,cores saturadas.",
+      "desc_global":"Any conditions, saturated colors.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20SATURATED%2018-4%20Arnova%201.5.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - Sports",
+      "descricao":"Modo Sport para tirar fotos de pessoas/objetos em movimiento.",
+      "desc_global":"Sport mode for taking pictures of people/objects on the move.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20SPORTS%20Arnova%201.5.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - SuperZoom",
+      "descricao":"Super resolução ao aplicar zoom.",
+      "desc_global":"Super Resolution when zooming.",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20SuperResZoom%2018-4%20Arnova%201.5.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"SG - White",
+      "descricao":"Se você notar tons amarelados, este XML irá corrigir, entregando cores mais brancas",
+      "desc_global":"If you notice yellowish tones, this XML will fix, delivering whiter colors",
+      "author":"Juan/Canario",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20WHITE%2018-4%20Arnova%201.5.xml",
+            "chagelog":"---",
+            "author":" Juan/Canario",
+            "versao":1.4
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.4"
+   },
+   {
+      "nome":"Tourão Fast",
+      "descricao":"Configuração para disparo rápido, obturador em 1/33, 9 frames. Recomendado para tirar fotos do seu amigo touro durante o dia ou em boa iluminação.",
+      "desc_global":"Setting for fast shutter, 1/33 shutter, 9 frames. Recommended to take pictures of your bull friend during the day or in good lighting.",
+      "author":"Vitor",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-fast-v3.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":3.0
+         },
+         {
+            "modelo":"Redmi Note 7/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-fast-v3.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":3.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"3.0"
+   },
+   {
+      "nome":"Tourão Medio",
+      "descricao":"Configuração para disparo médio, obturador em 1/8, 12 frames. Recomendado para tirar fotos do seu amigo touro  durante o dia ou em mesmo de noite.",
+      "desc_global":"Setting for medium shooting, 1/8 shutter, 12 frames. Recommended to take pictures of your bull friend during the day or even at night.",
+      "author":"Vitor",
+      "dispo_compativeis":[
+         {
+            "modelo":"Redmi Note 7/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-Mind-V3.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":3.0
+         },
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-Mind-V3.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":3.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"3.0"
+   },
+   {
+      "nome":"Tourão Night",
+      "descricao":"Configuração para disparo lento/noturno, obturador em 1/2, 12 frames. Recomendado para tirar fotos da sua mina que é diferente das outras em ambientes noturnos.",
+      "desc_global":"Setting for slow / night shooting, shutter in 1/2, 12 frames. Recommended for taking photos of your mine that is different from others in nighttime environments.",
+      "author":"Vitor",
+      "dispo_compativeis":[
+         {
+            "modelo":"Redmi Note 7/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-Night-V3.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":3.0
+         },
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova-RN7-Tour%C3%A3o-Night-V3.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":3.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"3.0"
+   }
 ]
