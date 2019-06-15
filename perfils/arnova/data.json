@@ -501,6 +501,7 @@
 		"chagelog":"---",
 		"versao":"1.4"
 	},
+        {
 		"nome":"SG",
 		"descricao":"Qualquer condição, cores reais.",
 		"desc_global":"Any condition, real colors.",
