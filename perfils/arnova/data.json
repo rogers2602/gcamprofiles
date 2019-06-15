@@ -485,6 +485,22 @@
 		"versao":"1.0"
 	},
 	{
+		"nome":"SG ALL ",
+		"descricao":"SG ALL - Use 6P como Base com P2 AWB para dar cores mais realistas em todos os cenários. Imagens frias ao dia, fotos frias à noite com ruído de 0 (usando HDR + Multiplicador Denoise).",
+		"desc_global":"SG ALL - Use 6P as Base with P2 AWB to give more realistic colors in all scenarios. Cold pictures at day, Cold pictures at night with 0 noise (using HDR+ Multiplier Denoise)",
+		"author":"Juan/Canario",
+		"dispo_compativeis":[
+			{
+				"modelo":"OnePlus 6/T",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/SG%20ALL%20Arnova%201.6.xml",
+				"chagelog":"---",
+				"author":" Juan/Canario",
+				"versao":1.6
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.4"
+	},
 		"nome":"SG",
 		"descricao":"Qualquer condição, cores reais.",
 		"desc_global":"Any condition, real colors.",
