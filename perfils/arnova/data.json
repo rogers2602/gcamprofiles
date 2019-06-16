@@ -100,6 +100,68 @@
       "versao":"1.4"
    },
    {
+      "nome":"Daily Use- Uso Diário -OP7",
+      "descricao":"For day-to-day use, quick firing.",
+      "desc_global":"Metering mode focused on portraits \nSaturation as real as possible. \nDriver 1/33 great for daytime photos",
+      "author":"@NathanG0m3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 7T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/OP7-%20Arnova%20Beta-%20Fizwiz%201.6.xml",
+            "chagelog":"No changelog",
+            "author":"Fizwiz",
+            "versao":1.0
+         },
+         {
+            "modelo":"OnePlus 7",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/OP7-%20Arnova%20Beta-%20Fizwiz%201.6.xml",
+            "chagelog":"No changelog",
+            "author":"Fizwiz",
+            "versao":1.0
+         },
+         {
+            "modelo":"OnePlus 7 PRO",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/OP7-%20Arnova%20Beta-%20Fizwiz%201.6.xml",
+            "chagelog":"No changelog",
+            "author":"Fizwiz",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Daily Use- Uso Diário -OP7 - XLIB2",
+      "descricao":"Pra uso no dia a dia, disparo rápido.",
+      "desc_global":"For day-to-day use, quick firing",
+      "author":"@NathanG0m3s",
+      "dispo_compativeis":[
+         {
+            "modelo":"OnePlus 7T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/OP7-%20Arnova%20Beta-%20Xlib2-%20Fizwiz%204.1.xml",
+            "chagelog":"No changelog",
+            "author":"Fizwiz",
+            "versao":1.0
+         },
+         {
+            "modelo":"OnePlus 7",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/OP7-%20Arnova%20Beta-%20Xlib2-%20Fizwiz%204.1.xml",
+            "chagelog":"No changelog",
+            "author":"Fizwiz",
+            "versao":1.0
+         },
+         {
+            "modelo":"OnePlus 7 PRO",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/OP7-%20Arnova%20Beta-%20Xlib2-%20Fizwiz%204.1.xml",
+            "chagelog":"No changelog",
+            "author":"Fizwiz",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"1.0"
+   },
+   {
       "nome":"Daily use - Snapdragon",
       "descricao":"Este perfil é para uso diário em geral, voltado para o dia.",
       "desc_global":"This profile is for everyday use in general, geared towards the day.",
