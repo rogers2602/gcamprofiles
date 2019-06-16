@@ -59,6 +59,23 @@
       "versao":"1.0"
    },
    {
+      "nome":"Dia (Day-RN5)",
+      "descricao":"Fotos rápidas pensadas em fotos de dia e prontas para quem não pretende editar\nCores fortes e contraste elevado",
+      "desc_global":"Quick photos thought of day and ready-made photos for those who do not want to edit \nColors and high contrast",
+      "author":"Arthur Monteiro",
+      "dispo_compativeis":[
+         {
+            "modelo":"Redmi Note 5/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/dia_v1.xml",
+            "chagelog":"inicial",
+            "author":"Arthur Monteiro",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
       "nome":"Daily use - Exynos",
       "descricao":"Este perfil é para uso diário em geral, voltado para o dia.",
       "desc_global":"This profile is for everyday use in general, geared towards the day.",
@@ -135,6 +152,23 @@
       "versao":"1.4"
    },
    {
+      "nome":"Edição",
+      "descricao":"Feito com intuito de preservar o máximo de detalhes possível, mais precisamente focado em quem quer editar suas fotos depois\nImagens levemente mais escuras pra evitar super exposição\nCores mais lavadas\nRAW habilitado",
+      "desc_global":"Made to preserve as much detail as possible, more precisely focused on who wants to edit your photos later \nLightly darker images to avoid over exposure \nGreen colors \nRAW enabled",
+      "author":"Arthur Monteiro",
+      "dispo_compativeis":[
+         {
+            "modelo":"Redmi Note 5/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/edi%C3%A7%C3%A3o_v1.xml",
+            "chagelog":"inicial",
+            "author":"Arthur Monteiro",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
       "nome":"Exclusive",
       "descricao":"Profile projetado para Galaxy S9 e Note 9, serve pra qualquer situação.\nBaseado no Delight. \nDestaques: \nCamera Frontal, Redução de ruídos. \nApós aplicar vá até configurações avançado clique em Lib e escolha Xlib2s",
       "desc_global":"Profile presented to the Galaxy S9 and Note 9, cater for any situation.\nBased on Delight. \nDallas: \nCamera Frontal, Noise reduction. \nAfter pages can be launched in Lib and choose Xlib2s",
@@ -193,7 +227,7 @@
       "versao":"1.0"
    },
    {
-      "nome":"Geral",
+      "nome":"Uso Geral",
       "descricao":"Uso geral",
       "desc_global":"General use",
       "author":"@DricaMoreira",
@@ -206,18 +240,18 @@
             "versao":1.0
          },
          {
-            "modelo":"MI 9",
+            "modelo":"Mi Max 3",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Mi9-v3.xml",
-            "chagelog":"",
+            "chagelog":" ",
             "author":"@DricaMoreiras",
             "versao":1.0
          },
          {
             "modelo":"MI 9 SE",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Mi9-v3.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/Arnova%206.1-1.6.xml",
             "chagelog":"",
-            "author":"@DricaMoreiras",
-            "versao":1.0
+            "author":"Hedertone Almeida",
+            "versao":1.1
          }
       ],
       "chagelog":"---",
@@ -255,6 +289,40 @@
          }
       ],
       "chagelog":"Inicial",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Movimento",
+      "descricao":"Fotos muito mais rápidas, pensada para objetos em movimento/crianças etc",
+      "desc_global":"Pictures much faster, thought for moving objects/children etc",
+      "author":"Arthur Monteiro",
+      "dispo_compativeis":[
+         {
+            "modelo":"Redmi Note 5/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/movimento_v1.xml",
+            "chagelog":"inicial",
+            "author":"Arthur Monteiro",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+   {
+      "nome":"Night (Noite-RN5)",
+      "descricao":"Fotos pensadas em ambiente noturno ou de baixa luz, recomendado apoiar o aparelho antes da foto",
+      "desc_global":"Photos designed in night or low light, recommended to support the device before the photo",
+      "author":"Arthur Monteiro",
+      "dispo_compativeis":[
+         {
+            "modelo":"Redmi Note 5/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/noite_v1.xml",
+            "chagelog":"inicial",
+            "author":"Arthur Monteiro",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
       "versao":"1.0"
    },
    {
