@@ -1,0 +1,74 @@
+[
+   {
+      "nomegcam":"Profiles???",
+      "descricao":"Alguns usuários estão com dificuldades para usar os profiles, no app>menu pontilhado há um tutorial de como usar.\n\nMas se ainda sim, você não consegue, verifique a versão de sua Gcam caso seja a 6.2 ela não tem suporte a importação de Profiles.\n\nAgradecemos o feedback de todos usuários em breve melhorias.",
+      "desc_global":"Some users are having difficulty using the profiles, in the menu in the dotted menu there is a tutorial on how to use them.\nBut if still, you can not, check the version of your Gcam if it is 6.2, it does not support importing Profiles.\n\nWe appreciate feedback from all users soon improvements.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/icondoubt.png",
+      "action":3,
+      "url":"null"
+   },
+   {
+      "nomegcam":"Gcam Brasil Downloads",
+      "descricao":"No Gcam Brasil você baixa a Gcam adequada para seu celular basta selecionar a marca e modelo.",
+      "desc_global":"In Gcam Brasil you download the appropriate Gcam for your cell phone just select the make and model.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/icondwsite2.png",
+      "action":2,
+      "url":"https://gcambrasil.com.br/app"
+   },
+   {
+      "nomegcam":"Arnova ",
+      "descricao":"Perfis de camera para Google Camera do Desenvolvedor Arnova.",
+      "desc_global":"Camera Profiles for Google Camera from Arnova Developer.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_arnova.png",
+      "action":1,
+      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/arnova/data.json"
+   },
+   {
+      "nomegcam":"Gcam Brasil Oficial",
+      "descricao":"Profiles oficiais para diversos aparelhos",
+      "desc_global":"Official Profiles for various devices",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_brasil.png",
+      "action":1,
+      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/oficial/data.json"
+   },
+   {
+      "nomegcam":"Sanity",
+      "descricao":"Perfis de camera para Google Camera/Ports do Desenvolvedor Sanity",
+      "desc_global":"Camera Profiles for Google Camera/Ports from Sanity Developer.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_sanity.png",
+      "action":1,
+      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/sanity/data.json"
+   },
+   {
+      "nomegcam":"Tolyan009",
+      "descricao":"Perfis de camera para Google Camera/Ports do Desenvolvedor Tolyan009",
+      "desc_global":"Camera Profiles for Google Camera/Ports from Tolyan009 Developer.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_toylan.png",
+      "action":1,
+      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/tolyan/data.json"
+   },
+   {
+      "nomegcam":"Uncategorized",
+      "descricao":"Perfis de alguns modelos de celular não categorizados nem autor nem gcam, esses é só testantando.",
+      "desc_global":"Profiles of some mobile phone models not categorized neither author nor gcam, these are just testing.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/uncategorized.png",
+      "action":1,
+      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/uncategorized/data.json"
+   },
+   {
+      "nomegcam":"Urnyx",
+      "descricao":"Perfis de camera para Google Camera do Desenvolvedor Urnyx.",
+      "desc_global":"Camera Profiles for Google Camera from Urnyx Developer.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_urnyx.png",
+      "action":1,
+      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/urnyx/data.json"
+   },
+   {
+      "nomegcam":"Xcam",
+      "descricao":"Perfis de camera para Google Camera do Desenvolvedor Xtrme",
+      "desc_global":"Camera Profiles for Google Camera from Xtrme Developer.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_xcam.png",
+      "action":1,
+      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/xcam/data.json"
+   }
+]
