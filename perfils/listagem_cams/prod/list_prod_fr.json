@@ -8,6 +8,14 @@
       "url":"null"
    },
    {
+      "nomegcam":"GCam Brasil Club",
+      "descricao":"Em breve app do GCam Brasil Club, tutoriais, comparativos e muito mais! Faça o pré registro agora mesmo! .",
+      "desc_global":"Soon GCam Brasil Club app, tutorials, comparatives and more! Pre-register now! ",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/ICON.png",
+      "action":2,
+      "url":"https://play.google.com/store/apps/details?id=com.devmarques.gcambrasil&hl=pt_BR"
+   },
+   {
       "nomegcam":"Gcam Brasil Downloads",
       "descricao":"No Gcam Brasil você baixa a Gcam adequada para seu celular basta selecionar a marca e modelo.",
       "desc_global":"In Gcam Brasil you download the appropriate Gcam for your cell phone just select the make and model.",
