@@ -8,14 +8,6 @@
       "url":"null"
    },
    {
-      "nomegcam":"Contribua (Contribute)",
-      "descricao":"Você conheçe alguém que faça profiles, ou você tem algum perfil legal? contrbua enviando para gente, informações na aba Mudanças.",
-      "desc_global":"Do you know someone who does profiles, or do you have some interesting profile? contradicts by sending people information on the Changes tab.",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/contribute.png",
-      "action":3,
-      "url":"null"
-   },
-   {
       "nomegcam":"Gcam Brasil Downloads",
       "descricao":"No Gcam Brasil você baixa a Gcam adequada para seu celular basta selecionar a marca e modelo.",
       "desc_global":"In Gcam Brasil you download the appropriate Gcam for your cell phone just select the make and model.",
