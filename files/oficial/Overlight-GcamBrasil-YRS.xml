@@ -27,7 +27,7 @@
     <string name="pref_video_quality_front_key">large</string>
     <string name="pref_camera_picturesize_back_key">4032x3024</string>
     <string name="pref_allow_unknown_devices_key">0</string>
-    <string name="pref_camera_back_flashmode_key">on</string>
+    <string name="pref_camera_back_flashmode_key">off</string>
     <string name="pref_disable_zoom_key">0</string>
     <string name="pref_mode_vesper_level">0</string>
     <string name="pref_camera_hdr_key">0</string>
