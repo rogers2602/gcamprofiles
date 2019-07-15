@@ -27,7 +27,7 @@
     <string name="pref_video_quality_front_key">large</string>
     <string name="pref_camera_picturesize_back_key">4032x3024</string>
     <string name="pref_allow_unknown_devices_key">0</string>
-    <string name="pref_camera_back_flashmode_key">off</string>
+    <string name="pref_camera_back_flashmode_key">on</string>
     <string name="pref_disable_zoom_key">0</string>
     <string name="pref_mode_vesper_level">0</string>
     <string name="pref_camera_hdr_key">0</string>
@@ -46,10 +46,10 @@
     <string name="pref_back_denoise_revert_0_key">3000</string>
     <string name="libPicker_key">xlib2s</string>
     <string name="buffer_key">0</string>
-    <string name="frames_min_key">20</string>
+    <string name="frames_min_key">25</string>
     <string name="pref_sabre_key">0</string>
     <string name="pref_badtf_fix_key">0</string>
-    <string name="pref_meteringmode_key">0</string>
+    <string name="pref_meteringmode_key">3</string>
     <string name="pref_opticalstabi_key">1</string>
     <string name="pref_volume_key_action">Obturador</string>
     <string name="pref_auxbackcameraid_key">0</string>
@@ -72,7 +72,7 @@
     <string name="pref_back_noise_model_as_key">423575</string>
     <string name="pref_enable_lowlight_key">0</string>
     <string name="config_key">8</string>
-    <string name="pref_camera_hdr_plus_key">auto</string>
+    <string name="pref_camera_hdr_plus_key">on</string>
     <string name="vfp_ae_key">1</string>
     <string name="pref_video_stabilization_key">1</string>
     <string name="pref_front_noise_model_bo_key">11250</string>
@@ -121,7 +121,7 @@
     <string name="pref_front_noise_model_bs_key">22725</string>
     <string name="pref_refocus_resolution_key">12</string>
     <string name="pref_disable_slowmotion_key">1</string>
-    <string name="pref_camera_raw_output_option_available_key">0</string>
+    <string name="pref_camera_raw_output_option_available_key">1</string>
     <string name="pref_front_denoise_revert_2_key">5</string>
     <string name="pref_has_checked_cuttlefish_mode">1</string>
     <string name="pref_raw_compression_key">0</string>
