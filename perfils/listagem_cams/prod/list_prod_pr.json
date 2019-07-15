@@ -29,7 +29,7 @@
       "desc_global":"Official Profiles for various devices",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gbpro.png",
       "action":1,
-      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/oficial/data.json"
+      "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/oficial/data_json_pr.json"
    },
    {
       "nomegcam":"Sanity",
