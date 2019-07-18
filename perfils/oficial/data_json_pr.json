@@ -314,10 +314,10 @@
          },
          {
             "modelo":"Mi 9",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Richard.xml",
-            "chagelog":"",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/rogers2602-patch-1/files/oficial/RichardMi9.xml",
+            "chagelog":"Use xlib2s",
             "author":"Richard",
-            "versao":1.2
+            "versao":1.3
          },         
          {
             "modelo":"Mi A1",
