@@ -12,7 +12,7 @@
     <string name="key_promote_launch_wear">0</string>
     <string name="pref_qjpg_key">100</string>
     <string name="portrait_fixer">1</string>
-    <string name="raw_key">37</string>
+    <string name="raw_key">32</string>
     <string name="pref_camera_grid_lines_mode">3</string>
     <string name="pref_camera_pano_orientation">pano_horizontal</string>
     <string name="pref_hexagon_key">0</string>
@@ -46,7 +46,7 @@
     <string name="pref_back_denoise_revert_0_key">3000</string>
     <string name="libPicker_key">xlib2s</string>
     <string name="buffer_key">0</string>
-    <string name="frames_min_key">12</string>
+    <string name="frames_min_key">15</string>
     <string name="pref_sabre_key">0</string>
     <string name="pref_badtf_fix_key">0</string>
     <string name="pref_meteringmode_key">2</string>
@@ -130,7 +130,7 @@
     <string name="fix_ns_key">0</string>
     <string name="pref_livehdr_key">0</string>
     <string name="pref_back_denoise_luma_1_key">120</string>
-    <string name="exp_key">302</string>
+    <string name="exp_key">500</string>
     <string name="aux_key">0</string>
     <string name="pref_front_denoise_luma_1_key">60</string>
     <string name="pref_front_tuningmode_key">1</string>
