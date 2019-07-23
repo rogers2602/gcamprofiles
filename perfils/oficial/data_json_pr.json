@@ -339,7 +339,14 @@
             "chagelog":"",
             "author":"Richard",
             "versao":1.2
-         }
+         },
+         {
+            "modelo":"Redmi 7",
+            "link":"ttps://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-JRS.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
       ],
       "chagelog":"Inicial",
       "versao":"1.2"
