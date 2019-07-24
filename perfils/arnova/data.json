@@ -238,17 +238,17 @@
       "dispo_compativeis":[
          {
             "modelo":"Galaxy S9/Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-Exclusive-S9N9-V2.xml",
-            "chagelog":"Gcam-controlled exposure\nDot Matrix\nRefinement in Noise Reduction\nAdvanced Settings Select Xlib2s after you apply the profile",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-Exclusive-Final.xml",
+            "chagelog":"Final Version",
             "author":"Richard Rezend",
-            "versao":2.0
+            "versao":3.0
          },
          {
             "modelo":"Galaxy Note 9",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-Exclusive-S9N9-V2.xml",
-            "chagelog":"Gcam-controlled exposure\nDot Matrix\nRefinement in Noise Reduction\nAdvanced Settings Select Xlib2s after you apply the profile",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/arnova/rZ-Exclusive-Final.xml",
+            "chagelog":"Final version",
             "author":"Richard Rezend",
-            "versao":2.0
+            "versao":3.0
          }
       ],
       "chagelog":"---",
