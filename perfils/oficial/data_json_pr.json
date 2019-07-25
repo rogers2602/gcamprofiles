@@ -251,66 +251,66 @@
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight-YR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-YR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":1.3
          },
          {
             "modelo":"Mi 8/Pro/EE",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight-V1.1-GcamBrasil-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-JR10.xml",
             "chagelog":"",
             "author":" Richard",
-            "versao":1.2
+            "versao":1.3
          },
          {
             "modelo":"Mi 8 Lite",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight-V1.1-GcamBrasil-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-JR10.xml",
             "chagelog":"",
             "author":" Richard",
-            "versao":1.2
+            "versao":1.3
          },
          {
             "modelo":"Pocophone F1",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight-V1.1-GcamBrasil-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-JR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":1.3
          },
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight-V1.1-GcamBrasil-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-JR10.xml",
             "chagelog":"",
             "author":" Richard",
-            "versao":1.2
+            "versao":1.3
          },         
          {
             "modelo":"Mi Mix 2S",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight-V1.1-GcamBrasil-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-JR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":1.3
          },
          {
             "modelo":"Mi Mix 2",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight-V1.1-GcamBrasil-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-JR10.xml",
             "chagelog":"Corrections\nImprovement of noise in photo",
             "author":"Richard",
-            "versao":1.2
+            "versao":1.3
          },
          {
             "modelo":"Mi Mix 3",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight-V1.1-GcamBrasil-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-JR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.1
+            "versao":1.3
          },
          {
             "modelo":"Mi 6",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight-V1.1-GcamBrasil-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-JR10.xml",
             "chagelog":"Corrections\nImprovement of noise in photo",
             "author":"Richard",
-            "versao":1.2
+            "versao":1.3
          },
          {
             "modelo":"Mi 9",
@@ -321,31 +321,31 @@
          },         
          {
             "modelo":"Mi A1",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight-V1.1-GcamBrasil-YR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-YR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":1.3
          },
          {
             "modelo":"Galaxy S9/Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight-V1.1-GcamBrasil-YRS.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-YRS.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":1.3
          },
          {
             "modelo":"Galaxy Note 9",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight-V1.1-GcamBrasil-YRS.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-YRS.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":1.3
          },
          {
             "modelo":"Redmi 7",
-            "link":"ttps://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-JRS.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Gcambrasil-Overlight-JRS.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.0
+            "versao":1.1
          }
       ],
       "chagelog":"Inicial",
