@@ -5,6 +5,7 @@
 		"desc_global":"Do you know someone who does profiles, or do you have some interesting profile? contradicts by sending people information on the Changes tab.",
 		"icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/contribute.png",
 		"action":3,
+		"vs":"1.4.1",
 		"url":"null"
 	},
 	{
@@ -13,6 +14,7 @@
 		"desc_global":"Do you know someone who does profiles, or do you have some interesting profile? contradicts by sending people information on the Changes tab.",
 		"icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/contribute.png",
 		"action":2,
+		"vs":"1.4.1",
 		"url":"https://www.tecmundo.com.br/internet/141771-google-lanca-novidade-facilitar-vida-pedir-comida.htm"
 	},
 	{
@@ -21,6 +23,7 @@
 		"desc_global":"Camera Profiles for Google Camera from Arnova Developer.",
 		"icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_arnova.png",
 		"action":1,
+		"vs":"1.4.1",
 		"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/arnova/data.json"
 	},
 	{
@@ -29,6 +32,7 @@
 		"desc_global":"Official Profiles for various devices",
 		"icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_brasil.png",
 		"action":1,
+		"vs":"1.4.1",
 		"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/oficial/data.json"
 	},
 	{
@@ -37,6 +41,7 @@
 		"desc_global":"Camera Profiles for Google Camera/Ports from Sanity Developer.",
 		"icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_sanity.png",
 		"action":1,
+		"vs":"1.4.1",
 		"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/sanity/data.json"
 	},
 	{
@@ -45,6 +50,7 @@
 		"desc_global":"Camera Profiles for Google Camera from Xtrme Developer.",
 		"icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_xcam.png",
 		"action":1,
+		"vs":"1.4.1",
 		"url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/xcam/data.json"
 	}
 ]
