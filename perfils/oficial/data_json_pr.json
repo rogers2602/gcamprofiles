@@ -116,6 +116,13 @@
             "chagelog":"",
             "author":"Richard, Alterações de Adriana Moreira",
             "versao":1.2
+         },
+         {
+            "modelo":"G7 Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Inlight%201.2%20Gcam%20Brasil%20Oficial%20.xml",
+            "chagelog":"",
+            "author":"Richard, Alterações de Nathan",
+            "versao":1.2
          }
       ],
       "chagelog":"Inicial",
@@ -238,6 +245,13 @@
             "chagelog":"",
             "author":"Richard, Alterações de Adriana Moreira",
             "versao":1.2
+         },
+          {
+            "modelo":"G7 Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Delight%201.2%20Gcam%20Brasil%20Oficial.xml",
+            "chagelog":"",
+            "author":"Richard, Alterações de Nathan",
+            "versao":1.2
          }
       ],
       "chagelog":"Inicial",
@@ -346,6 +360,13 @@
             "chagelog":"",
             "author":"Richard",
             "versao":1.1
+         },
+         {
+            "modelo":"G7 Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight%201.3%20Gcam%20Brasil%20Oficial%20Motorola.xml",
+            "chagelog":"",
+            "author":"Richard, Alterações de Nathan",
+            "versao":1.2
          }
       ],
       "chagelog":"Inicial",
