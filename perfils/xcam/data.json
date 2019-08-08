@@ -306,5 +306,53 @@
 		],
 		"chagelog":"---",
 		"versao":"1.0"
+	},
+	{
+		"nome":"Makshow Glib Xcam6b9",
+		"descricao":"Configurações para o xtremes Cam beta9. Usa de banco, fotos nítidas e de alto contraste em quaisquer condições de iluminação nas câmeras principal, tele e frontal. Ultrawide não é suportado.",
+		"desc_global":"Config for xtrme's XCam beta9. Uses stock Google lib to make high-contrast, sharp and crisp photos in any light conditions on main, tele and front cameras. Ultrawide is not supported.",
+		"author":"Makshow",
+		"dispo_compativeis":[
+			{
+				"modelo":"Mi 9",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Makshow--Glib--Xcam6b9.xml",
+				"chagelog":"",
+				"author":"Makshow",
+				"versao":1.0
+			},
+			{
+				"modelo":"Mi 9 SE",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Makshow--Glib--Xcam6b9.xml",
+				"chagelog":"",
+				"author":"Makshow",
+				"versao":1.0
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
+	},
+	{
+		"nome":"Makshow Xlib Xcam6b9",
+		"descricao":"Config para XCAM XCAM beta9. Usa o Xlib modificado para dar sombras mais brilhantes e um visual mais quente para suas fotos. Suporta todas as quatro câmeras do Mi9. Problema conhecido: com pouca luz irá desfocar detalhes em uma foto.",
+		"desc_global":"Config for xtrme's XCam beta9. Uses modified Xlib to give brighter shadows and warmer look for your photos. Supports all four cameras of Mi9. Known issue: on very low light will blur out details on a photo.",
+		"author":"Makshow",
+		"dispo_compativeis":[
+			{
+				"modelo":"Mi 9",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Makshow--Xlib--Xcam6b9.xml",
+				"chagelog":"",
+				"author":"Makshow",
+				"versao":1.0
+			},
+			{
+				"modelo":"Mi 9 SE",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Makshow--Xlib--Xcam6b9.xml",
+				"chagelog":"",
+				"author":"Makshow",
+				"versao":1.0
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
 	}
 ]
