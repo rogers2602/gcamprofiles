@@ -12,7 +12,7 @@
     <string name="key_promote_launch_wear">0</string>
     <string name="pref_qjpg_key">100</string>
     <string name="portrait_fixer">1</string>
-    <string name="raw_key">32</string>
+    <string name="raw_key">37</string>
     <string name="pref_camera_grid_lines_mode">1</string>
     <string name="pref_camera_pano_orientation">pano_horizontal</string>
     <string name="pref_hexagon_key">0</string>
@@ -67,8 +67,8 @@
     <string name="google_photos_key">0</string>
     <string name="pref_camera_video_back_flashmode_key">off</string>
     <string name="highlight_f_key">9</string>
-    <string name="pref_force_raw10_front_key">0</string>
-    <string name="exp_ns_key">5000</string>
+    <string name="pref_force_raw10_front_key">1</string>
+    <string name="exp_ns_key">0</string>
     <string name="pref_back_noise_model_as_key">847150</string>
     <string name="pref_enable_lowlight_key">0</string>
     <string name="config_key">8</string>
@@ -105,7 +105,7 @@
     <string name="pref_video_fps_p2018_key">FPS_30</string>
     <string name="pref_micro_res2_key">1</string>
     <string name="cs_video_key">0</string>
-    <string name="img_key">35</string>
+    <string name="img_key">256</string>
     <string name="pref_camera_raw_output_key">0</string>
     <string name="pref_back_denoise_chroma_2_key">300</string>
     <string name="pref_video_hevc_setting_key">1</string>
