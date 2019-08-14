@@ -517,6 +517,13 @@
             "chagelog":"",
             "author":"Richard",
             "versao":1.0
+         },
+         {
+            "modelo":"Redmi Note 6/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Truelight-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Inicial",
