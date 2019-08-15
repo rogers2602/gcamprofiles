@@ -123,6 +123,27 @@
             "chagelog":"",
             "author":"Richard, Alterações de Nathan",
             "versao":1.2
+         },
+         {
+            "modelo":"Zenfone 4",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Inlight%20G7%20Zenfone4.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"G7",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Inlight%20G7%20Zenfone4.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"OnePlus 7 PRO",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Inlight%20-1.2-Gcam%20Brasil%20Oficial-Oneplus-7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Inicial",
@@ -252,6 +273,27 @@
             "chagelog":"",
             "author":"Richard, Alterações de Nathan",
             "versao":1.2
+         },
+         {
+            "modelo":"Zenfone 4",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Delight%20G7%20ZenFone%204.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"G7",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Delight%20G7%20ZenFone%204.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"OnePlus 7 PRO",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Delight%20-1.2-Gcam%20Brasil%20Oficial-Oneplus-7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Inicial",
@@ -373,6 +415,27 @@
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight%201.3%20Gcam%20Brasil%20Oficial%20Motorola.xml",
             "chagelog":"",
             "author":"Richard, Alterações de Nathan",
+            "versao":1.2
+         },
+         {
+            "modelo":"Zenfone 4",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight%20G7%20Zenfone%204.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"G7",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight%20G7%20Zenfone%204.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+         {
+            "modelo":"OnePlus 7 PRO",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight%20-1.2-Gcam%20Brasil%20Oficial-Oneplus-7.xml",
+            "chagelog":"",
+            "author":"Richard",
             "versao":1.2
          }
       ],
