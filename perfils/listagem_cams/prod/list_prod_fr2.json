@@ -9,15 +9,6 @@
       "url":"null"
    },
    {
-      "nomegcam":"GCam Brasil Club",
-      "descricao":"Baixe agora mesmo o app do Gcam Brasil, tutoriais, dicas e muito mais!",
-      "desc_global":"Download the Gcam Brasil app right now, tutorials, tips and more!",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/iconvv.png",
-      "action":2,
-      "vs":"1.5.0",
-      "url":"https://play.google.com/store/apps/details?id=com.devmarques.gcambrasil&hl=pt_BR"
-   },
-   {
       "nomegcam":"Gcam Brasil Downloads",
       "descricao":"No Gcam Brasil você baixa a Gcam adequada para seu celular basta selecionar a marca e modelo.",
       "desc_global":"In Gcam Brasil you download the appropriate Gcam for your cell phone just select the make and model.",
