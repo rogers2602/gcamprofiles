@@ -1,5 +1,5 @@
 [
-   {
+    {
       "nome":"Inlight",
       "descricao":"Esse Profile foi criado pensado em uma usabilidade casual, rápida porém com qualidade sem perda de nitidez. Ótimo pra inúmeras situações.",
       "desc_global":"This Profile was created thinking of a casual, fast but quality usability without loss of sharpness. Great for countless situations.",
@@ -7,108 +7,108 @@
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-YR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Mi 8/Pro/EE",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamProfiles-Inlight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-JR10.xml",
             "chagelog":"",
             "author":" Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Mi 8 Lite",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamProfiles-Inlight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-JR10.xml",
             "chagelog":"",
             "author":" Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Pocophone F1",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamProfiles-Inlight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-JR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamProfiles-Inlight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-JR10.xml",
             "chagelog":"",
             "author":" Richard",
-            "versao":1.2
+            "versao":2.0
          },         
          {
             "modelo":"Mi Mix 2S",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamProfiles-Inlight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-JR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Mi Mix 2",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-JR10.xml",
             "chagelog":"Corrections\nImprovement of noise in photo",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Mi Mix 3",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamProfiles-Inlight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-JR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Mi 6",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-JR10.xml",
             "chagelog":"Corrections\nImprovement of noise in photo",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Mi 9",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-YR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/InlightMi9.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },         
          {
             "modelo":"Mi A1",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-YR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Galaxy S9/Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-YRS.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YRS.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Galaxy Note 9",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-YRS.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YRS.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Redmi Note 7/Pro",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-JRS.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YRS.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Redmi 7",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-JRS.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-R7.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Mi Max 3",
@@ -119,10 +119,66 @@
          },
          {
             "modelo":"G7 Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Inlight%201.2%20Gcam%20Brasil%20Oficial%20.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
             "chagelog":"",
             "author":"Richard, Alterações de Nathan",
-            "versao":1.2
+            "versao":2.0
+         },
+         {
+            "modelo":"Zenfone 4",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"G7",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"G6",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"OnePlus 7 PRO",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/InlightOP7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"LG G8S",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"Lenovo Z6 Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"Mi A3",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"K20/9T PRO",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
          }
       ],
       "chagelog":"Inicial",
@@ -136,108 +192,108 @@
       "dispo_compativeis":[
          {
             "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-YR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Mi 8/Pro/EE",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-JR10.xml",
             "chagelog":"",
-            "author":"Richard",
-            "versao":1.2
+            "author":" Richard",
+            "versao":2.0
          },
          {
             "modelo":"Mi 8 Lite",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-JR10.xml",
             "chagelog":"",
-            "author":"Richard",
-            "versao":1.2
+            "author":" Richard",
+            "versao":2.0
          },
          {
             "modelo":"Pocophone F1",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-JR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-JR10.xml",
             "chagelog":"",
-            "author":"Richard",
-            "versao":1.2
+            "author":" Richard",
+            "versao":2.0
          },         
          {
             "modelo":"Mi Mix 2S",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
-            "chagelog":"Corrections\nImprovement of noise in photo",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-JR10.xml",
+            "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Mi Mix 2",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-JR10.xml",
             "chagelog":"Corrections\nImprovement of noise in photo",
             "author":"Richard",
-            "versao":1.2
-         },
-         {
-            "modelo":"Mi 6",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
-            "chagelog":"Corrections\nImprovement of noise in photo",
-            "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Mi Mix 3",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-JR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
+         },
+         {
+            "modelo":"Mi 6",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-JR10.xml",
+            "chagelog":"Corrections\nImprovement of noise in photo",
+            "author":"Richard",
+            "versao":2.0
          },
          {
             "modelo":"Mi 9",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-YR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/DelightMi9.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },         
          {
             "modelo":"Mi A1",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-YR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Galaxy S9/Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-YRS.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YRS.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Galaxy Note 9",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-YRS.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YRS.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Redmi Note 7/Pro",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JRS.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YRS.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Redmi 7",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-JRS.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-R7.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.2
+            "versao":2.0
          },
          {
             "modelo":"Mi Max 3",
@@ -248,13 +304,69 @@
          },
           {
             "modelo":"G7 Plus",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Delight%201.2%20Gcam%20Brasil%20Oficial.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
             "chagelog":"",
-            "author":"Richard, Alterações de Nathan",
-            "versao":1.2
+            "author":"",
+            "versao":2.0
+         },
+         {
+            "modelo":"Zenfone 4",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"G7",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"G6",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"OnePlus 7 PRO",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-OP7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"LG G8S",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"Lenovo Z6 Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"Mi A3",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"K20/9T PRO",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
          }
       ],
       "chagelog":"Inicial",
-      "versao":"1.2"
+      "versao":"2.0"
    }
 ]
