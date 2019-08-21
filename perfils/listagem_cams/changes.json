@@ -1,7 +1,7 @@
 [
 	{
-		"title":"Profiles da Sessão Gcam Brasil Atualizados!",
-		"title_global":"Gcam Brazil Session Profiles Updated!",
+		"title":"Profiles da Sessão GB Official Atualizados!",
+		"title_global":"GB official Session Profiles Updated!",
 		"data":"19-08-2019 - 11:48.",
 		"descricao":"<b>Update Inlight e Delight <font color='#ab000d'>(Free)</font></b><br>- Nova Base, Redução de Ruído, Nitidez, Luma e Chroma Denoise.<br>Raisr Resampling Method (Melhor recorte modo retrato).<br><br><b>Update Overlight e Truelight <font color='#ab000d'>(Pro)</font></b><br>- Raisr Resampling Method (Melhor recorte modo retrato), Superzoom câmera frontal e traseira.<br><br><b>Novos aparelhos nos profiles citados acima: Mi 9t/K20/Pro, Lg G8S, Mi a3, Lenovo Z6 Pro.</b>",
 		"desc_global":"<b>Update Inlight and Delight <font color='#ab000d'>(Free)</font></b><br>- New Base, Noise Reduction, Sharpness, Luma and Chroma Denoise.<br>Raisr Resampling Method (Best Portrait Mode Trimming)<br><br><b>Update Overlight and Truelight <font color='#ab000d'>(Pro)</font></b><br>- Raisr Resampling Method (Best Crop Portrait Mode), Superzoom Front and Rear Camera.<br><br><b>New handsets in the profiles mentioned above: Mi 9t /K20/Pro, LG G8S, Mi a3, Lenovo Z6 Pro.</b>"
@@ -31,8 +31,8 @@
 		"title":"Atualização de Profiles",
 		"title_global":"Update Profiles",
 		"data":"15-06-2019 - 8:30.",
-		"descricao":"Delight para Mi A2,6X e Mi Mix 2 Atualizados - Gcam Oficial.<br>Novo Perfil Exclusive para S9/Note 9 adicionado - Arnova.",
-		"desc_global":"Delight for Mi A2.6X and Mi Mix 2 Updated - Official Gcam. <br>New Exclusive Profile for S9/Note 9 added - Arnova."
+		"descricao":"Delight para Mi A2,6X e Mi Mix 2 Atualizados - Gb Oficial.<br>Novo Perfil Exclusive para S9/Note 9 adicionado - Arnova.",
+		"desc_global":"Delight for Mi A2.6X and Mi Mix 2 Updated - Official Gb. <br>New Exclusive Profile for S9/Note 9 added - Arnova."
 	},
 	{
 		"title":"Atualização de Profiles",
@@ -47,75 +47,5 @@
 		"data":"02-06-2019 - 23:49.",
 		"descricao":"Atualização do app para a versão 1.1.9 já está disponível para instalar, baixe agora mesmo na play store, a busca foi corrigida.",
 		"desc_global":"Update the app to version 1.1.9 is now available to install, download it right now in the play store, the search has been corrected."
-	},	
-	{
-		"title":"Novos Profiles",
-		"title_global":"New Profiles",
-		"data":"02-06-2019 - 23:42.",
-		"descricao":"MI 8 Lite agora está nas seguintes sessões:<br>-Arnova <br>Fast, Medio e Night<br><br>-Xcam <br>Daily use, Night e Sharpen<br><br>-Oficial Gcam Brasil<br>Inlight e Delight<br><br>Novo perfil para MI 6:<br>- Arnova : Geral  Thanks @DricaMoreira",
-		"desc_global":"MI 8 Lite is now in the following sessions:<br>- Arnova<br>Fast, Medium and Night<br><br>-Xcam<br>Daily use, Night and Sharpen<br><br>-Official Gcam Brasil<br>Inlight and Delight<br><br>New profile for MI 6:<br>- Arnova: General Thanks @DricaMoreira"
-	},	
-	{
-		"title":"Como enviar seu profile",
-		"title_global":"How to submit your profile",
-		"data":"14-05-2019 - 12:52.",
-		"descricao":"Para adicionar seu profile no app você precisamos do seguinte:<br><br>Descrição do que o profile faz.<br>Nome<br>Versão<br>Pra qual gcam funciona (Variante ex: Arnova)<br>Versão do seu Profile<br>Autor que criou profile<br>Dispositivo compativel<br><br>Você pode obter o arquivo na pasta GCAM/Configs, depois é só enviar para nosso e-mail com as informações acima.<br>E-mail:dev.marquess@gmail.com",
-		"desc_global":"To add your profile to the app you need the following:<br><br>Description of what the profile does.<br>Name<br>Version<br>Which gcam works (Variant ex: Arnova)<br>Your Profile Version<br>Author who created profile<br>Compatible device<br><br>You can get the file in the GCAM / Configs folder, then just send it to our email with the above information.<br><br>E-mail:dev.marquess@gmail.com"
-	},
-	{
-		"title":"Novo perfil RN7 PRO",
-		"title_global":"New profile RN7 PRO",
-		"data":"03-05-2019 - 10:40.",
-		"descricao":"Novo perfil adicionado para Redmi note 7 e versão pro, na sessão arnova.",
-		"desc_global":"New profile added for Redmi note 7 and pro version, in the arnova session."
-	},
-	{
-		"title":"Alguns profiles pro Redmi Note 6 Pro",
-		"title_global":"Some profiles pro Redmi Note 6 Pro",
-		"data":"03-05-2019 - 09:05.",
-		"descricao":"Foi adicionado dois profiles, um para sessão Urnyx e outro para sessão uncategorized, ambos sem descrição infelizmente...<br><br>Quer ajudar o app? se você tem algum profile legal pode nos enviar para o e-mail dev.marquess@gmail.com só precisa de nome, descrição, versão, variante da gcam que foi feito, e modelo de celular compatível.",
-		"desc_global":"Two profiles have been added, one for Urnyx session and one for uncategorized session, both unfortunately without description ...<br<br>Want to help the app? if you have some legal profile you can send us to dev.marquess@gmail.com just need name, description, version, gcam variant that was made, and compatible mobile model."
-	},
-	{
-		"title":"Nova categoria e modelos!",
-		"title_global":"New category and models!",
-		"data":"26-04-2019 - 16:50.",
-		"descricao":"Novos modelos adicionados Xiaomi Mi 6, Pixel 2xl e S8 Exynos, esse profiles foram adicionados na sessão Não categorizado.",
-		"desc_global":"New models added Xiaomi Mi 6, Pixel 2xl and S8 Exynos, these profiles were added in the session Not categorized."
-	},
-	{
-		"title":"Novos profiles!",
-		"title_global":"New profiles!",
-		"data":"25-04-2019 - 18:36.",
-		"descricao":"Nova sessão Tolyan, profiles global na sessão Urnyx atualizado.",
-		"desc_global":"New session Tolyan, global profiles in the Urnyx session updated."
-	},
-	{
-		"title":"Novos profiles!",
-		"title_global":"New profiles!",
-		"data":"23-04-2019 - 20:19.",
-		"descricao":"Novos profiles<br> - Arnova - Daily Use Exynos/Snapdragon:<br>Galaxy S9/Plus/Galaxy Note 9 - Mi A2/6X, Redmi Note 7/Pro, Mi 8/Pro/EE<font color='#ab000d'>New!</font><br>- Global Profiles - Urnyx:<br>MI A2/6X<font color='#ab000d'>New!</font>",
-		"desc_global":"New profiles <br> - Arnova - Daily Use Exynos/Snapdragon:<br> Galaxy S9/Plus/Galaxy Note 9 - MI A2/6X, Redmi Note 7/Pro, MI 8/Pro/EE <font color='#ab000d'>New!</Font><br>- Global Profiles - Urnyx:<br>MI A2/6X<font color='#ab000d'>New!</Font>"
-	},
-	{
-		"title":"Grupo no Telegram",
-		"title_global":"Telgram Group",
-		"data":"21-04-2019 - 23:58.",
-		"descricao":"A pedidos, foi criado um grupo no telegram para compartilhamento de profiles em geral, para pessoas de todo o mundo <br>Abaixo está o link para o grupo<br><br>https://t.me/gcam_profiles ou @gcam_profiles",
-		"desc_global":"Following the assumptions was created a group in the telegram for sharing profiles in general, for people from all over the world <br> Below is the link to the group<br><br>https://t.me/gcam_profiles or @gcam_profiles"
-	},
-	{
-		"title":"Profiles SG Atualizados!",
-		"title_global":"Profiles SG Updated!",
-		"data":"21-04-2019 - 23:54.",
-		"descricao":"Foram atualizados os perfis SG, Exclusive, Satured, SuperResZoom e White <br> As mudanças foram (Changed the HDR+E by ZSL (HDR+)).",
-		"desc_global":"SG, Exclusive, Saturated, Super Zoom and White profiles were updated. The changes were (Changed the HDR + E by ZSL (HDR +))."
-	},
-	{
-		"title":"Novos profiles adicionados!",
-		"title_global":"New profiles added!",
-		"data":"20-04-2019 - 01:40.",
-		"descricao":"Novos perfis adicionados:<br>Day para Redmi Note 6 - <font color='#ab000d'>New!</font><br>Day/Night Lenovo K6 Plus - <font color='#ab000d'>New!</font><br>Na sessão Arnova todos os perfis (SGS) foram atualizados<br> Perfis do Galaxy s9 atualizados<br>Day Daystroyer <font color='#ab000d'>Update!</font><br>Nigh - <font color='#ab000d'>Update!</font><br>Super Day - <font color='#ab000d'>New!</font><br>",
-		"desc_global":"New profiles added: <br> Day for Redmi Note 6 - <font color ='#ab000d'> New! </font><br>Day/Night Lenovo K6 Plus - <font color ='#ab000d'>New!</font><br> In the Arnova session all profiles (SGS) were updated <br> Galaxy s9 profiles updated <br>Day Daystroyer <font color='#ab000d'>Update!</font><br> Nigh - <font color='#ab000d'>Update!</font><br>Super Day - <font color='#ab000d'>New!</font> <br>"
 	}
 ]
