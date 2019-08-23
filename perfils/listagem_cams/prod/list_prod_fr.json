@@ -1,51 +1,20 @@
 [
    {
-      "nomegcam":"Profiles???",
-      "descricao":"Alguns usuários estão com dificuldades para usar os profiles, no app>menu pontilhado há um tutorial de como usar.\n\nMas se ainda sim, você não consegue, verifique a versão de sua Gcam caso seja a 6.2 ela não tem suporte a importação de Profiles.\n\nAgradecemos o feedback de todos usuários em breve melhorias.",
-      "desc_global":"Some users are having difficulty using the profiles, in the menu in the dotted menu there is a tutorial on how to use them.\nBut if still, you can not, check the version of your Gcam if it is 6.2, it does not support importing Profiles.\n\nWe appreciate feedback from all users soon improvements.",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/icondoubt.png",
-      "action":3,
-      "url":"null"
-   },
-   {
-      "nomegcam":"GCam Brasil Club",
-      "descricao":"Baixe agora mesmo o app do Gcam Brasil, tutoriais, dicas e muito mais!",
-      "desc_global":"Download the Gcam Brasil app right now, tutorials, tips and more!",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/iconvv.png",
-      "action":2,
-      "url":"https://play.google.com/store/apps/details?id=com.devmarques.gcambrasil&hl=pt_BR"
-   },
-   {
-      "nomegcam":"Gcam Brasil Downloads",
-      "descricao":"No Gcam Brasil você baixa a Gcam adequada para seu celular basta selecionar a marca e modelo.",
-      "desc_global":"In Gcam Brasil you download the appropriate Gcam for your cell phone just select the make and model.",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/icondwsite2.png",
-      "action":2,
-      "url":"https://gcambrasil.com.br/app2"
-   },
-   {
-      "nomegcam":"Celso Azevedo Downloads",
-      "descricao":"No Gcam Brasil você baixa a Gcam adequada para seu celular basta selecionar a marca e modelo.",
-      "desc_global":"In Gcam Brasil you download the appropriate Gcam for your cell phone just select the make and model.",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/avatar.png",
-      "action":2,
-      "vs":"1.5.0",
-      "url":"https://www.celsoazevedo.com/files/android/google-camera/"
-   },
-   {
       "nomegcam":"Arnova ",
       "descricao":"Perfis de camera para Google Camera do Desenvolvedor Arnova.",
       "desc_global":"Camera Profiles for Google Camera from Arnova Developer.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_arnova.png",
       "action":1,
+      "vs":"1.5.0",
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/arnova/data.json"
    },
    {
-      "nomegcam":"Gcam Brasil Oficial",
+      "nomegcam":"GB Official",
       "descricao":"Profiles oficiais para diversos aparelhos",
       "desc_global":"Official Profiles for various devices",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gbfree.png",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_BG.png",
       "action":1,
+      "vs":"1.5.0",
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/oficial/data.json"
    },
    {
@@ -54,6 +23,7 @@
       "desc_global":"Camera Profiles for Google Camera/Ports from Sanity Developer.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_sanity.png",
       "action":1,
+      "vs":"1.5.0",
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/sanity/data.json"
    },
    {
@@ -62,6 +32,7 @@
       "desc_global":"Camera Profiles for Google Camera/Ports from Tolyan009 Developer.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_toylan.png",
       "action":1,
+      "vs":"1.5.0",
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/tolyan/data.json"
    },
    {
@@ -70,6 +41,7 @@
       "desc_global":"Profiles of some mobile phone models not categorized neither author nor gcam, these are just testing.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/uncategorized.png",
       "action":1,
+      "vs":"1.5.0",
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/uncategorized/data.json"
    },
    {
@@ -78,6 +50,7 @@
       "desc_global":"Camera Profiles for Google Camera from Urnyx Developer.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_urnyx.png",
       "action":1,
+      "vs":"1.5.0",
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/urnyx/data.json"
    },
    {
@@ -86,6 +59,7 @@
       "desc_global":"Camera Profiles for Google Camera from Xtrme Developer.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_xcam.png",
       "action":1,
+      "vs":"1.5.0",
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/xcam/data.json"
    }
 ]
