@@ -5,7 +5,7 @@
       "desc_global":"Camera Profiles for Google Camera from Arnova Developer.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/gcam_arnova.png",
       "action":1,
-      "vs":"1.5.0",
+      "vs":"1.5.7",
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/arnova/data.json"
    },
    {
