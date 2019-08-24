@@ -302,6 +302,13 @@
 				"chagelog":"",
 				"author":"Hedertone Almeida",
 				"versao":1.0
+			},
+			{
+				"modelo":"Mi 8 Lite",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Vivid%20color.xml",
+				"chagelog":"---",
+				"author":"Patrick Oliveira",
+				"versao":1.0
 			}
 		],
 		"chagelog":"---",
@@ -378,6 +385,13 @@
 			{
 				"modelo":"Redmi Note 7/Pro",
 				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Xquality-RN7.xml",
+				"chagelog":"",
+				"author":"Vitor",
+				"versao":1.0
+			},
+			{
+				"modelo":"Redmi Note 5/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Xquality%20RN5.xml",
 				"chagelog":"",
 				"author":"Vitor",
 				"versao":1.0
