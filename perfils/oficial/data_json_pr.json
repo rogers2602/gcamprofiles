@@ -654,10 +654,10 @@
          },
          {
             "modelo":"Redmi Note 7/Pro",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Truelight-1.1-YRS.xml",
-            "chagelog":"",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Truelight-1.1-YR10-G7.xml",
+            "chagelog":"Correção de arquivo.",
             "author":"Richard",
-            "versao":1.1
+            "versao":1.1.1
          },
          {
             "modelo":"G7 Plus",
