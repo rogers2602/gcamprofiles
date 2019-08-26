@@ -382,6 +382,13 @@
 				"author":"Vitor",
 				"versao":1.0
 			},
+                        {
+				"modelo":"Pocophone F1",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Xquality%20Mi%209T%20K20%20V1.0.xml",
+				"chagelog":"",
+				"author":"Vitor",
+				"versao":1.0
+			},
 			{
 				"modelo":"Redmi Note 7/Pro",
 				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/Xquality-RN7.xml",
