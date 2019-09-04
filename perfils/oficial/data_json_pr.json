@@ -891,6 +891,13 @@
 				"chagelog":"",
 				"author":"Richard",
 				"versao":1.0
+			},
+			{
+				"modelo":"OnePlus 7 PRO",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Sayhi-OP7.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
 			}
 		],
 		"chagelog":"Inicial",
