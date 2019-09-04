@@ -724,5 +724,169 @@
 		],
 		"chagelog":"Inicial",
 		"versao":"1.1"
+	},
+	{
+		"nome":"TrueLight Exc.",
+		"descricao":"Esse XML é para o uso cotidiano, tanto pra dia como pra noite. recomendo usar XLIB2S. Durante o dia também aconselho usar o HDR+ em auto. se durante a noite perceber granulacao nas fotos ative o HDR+ Melhorado ou use o Nightsight. \n granulações na foto fazer parte da nitidez aprimorada. você pode amenizar com edição ou apenas usando o Modo Noturno (NightSight)",
+		"desc_global":"This XML is for everyday use, both day and night. I recommend using XLIB2S. During the day I also advise using the HDR + in auto. If at night you notice graininess in your photos, enable Enhanced HDR + or use Nightsight. \n Grain in the photo is part of the enhanced sharpness. you can soften with editing or just using NightSight",
+		"author":"Richard",
+		"dispo_compativeis":[
+			{
+				"modelo":"MI A2/6X",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-YR10.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Mi 8/Pro/EE",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-JR10.xml",
+				"chagelog":"",
+				"author":" Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Mi 8 Lite",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-JR10.xml",
+				"chagelog":"",
+				"author":" Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Pocophone F1",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-JR10.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"OnePlus 6/T",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-JR10.xml",
+				"chagelog":"",
+				"author":" Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Mi Mix 2S",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-JR10.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Mi Mix 2",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-JR10.xml",
+				"chagelog":"Corrections\nImprovement of noise in photo",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Mi Mix 3",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-JR10.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Mi 6",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-JR10.xml",
+				"chagelog":"Corrections\nImprovement of noise in photo",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Mi 9",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-Mi9.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Mi A1",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-YR10.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Galaxy S9/Plus",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-YRS.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Galaxy Note 9",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-YRS.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Redmi Note 7/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-G7.xml",
+				"chagelog":"Correção de arquivo.",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"G7 Plus",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-G7.xml",
+				"chagelog":"",
+				"author":"Richard, Alterações de Nathan",
+				"versao":1.0
+			},
+			{
+				"modelo":"Zenfone 4",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-G7.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"G7",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-G7.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"G6",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-G7.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"LG G8S",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-YR10.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Lenovo Z6 Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-YR10.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Mi A3",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-YR10.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"K20/9T/PRO",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-G7.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			}
+		],
+		"chagelog":"Inicial",
+		"versao":"1.0"
 	}
 ]
