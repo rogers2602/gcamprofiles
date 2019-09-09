@@ -733,10 +733,10 @@
 		"dispo_compativeis":[
 			{
 				"modelo":"MI A2/6X",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-YR10.xml",
-				"chagelog":"",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-YR10-A2.xml",
+				"chagelog":"Correções/Fix",
 				"author":"Richard",
-				"versao":1.0
+				"versao":1.1
 			},
 			{
 				"modelo":"Mi 8/Pro/EE",
