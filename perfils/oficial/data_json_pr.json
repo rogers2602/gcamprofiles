@@ -98,7 +98,21 @@
 			},
 			{
 				"modelo":"Redmi Note 7/Pro",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YRS.xml",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Inlight-2.0-GB%20official-Redmi%20Note%207-Pro.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":2.1
+			},
+			{
+				"modelo":"Redmi Note 6/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Inlight-2.0-GB%20official-Redmi%20Note%207-Pro.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":2.0
+			},
+			{
+				"modelo":"Redmi Note 5/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Inlight-2.0-GB%20official-Redmi%20Note%207-Pro.xml",
 				"chagelog":"",
 				"author":"Richard",
 				"versao":2.0
@@ -283,7 +297,21 @@
 			},
 			{
 				"modelo":"Redmi Note 7/Pro",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YRS.xml",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Delight-2.0-GB%20official-Redmi%20Note%207-Pro.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":2.1
+			},
+			{
+				"modelo":"Redmi Note 6/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Delight-2.0-GB%20official-Redmi%20Note%207-Pro.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":2.0
+			},
+			{
+				"modelo":"Redmi Note 5/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Delight-2.0-GB%20official-Redmi%20Note%207-Pro.xml",
 				"chagelog":"",
 				"author":"Richard",
 				"versao":2.0
@@ -475,7 +503,21 @@
 			},
 			{
 				"modelo":"Redmi Note 7/Pro",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-2.0-YRS.xml",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/OverLight-2.0-GB%20official-Redmi%20Note%207-Pro.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":2.1
+			},
+			{
+				"modelo":"Redmi Note 6/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/OverLight-2.0-GB%20official-Redmi%20Note%207-Pro.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":2.0
+			},
+			{
+				"modelo":"Redmi Note 5/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/OverLight-2.0-GB%20official-Redmi%20Note%207-Pro.xml",
 				"chagelog":"",
 				"author":"Richard",
 				"versao":2.0
@@ -653,10 +695,24 @@
 			},
 			{
 				"modelo":"Redmi Note 7/Pro",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Truelight-1.1-YR10-G7.xml",
-				"chagelog":"Correção de arquivo.",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/TrueLight%20Exc.-1.2-GB%20official-Redmi%20Note%207-Pro.xml",
+				"chagelog":"",
 				"author":"Richard",
 				"versao":1.2
+			},
+			{
+				"modelo":"Redmi Note 6/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/TrueLight%20Exc.-1.2-GB%20official-Redmi%20Note%207-Pro.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Redmi Note 5/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/TrueLight%20Exc.-1.2-GB%20official-Redmi%20Note%207-Pro.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
 			},
 			{
 				"modelo":"G7 Plus",
@@ -824,8 +880,22 @@
 			},
 			{
 				"modelo":"Redmi Note 7/Pro",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-G7.xml",
-				"chagelog":"Correção de arquivo.",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi%20Exc.-1.0-GB%20official-Redmi%20Note%207-Pro.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.1
+			},
+			{
+				"modelo":"Redmi Note 6/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi%20Exc.-1.0-GB%20official-Redmi%20Note%207-Pro.xml",
+				"chagelog":"",
+				"author":"Richard",
+				"versao":1.0
+			},
+			{
+				"modelo":"Redmi Note 5/Pro",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi%20Exc.-1.0-GB%20official-Redmi%20Note%207-Pro.xml",
+				"chagelog":"",
 				"author":"Richard",
 				"versao":1.0
 			},
