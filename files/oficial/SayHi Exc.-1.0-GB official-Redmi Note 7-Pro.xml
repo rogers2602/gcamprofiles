@@ -82,7 +82,7 @@
     <string name="pref_2ndaux_video_key">0</string>
     <string name="pref_enable_dbl_key">0</string>
     <string name="pref_2ndauxback_denoise_chroma_0_key">500</string>
-    <string name="model_f_key">6</string>
+    <string name="model_f_key">2</string>
     <string name="pref_fix_iso_key">0</string>
     <string name="cs_video_key">0</string>
     <string name="pref_max_brightness_key">0</string>
