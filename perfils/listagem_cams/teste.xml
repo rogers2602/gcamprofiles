@@ -19,7 +19,7 @@
     <string name="pref_2ndauxback_denoise_luma_1_key">150</string>
     <string name="vfp_motion_key">1</string>
     <string name="pref_1staux_photosphere_key">1</string>
-    <string name="highlight_b_key">10</string>
+    <string name="highlight_b_key">26</string>
     <string name="pref_video_quality_front_key">large</string>
     <string name="pref_2ndaux_photosphere_key">1</string>
     <string name="pref_camera_picturesize_back_key">4032x3024</string>
@@ -57,7 +57,7 @@
     <string name="google_photos_key">0</string>
     <string name="pref_camera_video_back_flashmode_key">off</string>
     <string name="libs_aux_key">0</string>
-    <string name="highlight_f_key">9</string>
+    <string name="highlight_f_key">16</string>
     <string name="exp_ns_key">5000</string>
     <string name="pref_back_noise_model_as_key">847150</string>
     <string name="pref_2ndaux_setting_key">0</string>
@@ -71,6 +71,7 @@
     <string name="pref_back_noise_model_ao_key">750</string>
     <string name="pref_hdrplus_multi_autoexposure_key">100</string>
     <string name="manualfocus_onoff">1</string>
+    <string name="pref_disable_enh_awb_key">1</string>
     <string name="pref_enabled_hdrdenoise_key">0</string>
     <string name="pref_ns_image_rotation_key">0</string>
     <string name="pref_2ndaux_disable_key">0</string>
@@ -93,7 +94,7 @@
     <string name="pref_back_customnoisemodel_key">1</string>
     <string name="pref_2ndback_customnoisemodel_key">0</string>
     <string name="pref_select_backcam_key">0</string>
-    <string name="shadow_b_key">14</string>
+    <string name="shadow_b_key">25</string>
     <string name="pref_camera_recordlocation_key">0</string>
     <string name="pref_disable_slowmotion_key">1</string>
     <string name="pref_camera_raw_output_option_available_key">1</string>
@@ -110,6 +111,7 @@
     <string name="pref_force_autoexposure_key">0</string>
     <string name="pref_2ndauxback_denoise_luma_2_key">100</string>
     <string name="pref_flash_supported_back_camera">1</string>
+    <string name="wl_key">0</string>
     <string name="pref_camera_picturesize_auxback_key">large</string>
     <string name="pref_2ndaux_more_key">0</string>
     <string name="pref_enabled_evf_aux3">0</string>
@@ -122,7 +124,7 @@
     <string name="pref_distortion_correction_key">2</string>
     <string name="lib_chroma_key">375</string>
     <string name="lib_aux_sharpness_key">1500</string>
-    <string name="shadow_f_key">15</string>
+    <string name="shadow_f_key">20</string>
     <string name="bl_front_key">0</string>
     <string name="model_b_key">6</string>
     <string name="pref_auxback_denoise_revert_2_key">5</string>
@@ -132,7 +134,7 @@
     <string name="pref_front_customdenoiseparam_key">1</string>
     <string name="pref_hide_pb_current_lens_key">0</string>
     <string name="pref_front_noise_model_ao_key">375</string>
-    <string name="pref_camera_picturesize_front_key">2640x1980</string>
+    <string name="pref_camera_picturesize_front_key">2592x1940</string>
     <string name="portrait_fixer">1</string>
     <string name="raw_key">37</string>
     <string name="pref_camera_grid_lines_mode">1</string>
@@ -160,6 +162,7 @@
     <string name="pref_opticalstabi_key">1</string>
     <string name="pref_volume_key_action">Obturador</string>
     <string name="pref_front_denoise_luma_0_key">300</string>
+    <string name="style_key">2</string>
     <string name="pref_front_noise_model_as_key">0</string>
     <string name="pref_auxback_noise_model_ao_key">750</string>
     <string name="iso_up_key">0</string>
@@ -229,6 +232,7 @@
     <string name="pref_camera_countdown_duration_key">0</string>
     <string name="pref_2ndauxback_noise_model_bs_key">90900</string>
     <string name="pref_front_denoise_chroma_1_key">500</string>
+    <string name="pref_e_hdrplus_ns_key">0</string>
     <string name="pref_1staux_lensblur_key">1</string>
     <string name="pref_2ndauxback_customdenoiseparam_key">0</string>
     <string name="pref_has_checked_gouda_mode">1</string>
