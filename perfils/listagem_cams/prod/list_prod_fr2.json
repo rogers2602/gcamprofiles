@@ -1,5 +1,14 @@
 [
    {
+      "nomegcam":"Profiles Pro",
+      "descricao":"Seja pro, tenha uma aplicação sem anúncios e perfils exclusivos na sessão GB Oficial, para isso basta apenas clicar no icone pro, no canto superior direito.",
+      "desc_global":"Be pro, have an app with no ads and unique profiles in the Official GB session, just click on the pro icon in the upper right corner.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/logo-pro-only-black-512.png",
+      "action":3,
+      "vs":"1.6.1",
+      "url":"null"
+   },
+   {
       "nomegcam":"GB Downloads",
       "descricao":"No GB você baixa a G-Camera adequada para seu celular basta selecionar a marca e modelo.",
       "desc_global":"In GB you download the appropriate Camera G for your cell phone just select the make and model.",
