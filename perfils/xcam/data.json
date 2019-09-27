@@ -406,5 +406,22 @@
 		],
 		"chagelog":"---",
 		"versao":"1.0"
+	},
+	{
+		"nome":"ALHorn A3-CC9",
+		"descricao":"Para uso híbrido, tanto a noite quanto de dia.",
+		"desc_global":"For hybrid use, both night and day",
+		"author":"Marcos Almeida",
+		"dispo_compativeis":[
+			{
+				"modelo":"MI A3",
+				"link":"",
+				"chagelog":"Shuttle 1/20s\nRedução de ruído ajustado na traseira e frontal\nLibs GMM23b\nSaturação ajustada \nManual foco ativado \nGrade 3x3\nHDR+ Modo retrato ativado\nControle de RAW ativado \nVisão noturna Shuttle 1/4s\nSharpness melhorado",
+				"author":"Marcos Almeida",
+				"versao":1.0
+			}
+		],
+		"chagelog":"---",
+		"versao":"1.0"
 	}
 ]
