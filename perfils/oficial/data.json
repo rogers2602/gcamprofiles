@@ -69,14 +69,14 @@
 				"versao":2.0
 			},
 			{
-				"modelo":"Mi 9",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/InlightMi9.xml",
+				"modelo":"Mi 9 SE",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Inlight-Mi9SE.xml",
 				"chagelog":"",
 				"author":"Richard",
 				"versao":2.0
 			},
 			{
-				"modelo":"Mi 9 SE",
+				"modelo":"Mi 9",
 				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-JR10.xml",
 				"chagelog":"",
 				"author":"Richard",
@@ -283,7 +283,7 @@
 			},
 			{
 				"modelo":"Mi 9 SE",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-JR10.xml",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Delight-Mi9SE.xml",
 				"chagelog":"",
 				"author":"Richard",
 				"versao":2.0
@@ -489,7 +489,7 @@
 			},
 			{
 				"modelo":"Mi 9 SE",
-				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-2.0-JR10.xml",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Overlight-Mi9SE.xml",
 				"chagelog":"",
 				"author":" Richard",
 				"versao":1.0
