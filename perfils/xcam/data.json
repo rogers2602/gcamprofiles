@@ -415,7 +415,7 @@
 		"dispo_compativeis":[
 			{
 				"modelo":"MI A3",
-				"link":"",
+				"link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/xcam/ALHorn_A3.xml",
 				"chagelog":"Shuttle 1/20s\nRedução de ruído ajustado na traseira e frontal\nLibs GMM23b\nSaturação ajustada \nManual foco ativado \nGrade 3x3\nHDR+ Modo retrato ativado\nControle de RAW ativado \nVisão noturna Shuttle 1/4s\nSharpness melhorado",
 				"author":"Marcos Almeida",
 				"versao":1.0
