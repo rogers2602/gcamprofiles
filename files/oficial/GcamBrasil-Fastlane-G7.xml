@@ -38,9 +38,9 @@
     <string name="pref_camera_hdrplus_option_available_key">1</string>
     <string name="pref_auxback_denoise_chroma_0_key">3000</string>
     <string name="pref_back_denoise_luma_0_key">110</string>
-    <string name="buffer_key">0</string>
+    <string name="buffer_key">1</string>
     <string name="frames_min_key">12</string>
-    <string name="pref_sabre_key">2</string>
+    <string name="pref_sabre_key">0</string>
     <string name="pref_badtf_fix_key">1</string>
     <string name="pref_auxback_noise_model_bo_key">11250</string>
     <string name="pref_auxbackcameraid_key">0</string>
@@ -61,7 +61,7 @@
     <string name="exp_ns_key">1667</string>
     <string name="pref_back_noise_model_as_key">423575</string>
     <string name="pref_2ndaux_setting_key">0</string>
-    <string name="config_key">8</string>
+    <string name="config_key">10</string>
     <string name="pref_front_noise_model_bo_key">11250</string>
     <string name="pref_2ndaux_nightsight_key">0</string>
     <string name="pref_camera_video_front_flashmode_key">off</string>
