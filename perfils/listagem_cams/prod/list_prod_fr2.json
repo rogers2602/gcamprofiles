@@ -1,5 +1,14 @@
 [
    {
+      "nomegcam":"Importante Leia/Read Important",
+      "descricao":"Reserve um minutinho do seu tempo para ler este aviso.",
+      "desc_global":"Please take a moment to read this notice.",
+      "icone":"https://telegra.ph/ImportanteImportant-10-01",
+      "action":2,
+      "vs":"1.6.2",
+      "url":"null"
+   },
+   {
       "nomegcam":"Profiles Pro",
       "descricao":"Seja pro, tenha uma aplicação sem anúncios e perfils exclusivos na sessão GB Oficial, para isso basta apenas clicar no icone pro, no canto superior direito.",
       "desc_global":"Be pro, have an app with no ads and unique profiles in the Official GB session, just click on the pro icon in the upper right corner.",
