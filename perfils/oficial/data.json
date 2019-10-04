@@ -1,5 +1,5 @@
 [
-   {
+      {
       "nome":"Inlight",
       "descricao":"Esse Profile foi criado pensado em uma usabilidade casual, rápida porém com qualidade sem perda de nitidez. Ótimo pra inúmeras situações.",
       "desc_global":"This Profile was created thinking of a casual, fast but quality usability without loss of sharpness. Great for countless situations.",
@@ -200,6 +200,41 @@
             "chagelog":"",
             "author":"Richard",
             "versao":2.0
+         },
+		 {
+            "modelo":"Reno 10x",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/InlightOP7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 1/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 2/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3A",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Inicial",
@@ -406,6 +441,41 @@
             "chagelog":"",
             "author":"Richard",
             "versao":2.0
+         },
+		 {
+            "modelo":"Reno 10x",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-OP7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 1/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 2/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3A",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Inicial",
@@ -605,6 +675,41 @@
             "chagelog":"",
             "author":"Richard",
             "versao":2.0
+         },
+		 {
+            "modelo":"Reno 10x",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-2.0-OP7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 1/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-2.0-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 2/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-2.0-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-2.0-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3A",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-2.0-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Inicial",
