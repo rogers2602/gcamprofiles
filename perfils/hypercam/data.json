@@ -1,1 +1,19 @@
-e
+[
+  {
+      "nome":"Xquality",
+      "descricao":"Finalmente uma Xml perfeita para uma gcam 6.1! 90% funcional no Mido. Frontal, traseira, modo noturno e mais um pouco. Não funciona Camera lenta.Use a HyperCam r2 ou superior",
+      "desc_global":"Finally a perfect Xml for a gcam 6.1! 90% functional in Mido. Front, rear, night mode and some more. Does Not Work Slow Motion. Use HyperCam R2 or Higher",
+      "author":"Vitor",
+      "dispo_compativeis":[
+         {
+            "modelo":"Redmi Note 4",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Tulip%40Coga89SpecialThanksToUrnyx05.xml",
+            "chagelog":"---",
+            "author":"Vitor",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   }
+]
