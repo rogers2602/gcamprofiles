@@ -200,6 +200,41 @@
             "chagelog":"",
             "author":"Richard",
             "versao":2.0
+         },
+		 {
+            "modelo":"Reno 10x",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/InlightOP7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 1/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 2/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3A",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Inlight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Inicial",
@@ -406,6 +441,41 @@
             "chagelog":"",
             "author":"Richard",
             "versao":2.0
+         },
+		 {
+            "modelo":"Reno 10x",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-OP7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 1/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 2/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3A",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Delight-2.0-YR10-G7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Inicial",
@@ -605,6 +675,41 @@
             "chagelog":"",
             "author":"Richard",
             "versao":2.0
+         },
+		 {
+            "modelo":"Reno 10x",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-2.0-OP7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 1/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-2.0-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 2/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-2.0-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-2.0-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3A",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Overlight-2.0-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Inicial",
@@ -804,6 +909,41 @@
             "chagelog":"",
             "author":"Richard",
             "versao":1.1
+         },
+		 {
+            "modelo":"Reno 10x",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/TrueOP7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 1/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Truelight-1.1-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 2/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Truelight-1.1-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Truelight-1.1-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3A",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Truelight-1.1-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Inicial",
@@ -1003,6 +1143,41 @@
             "chagelog":"",
             "author":"Richard",
             "versao":1.0
+         },
+		 {
+            "modelo":"Reno 10x",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Sayhi-OP7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 1/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 2/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3A",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Inicial",
@@ -1198,6 +1373,41 @@
          },
          {
             "modelo":"OnePlus 7 PRO",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-XS-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Reno 10x",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-XS-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 1/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-XS-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 2/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-XS-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-XS-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3A",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-SayHi-XS-YR10.xml",
             "chagelog":"",
             "author":"Richard",
@@ -1401,6 +1611,41 @@
             "chagelog":"",
             "author":"Richard/DevMarques",
             "versao":1.0
+         },
+		 {
+            "modelo":"Reno 10x",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Truecolors-OP7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 1/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Truecolors-1.1-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 2/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Truecolors-1.1-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Truecolors-1.1-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3A",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Truecolors-1.1-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
          }
       ],
       "chagelog":"Inicial",
@@ -1477,10 +1722,10 @@
          },
          {
             "modelo":"Mi 9",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Fastlane-JR10.xml",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Fastlane-YR10.xml",
             "chagelog":"",
             "author":"Richard",
-            "versao":1.0
+            "versao":1.1
          },
          {
             "modelo":"Mi 9 SE",
@@ -1604,6 +1849,41 @@
          {
             "modelo":"OnePlus 7 PRO",
             "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Fastlane-YR10-OP7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Reno 10x",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Fastlane-YR10-OP7.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 1/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Fastlane-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 2/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Fastlane-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Fastlane-YR10.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":1.0
+         },
+		 {
+            "modelo":"Pixel 3A",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/GcamBrasil-Fastlane-YR10.xml",
             "chagelog":"",
             "author":"Richard",
             "versao":1.0
