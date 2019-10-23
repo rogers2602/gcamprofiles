@@ -2195,5 +2195,253 @@
       ],
       "chagelog":"Inicial",
       "versao":"1.0"
+   },
+   {
+      "nome":"SayHi XS 2.0 Exc.",
+      "descricao":"(Reformulado) SayHi XS tem o foco em fotos rápidas e claras, tonalidade similar aos dos Iphone XS.",
+      "desc_global":"(Reformulated)SayHi XS focuses on fast, clear photos, similar in tone to the iPhone XS.",
+      "author":"Richard",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-R3.xml",
+            "chagelog":"Correções/Fix",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Mi 8/Pro/EE",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-JR10-R3.xml",
+            "chagelog":"",
+            "author":" Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Mi 8 Lite",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-JR10-R3.xml",
+            "chagelog":"",
+            "author":" Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Pocophone F1",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-JR10-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"OnePlus 6/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-JR10-R3.xml",
+            "chagelog":"",
+            "author":" Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Mi Mix 2S",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-JR10-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Mi Mix 2",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-JR10-R3.xml",
+            "chagelog":"Corrections\nImprovement of noise in photo",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Mi Mix 3",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-JR10-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Mi 6",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-JR10-R3.xml",
+            "chagelog":"Corrections\nImprovement of noise in photo",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Mi 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Mi 9 SE",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-JR10-SE-R3.xml",
+            "chagelog":"",
+            "author":" Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Mi A1",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-RN-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YRS%20R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YRS%20R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Redmi Note 7/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-RN-R3.xml",
+            "chagelog":"minor corrections",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Redmi Note 6/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-RN-R3.xml",
+            "chagelog":"minor corrections",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Redmi Note 5/Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-RN-R3.xml",
+            "chagelog":"minor corrections",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"G7 Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-G7-R3.xml",
+            "chagelog":"",
+            "author":"Richard, Alterações de Nathan",
+            "versao":2.0
+         },
+         {
+            "modelo":"Zenfone 4",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-G7-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Zenfone 5",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-G7-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"G7",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-G7-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+	 {
+            "modelo":"Mi A2 Lite",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-G7-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },     
+         {
+            "modelo":"G6",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-G7-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"LG G8S",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Lenovo Z6 Pro",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Mi A3",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"K20/9T/PRO",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-RN-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"Redmi 7",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-RN-R3.xml",
+            "chagelog":"minor corrections",
+            "author":"Richard",
+            "versao":2.0
+         },
+         {
+            "modelo":"OnePlus 7 PRO",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-OP-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"Reno 10x",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-OP-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"Pixel 1/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"Pixel 2/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"Pixel 3/XL",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         },
+		 {
+            "modelo":"Pixel 3A",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/SayHi-XS-2.0-YR10-R3.xml",
+            "chagelog":"",
+            "author":"Richard",
+            "versao":2.0
+         }
+      ],
+      "chagelog":"Inicial",
+      "versao":"2.0"
    }
 ]
