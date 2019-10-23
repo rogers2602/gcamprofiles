@@ -17,5 +17,5 @@ License
 --------
 
   As configurações aqui postadas devem ser adquiridas através de nosso app, você ajuda nosso trabalho e ainda contribui.
-
+ https://play.google.com/store/apps/details?id=gcamprofiles.devmarques.com.gcamprofiles&hl=pt
 
