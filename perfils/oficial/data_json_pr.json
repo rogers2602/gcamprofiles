@@ -2446,8 +2446,8 @@
   },
   {
     "nome":"SuperFast",
-    "descricao":"Profile para captura rapida, boas cores e redução de ruído considerável.",
-    "desc_global":"Profile for fast capture, good color and considerable noise reduction.",
+    "descricao":"(Use Hyper r6) Profile para captura rapida, boas cores e redução de ruído considerável.",
+    "desc_global":"(Use Hyper R6) Profile for fast capture, good color and considerable noise reduction.",
     "author":"Rogers",
     "dispo_compativeis":[
       {
