@@ -2688,7 +2688,11 @@
         "author":"Rogers",
         "versao":1.0
       }, 
-       {
+    ],
+    "chagelog":"Inicial",
+    "versao":"1.0"
+  },
+	 {
     "nome":"Sparrow ",
     "descricao":"Contraste elevado, redução de ruído agressiva. Disparo rápido. 15 frames",
     "desc_global":"High contrast, aggressive noise reduction. Quick shot. 15 frames",
@@ -2960,10 +2964,6 @@
         "author":"Richard",
         "versao":1.0
       }  
-    ],
-    "chagelog":"Inicial",
-    "versao":"1.0"
-  }
     ],
     "chagelog":"Inicial",
     "versao":"1.0"
