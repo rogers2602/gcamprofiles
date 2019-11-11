@@ -2960,5 +2960,281 @@
     ],
     "chagelog":"Inicial",
     "versao":"1.0"
-  }
+  },
+ {
+    "nome":"Raven - Hyper E1 ",
+    "descricao":"Recomendado Hyper E1 Cores Quentes, Rápido 12 frames. nitidez forte e reducao de ruido eficiente.",
+    "desc_global":"Recommended Hyper E1 Warm Colors, Fast 12 frames. strong sharpness and efficient noise reduction.",
+    "author":"Richard",
+    "dispo_compativeis":[
+      {
+        "modelo":"MI A2/6X",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-OP.xml",
+        "chagelog":"Correções/Fix",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 8/Pro/EE",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-JR10.xml",
+        "chagelog":"",
+        "author":" Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 8 Lite",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-JR10.xml",
+        "chagelog":"",
+        "author":" Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Pocophone F1",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-JR10.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"OnePlus 6/T",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-JR10.xml",
+        "chagelog":"",
+        "author":" Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi Mix 2S",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-JR10.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi Mix 2",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-JR10.xml",
+        "chagelog":"Corrections\nImprovement of noise in photo",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi Mix 3",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-JR10.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 6",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-JR10.xml",
+        "chagelog":"Corrections\nImprovement of noise in photo",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 9",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-OP.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 9 SE",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-JR10SE.xml",
+        "chagelog":"",
+        "author":" Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi A1",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YR10G7.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":2.1
+      },
+      {
+        "modelo":"Galaxy S9/Plus",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Galaxy Note 9",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 7/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-RN.xml",
+        "chagelog":"minor corrections",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 6/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-RN.xml",
+        "chagelog":"minor corrections",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 5/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-RN.xml",
+        "chagelog":"minor corrections",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"G7 Plus",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YR10G7.xml",
+        "chagelog":"",
+        "author":"Richard, Alterações de Nathan",
+        "versao":1.0
+      },
+      {
+        "modelo":"Zenfone 4",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YR10G7.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Zenfone 5",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YR10G7.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"G7",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YR10G7.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi A2 Lite",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YR10G7.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"G6",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YR10G7.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"LG G8S",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-OP.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Lenovo Z6 Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-OP.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi A3",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-OP.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"K20/9T/PRO",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-OP.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi 7",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-RN.xml",
+        "chagelog":"minor corrections",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"OnePlus 7 PRO",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-OP.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Reno 10x",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-OP.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Pixel 1/XL",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-OP.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Pixel 2/XL",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-OP.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Pixel 3/XL",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-OP.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Pixel 3A",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YRS-OP.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },	  
+	  {
+        "modelo":"LG G7 ThinQ",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-JR10-LG.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+	{
+        "modelo":"LG V20",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-JR10-LG.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+	  {
+        "modelo":"LG V30 ThinQ",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-JR10-LG.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":1.0
+      },
+	  {
+            "modelo":"OnePlus 5/T",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/oficial/Raven-YR10-OP5.xml",
+            "chagelog":"No changelog",
+            "author":" Richard",
+            "versao":1.0
+       }
+    ],
+    "chagelog":"Inicial",
+    "versao":"1.0"
+  }	
 ]
