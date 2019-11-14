@@ -119,5 +119,22 @@
       ],
       "chagelog":"---",
       "versao":"1.0"
+   },
+  {
+      "nome":"Coterx",
+      "descricao":"Para uso diurno e noturno - Hdr frame - 12, Hdr exposição - 1/15s, Exposição visão noturna - 1/2s, Saturação ajustada (mais natural), Redução de ruido ativado, Libs -Stock Google, Mapeamento de cor - Stock Google, HDR+ retrato off (para modo retrato mais rápido), Grade de ouro, Fluxo de Bit - 60MBps (vídeo)",
+      "desc_global":"For day and night use - HDR frame - 12, HDR exposure - 1 / 15s, Night vision exposure - 1 / 2s, Adjusted saturation (more natural), Noise reduction enabled, Libs -Stock Google, Color mapping - Google stock, HDR + portrait off (for mode Fastest Portrait), Gold Grid, Bit Stream - 60MBps (video)",
+      "author":"Marcos Almeida",
+      "dispo_compativeis":[
+         {
+            "modelo":"MI A2/6X",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/CortexV1.xml",
+            "chagelog":"---",
+            "author":"Marcos Almeida",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
    }
 ]
