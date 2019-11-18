@@ -1,7 +1,7 @@
 [
    {
       "nomegcam":"Licença/Licence",
-      "descricao":"Alguns usuários estão com problema de licença após a compra, para resolver isso, basta clicar no botão que já comprou, não será cobrado novamente! \nEstamos trabalhando para resolver este problema o mais rápido possível.",
+      "descricao":"Alguns usuários estão com problema de licença após a compra (Apenas PROFILES CAM - a compra do GB CLUB não irá ativar versão pro neste app), para resolver isso, basta clicar no botão que já comprou, não será cobrado novamente! \nEstamos trabalhando para resolver este problema o mais rápido possível.",
       "desc_global":"Some users are having license issue after purchase, to resolve this, simply click the button they already purchased, will not be charged again! \nWe are working to resolve this issue as soon as possible.",
       "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/general-ledger-icon-26.jpg",
       "action":3,
@@ -16,15 +16,6 @@
       "action":3,
       "vs":"1.7.5",
       "url":"null"
-   },
-   {
-      "nomegcam":"Importante / Important",
-      "descricao":"Reserve um minutinho do seu tempo para ler este aviso.",
-      "desc_global":"Please take a moment to read this notice.",
-      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/480px-Important_2.svg.png",
-      "action":2,
-      "vs":"1.6.2",
-      "url":"https://telegra.ph/ImportanteImportant-10-01"
    },
    {
       "nomegcam":"GB Downloads",
@@ -115,5 +106,14 @@
       "action":1,
       "vs":"1.5.0",
       "url":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/xcam/data.json"
+   },
+   {
+      "nomegcam":"Importante / Important",
+      "descricao":"Reserve um minutinho do seu tempo para ler este aviso.",
+      "desc_global":"Please take a moment to read this notice.",
+      "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/480px-Important_2.svg.png",
+      "action":2,
+      "vs":"1.6.2",
+      "url":"https://telegra.ph/ImportanteImportant-10-01"
    }
 ]
