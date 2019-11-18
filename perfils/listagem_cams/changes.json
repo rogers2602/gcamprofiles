@@ -1,107 +1,114 @@
 [
-       {
-		"title":"Todos os profiles gb oficial para A2 lite.",
-		"title_global":"All official gb profiles for A2 lite.",
-		"data":"20-10-2019 - 21:18.",
-		"descricao":"Mi a2 lite agora é compatível com todos os profiles da sessão Gb Oficial.",
-		"desc_global":"Mi a2 lite agora é compatível com todos os profiles da sessão Gb Oficial."
-       },
-       {
-		"title":"Nova sessão",
-		"title_global":"New section",
-		"data":"04-10-2019 - 17:30.",
-		"descricao":"Nova sessão Hypercam e profiles adicionados.",
-		"desc_global":"New Hypercam Session and Profiles Added."
-       },
-	{
-		"title":"Profiles Updated",
-		"title_global":"Profiles Updated",
-		"data":"27-09-2019 - 13:26.",
-		"descricao":"Todos os profiles da sessão GB Oficial foram atualizados para os aparelhos:<br><br>Mi 8/Pro/EE, Mi 8 Lite, Pocophone F1, OnePlus 6/T, Mi Mix 2S, Mi Mix 2, Mi Mix 3,Mi 6.",
-		"desc_global":"All official GB session profiles have been updated for the devices:<br><br> Mi 8/Pro/EE, Mi 8 Lite, Pocophone F1, OnePlus 6/T, Mi Mix 2S, Mi Mix 2, Mi Mix 3, Mi 6."
-       },
-	{
-		"title":"ALHorn para MI A3/CC9",
-		"title_global":"ALHorn for MI A3/CC9",
-		"data":"27-09-2019 - 12:09.",
-		"descricao":"Novo profiles Alhorn na sessão XCAM.",
-		"desc_global":"New Alhorn profiles in XCAM session."
-       },
-	{
-		"title":"Mi 9 se Update",
-		"title_global":"Mi 9 se Update",
-		"data":"27-09-2019 - 11:21.",
-		"descricao":"Todos os profiles para mi 9se na sessão gb oficial foram atualizados.",
-		"desc_global":"All profiles for mi 9se in the official gb session have been updated."
-       },
-	{
-		"title":"TrueColors",
-		"title_global":"TrueColors",
-		"data":"17-09-2019 - 15:30.",
-		"descricao":"Que tal fotos mais coloridas e com mais cores? TrueColors é um profile baseado no truelight só que com cores mais fortes dedicados a objetos e paisagens, está na sessão GB Oficial.",
-		"desc_global":"How about more colorful and more colorful photos? TrueColors is a truelight-based profile but with stronger colors dedicated to objects and landscapes, it is in the Official GB session."
-       },
-	{
-		"title":"Profile SayHI e SayHI XS",
-		"title_global":"Profile SayHI and SayHI XS",
-		"data":"05-09-2019 - 20:00.",
-		"descricao":"Profile SayHi para todas as Gcamera 6.1, e profile SayHi XS para Gcamera XS do GcamBrasil Club, incluso todos aparelhos suportados na sessão gb oficial.",
-		"desc_global":"SayHi profile for all Gcamera 6.1, and SayHi XS profile for Gcamera XS from GcamBrasil Club, including all supported devices in the official gb session."
-       },
-       {
-		"title":"Profile Vivid e Xquality!",
-		"title_global":"Profile Vivid and Xquality!",
-		"data":"25-08-2019 - 22:48.",
-		"descricao":"Profile Vivid adicionado para Mi 8 lite, Xquality(xcam) adicionado para k20,mi9t/pro, poco f1, mi a2/6x, Rn5, Rn7.",
-		"desc_global":"Profile Vivid added for Mi 8 lite, Xquality (xcam) added for k20, mi9t / pro, poco f1, mi a2 / 6x, Rn5, Rn7."
-	},
-	{
-		"title":"Profiles da Sessão GB Official Atualizados!",
-		"title_global":"GB official Session Profiles Updated!",
-		"data":"19-08-2019 - 11:48.",
-		"descricao":"<b>Update Inlight e Delight <font color='#ab000d'>(Free)</font></b><br>- Nova Base, Redução de Ruído, Nitidez, Luma e Chroma Denoise.<br>Raisr Resampling Method (Melhor recorte modo retrato).<br><br><b>Update Overlight e Truelight <font color='#ab000d'>(Pro)</font></b><br>- Raisr Resampling Method (Melhor recorte modo retrato), Superzoom câmera frontal e traseira.<br><br><b>Novos aparelhos nos profiles citados acima: Mi 9t/K20/Pro, Lg G8S, Mi a3, Lenovo Z6 Pro.</b>",
-		"desc_global":"<b>Update Inlight and Delight <font color='#ab000d'>(Free)</font></b><br>- New Base, Noise Reduction, Sharpness, Luma and Chroma Denoise.<br>Raisr Resampling Method (Best Portrait Mode Trimming)<br><br><b>Update Overlight and Truelight <font color='#ab000d'>(Pro)</font></b><br>- Raisr Resampling Method (Best Crop Portrait Mode), Superzoom Front and Rear Camera.<br><br><b>New handsets in the profiles mentioned above: Mi 9t /K20/Pro, LG G8S, Mi a3, Lenovo Z6 Pro.</b>"
-	},
-	{
-		"title":"Profiles Tourão atualizados MI A2",
-		"title_global":"Updated Champion Profiles MI A2",
-		"data":"06-08-2019 - 17:20.",
-		"descricao":"Profiles tourão atualizados para mi a2 e 6x.</br>Profiles Definition colors e natural foram movidos para sessão Sanity",
-		"desc_global":"Updated champion profiles for mi a2 and 6x. <br>Profiles Definition colors and natural moved to Sanity session"
-	},
-	{
-		"title":"Profiles Inlight, Delight e Overlight",
-		"title_global":"Profiles Inlight, Delight and Overlight",
-		"data":"25-07-2019 - 14:30.",
-		"descricao":"Perfis Inlight , Delight e Overlight foram atualizados novamente para todos os dispositivos inclusos, correção para ambientes com pouca luz, antes estava saindo fotos com tons verdes.",
-		"desc_global":"Inlight, Delight and Overlight Profiles have been updated again for all included devices, correction for low light environments, before photos were coming out with green tones."
-	},
-	{
-		"title":"Atualização de Profiles",
-		"title_global":"Update Profiles",
-		"data":"23-07-2019 - 8:30.",
-		"descricao":"Profiles Inlight e Delight atualizados para todos os dispositivos, e foi adicionado a compatibilidade do Overlight para Redmi 7",
-		"desc_global":"Updated Inlight and Delight Profiles for all devices, and Overlight Compatibility for Redmi 7 has been added"
-	},
-        {
-		"title":"Atualização de Profiles",
-		"title_global":"Update Profiles",
-		"data":"15-06-2019 - 8:30.",
-		"descricao":"Delight para Mi A2,6X e Mi Mix 2 Atualizados - Gb Oficial.<br>Novo Perfil Exclusive para S9/Note 9 adicionado - Arnova.",
-		"desc_global":"Delight for Mi A2.6X and Mi Mix 2 Updated - Official Gb. <br>New Exclusive Profile for S9/Note 9 added - Arnova."
-	},
-	{
-		"title":"Atualização de Profiles",
-		"title_global":"Update Profiles",
-		"data":"14-06-2019 - 13:10.",
-		"descricao":"Novos Profiles <br>Geral na sessão arnova <br>Marian XLib2.2s P3XL <br>Ambos para MI 9/SE <br>GlobalConfig agora na sessão arnova Mi A2/6X<br>NightHard MI A2/6x<br>Delight MI Mix 2s",
-		"desc_global":"New General Profiles in the arnova session <br> Marian XLib2.2s P3XL <br> Both for MI 9 / SE <br> GlobalConfig now in session arnova Mi A2 / 6X <br> NightHard MI A2 / 6x<br>Delight MI Mix 2s"
-	},
-	{
-		"title":"Atualização",
-		"title_global":"Update",
-		"data":"02-06-2019 - 23:49.",
-		"descricao":"Atualização do app para a versão 1.1.9 já está disponível para instalar, baixe agora mesmo na play store, a busca foi corrigida.",
-		"desc_global":"Update the app to version 1.1.9 is now available to install, download it right now in the play store, the search has been corrected."
-	}
+  {
+    "title":"Atualizações",
+    "title_global":"Updates.",
+    "data":"18-11-2019 - 10:00.",
+    "descricao":"Nova compatibilidade com aparelhos <b>LGs</b> em todos os profiles da seção GB Oficial, novos xmls gratuitos. <br><b>Rise - <font color='#ab000d'>New</font></b> adicionado para todos aparelhos existentes na seção gb oficial.<br>Correções no Xml <b>Prime</b>.",
+    "desc_global":"New compatibility with <b>LGs</b> devices on all GB Official section profiles, new free xmls. <br><b> Ascension - <font color ='#ab000d'>New/</font> </b> added for all devices installed in the official gb section. <br>Xml <b>Prime</b> Fixes.."
+  },
+  {
+    "title":"Todos os profiles gb oficial para A2 lite.",
+    "title_global":"All official gb profiles for A2 lite.",
+    "data":"20-10-2019 - 21:18.",
+    "descricao":"Mi a2 lite agora é compatível com todos os profiles da sessão Gb Oficial.",
+    "desc_global":"Mi a2 lite agora é compatível com todos os profiles da sessão Gb Oficial."
+  },
+  {
+    "title":"Nova sessão",
+    "title_global":"New section",
+    "data":"04-10-2019 - 17:30.",
+    "descricao":"Nova sessão Hypercam e profiles adicionados.",
+    "desc_global":"New Hypercam Session and Profiles Added."
+  },
+  {
+    "title":"Profiles Updated",
+    "title_global":"Profiles Updated",
+    "data":"27-09-2019 - 13:26.",
+    "descricao":"Todos os profiles da sessão GB Oficial foram atualizados para os aparelhos:<br><br>Mi 8/Pro/EE, Mi 8 Lite, Pocophone F1, OnePlus 6/T, Mi Mix 2S, Mi Mix 2, Mi Mix 3,Mi 6.",
+    "desc_global":"All official GB session profiles have been updated for the devices:<br><br> Mi 8/Pro/EE, Mi 8 Lite, Pocophone F1, OnePlus 6/T, Mi Mix 2S, Mi Mix 2, Mi Mix 3, Mi 6."
+  },
+  {
+    "title":"ALHorn para MI A3/CC9",
+    "title_global":"ALHorn for MI A3/CC9",
+    "data":"27-09-2019 - 12:09.",
+    "descricao":"Novo profiles Alhorn na sessão XCAM.",
+    "desc_global":"New Alhorn profiles in XCAM session."
+  },
+  {
+    "title":"Mi 9 se Update",
+    "title_global":"Mi 9 se Update",
+    "data":"27-09-2019 - 11:21.",
+    "descricao":"Todos os profiles para mi 9se na sessão gb oficial foram atualizados.",
+    "desc_global":"All profiles for mi 9se in the official gb session have been updated."
+  },
+  {
+    "title":"TrueColors",
+    "title_global":"TrueColors",
+    "data":"17-09-2019 - 15:30.",
+    "descricao":"Que tal fotos mais coloridas e com mais cores? TrueColors é um profile baseado no truelight só que com cores mais fortes dedicados a objetos e paisagens, está na sessão GB Oficial.",
+    "desc_global":"How about more colorful and more colorful photos? TrueColors is a truelight-based profile but with stronger colors dedicated to objects and landscapes, it is in the Official GB session."
+  },
+  {
+    "title":"Profile SayHI e SayHI XS",
+    "title_global":"Profile SayHI and SayHI XS",
+    "data":"05-09-2019 - 20:00.",
+    "descricao":"Profile SayHi para todas as Gcamera 6.1, e profile SayHi XS para Gcamera XS do GcamBrasil Club, incluso todos aparelhos suportados na sessão gb oficial.",
+    "desc_global":"SayHi profile for all Gcamera 6.1, and SayHi XS profile for Gcamera XS from GcamBrasil Club, including all supported devices in the official gb session."
+  },
+  {
+    "title":"Profile Vivid e Xquality!",
+    "title_global":"Profile Vivid and Xquality!",
+    "data":"25-08-2019 - 22:48.",
+    "descricao":"Profile Vivid adicionado para Mi 8 lite, Xquality(xcam) adicionado para k20,mi9t/pro, poco f1, mi a2/6x, Rn5, Rn7.",
+    "desc_global":"Profile Vivid added for Mi 8 lite, Xquality (xcam) added for k20, mi9t / pro, poco f1, mi a2 / 6x, Rn5, Rn7."
+  },
+  {
+    "title":"Profiles da Sessão GB Official Atualizados!",
+    "title_global":"GB official Session Profiles Updated!",
+    "data":"19-08-2019 - 11:48.",
+    "descricao":"<b>Update Inlight e Delight <font color='#ab000d'>(Free)</font></b><br>- Nova Base, Redução de Ruído, Nitidez, Luma e Chroma Denoise.<br>Raisr Resampling Method (Melhor recorte modo retrato).<br><br><b>Update Overlight e Truelight <font color='#ab000d'>(Pro)</font></b><br>- Raisr Resampling Method (Melhor recorte modo retrato), Superzoom câmera frontal e traseira.<br><br><b>Novos aparelhos nos profiles citados acima: Mi 9t/K20/Pro, Lg G8S, Mi a3, Lenovo Z6 Pro.</b>",
+    "desc_global":"<b>Update Inlight and Delight <font color='#ab000d'>(Free)</font></b><br>- New Base, Noise Reduction, Sharpness, Luma and Chroma Denoise.<br>Raisr Resampling Method (Best Portrait Mode Trimming)<br><br><b>Update Overlight and Truelight <font color='#ab000d'>(Pro)</font></b><br>- Raisr Resampling Method (Best Crop Portrait Mode), Superzoom Front and Rear Camera.<br><br><b>New handsets in the profiles mentioned above: Mi 9t /K20/Pro, LG G8S, Mi a3, Lenovo Z6 Pro.</b>"
+  },
+  {
+    "title":"Profiles Tourão atualizados MI A2",
+    "title_global":"Updated Champion Profiles MI A2",
+    "data":"06-08-2019 - 17:20.",
+    "descricao":"Profiles tourão atualizados para mi a2 e 6x.</br>Profiles Definition colors e natural foram movidos para sessão Sanity",
+    "desc_global":"Updated champion profiles for mi a2 and 6x. <br>Profiles Definition colors and natural moved to Sanity session"
+  },
+  {
+    "title":"Profiles Inlight, Delight e Overlight",
+    "title_global":"Profiles Inlight, Delight and Overlight",
+    "data":"25-07-2019 - 14:30.",
+    "descricao":"Perfis Inlight , Delight e Overlight foram atualizados novamente para todos os dispositivos inclusos, correção para ambientes com pouca luz, antes estava saindo fotos com tons verdes.",
+    "desc_global":"Inlight, Delight and Overlight Profiles have been updated again for all included devices, correction for low light environments, before photos were coming out with green tones."
+  },
+  {
+    "title":"Atualização de Profiles",
+    "title_global":"Update Profiles",
+    "data":"23-07-2019 - 8:30.",
+    "descricao":"Profiles Inlight e Delight atualizados para todos os dispositivos, e foi adicionado a compatibilidade do Overlight para Redmi 7",
+    "desc_global":"Updated Inlight and Delight Profiles for all devices, and Overlight Compatibility for Redmi 7 has been added"
+  },
+  {
+    "title":"Atualização de Profiles",
+    "title_global":"Update Profiles",
+    "data":"15-06-2019 - 8:30.",
+    "descricao":"Delight para Mi A2,6X e Mi Mix 2 Atualizados - Gb Oficial.<br>Novo Perfil Exclusive para S9/Note 9 adicionado - Arnova.",
+    "desc_global":"Delight for Mi A2.6X and Mi Mix 2 Updated - Official Gb. <br>New Exclusive Profile for S9/Note 9 added - Arnova."
+  },
+  {
+    "title":"Atualização de Profiles",
+    "title_global":"Update Profiles",
+    "data":"14-06-2019 - 13:10.",
+    "descricao":"Novos Profiles <br>Geral na sessão arnova <br>Marian XLib2.2s P3XL <br>Ambos para MI 9/SE <br>GlobalConfig agora na sessão arnova Mi A2/6X<br>NightHard MI A2/6x<br>Delight MI Mix 2s",
+    "desc_global":"New General Profiles in the arnova session <br> Marian XLib2.2s P3XL <br> Both for MI 9 / SE <br> GlobalConfig now in session arnova Mi A2 / 6X <br> NightHard MI A2 / 6x<br>Delight MI Mix 2s"
+  },
+  {
+    "title":"Atualização",
+    "title_global":"Update",
+    "data":"02-06-2019 - 23:49.",
+    "descricao":"Atualização do app para a versão 1.1.9 já está disponível para instalar, baixe agora mesmo na play store, a busca foi corrigida.",
+    "desc_global":"Update the app to version 1.1.9 is now available to install, download it right now in the play store, the search has been corrected."
+  }
 ]
