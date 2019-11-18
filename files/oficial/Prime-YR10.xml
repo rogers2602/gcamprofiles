@@ -152,7 +152,7 @@
     <string name="pref_front_denoise_luma_0_key">430</string>
     <string name="pref_front_noise_model_as_key">0</string>
     <string name="pref_auxback_noise_model_ao_key">0</string>
-    <string name="iso_up_key">1</string>
+    <string name="iso_up_key">0</string>
     <string name="pref_auxbackcamera_key">0</string>
     <string name="motion_key">0</string>
     <long name="tooltip_latest_impression_timestamp_for_cuttlefish_steady_advice" value="1570141584821" />
