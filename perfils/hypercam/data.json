@@ -1,157 +1,241 @@
 [
   {
-      "nome":"Xquality",
-      "descricao":"Finalmente uma Xml perfeita para uma gcam 6.1! 90% funcional no Mido. Frontal, traseira, modo noturno e mais um pouco. Não funciona Camera lenta.Use a HyperCam r2 ou superior",
-      "desc_global":"Finally a perfect Xml for a gcam 6.1! 90% functional in Mido. Front, rear, night mode and some more. Does Not Work Slow Motion. Use HyperCam R2 or Higher",
-      "author":"Vitor",
-      "dispo_compativeis":[
-         {
-            "modelo":"Redmi Note 4",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Tulip%40Coga89SpecialThanksToUrnyx05.xml",
-            "chagelog":"---",
-            "author":"Vitor",
-            "versao":1.0
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.0"
-   },
+    "nome":"Xquality",
+    "descricao":"Finalmente uma Xml perfeita para uma gcam 6.1! 90% funcional no Mido. Frontal, traseira, modo noturno e mais um pouco. Não funciona Camera lenta.Use a HyperCam r2 ou superior",
+    "desc_global":"Finally a perfect Xml for a gcam 6.1! 90% functional in Mido. Front, rear, night mode and some more. Does Not Work Slow Motion. Use HyperCam R2 or Higher",
+    "author":"Vitor",
+    "dispo_compativeis":[
+      {
+        "modelo":"Redmi Note 4",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/uncategorized/Tulip%40Coga89SpecialThanksToUrnyx05.xml",
+        "chagelog":"---",
+        "author":"Vitor",
+        "versao":1.0
+      }
+    ],
+    "chagelog":"---",
+    "versao":"1.0"
+  },
   {
-      "nome":"Drika.E1",
-      "descricao":"Cores vivas, uso geral se sai bem tanto de dia como a noite",
-      "desc_global":"Bright colors, general use fits well both day and night",
-      "author":"Adriana",
-      "dispo_compativeis":[
-         {
-            "modelo":"Mi Max 3",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
-            "chagelog":"---",
-            "author":"Adriana",
-            "versao":1.0
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.0"
-   },
+    "nome":"Drika.E1",
+    "descricao":"Cores vivas, uso geral se sai bem tanto de dia como a noite",
+    "desc_global":"Bright colors, general use fits well both day and night",
+    "author":"Adriana",
+    "dispo_compativeis":[
+      {
+        "modelo":"Mi Max 3",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi A1",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 5/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 6/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 7/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 8",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"G7 Plus",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Zenfone 4",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Zenfone 5",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"G7",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi A2 Lite",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"G6",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 9",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      }
+    ],
+    "chagelog":"---",
+    "versao":"1.0"
+  },
   {
-      "nome":"ShotFastPlus",
-      "descricao":"Profile de disparo quase que imediato (ZSL) com excelente nitidez e qualidade, ótimo para tirar foto de crianças que tende a se mexer a qualquer momento, assim não perdemos o click.",
-      "desc_global":"Almost Immediate Shooting Profile (ZSL) with excellent sharpness and quality, great for taking pictures of kids who tend to move anytime, so we don't miss the click.",
-      "author":"Jairo Rossi",
-      "dispo_compativeis":[
-         {
-            "modelo":"Zenfone Max Pro (M1)",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlusV2.xml",
-            "chagelog":"---",
-            "author":"Jairo Rossi",
-            "versao":2.0
-         },
-         {
-            "modelo":"Mi 8/Pro/EE",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
-            "chagelog":"",
-            "author":"Community",
-            "versao":2.0
-         },
-         {
-            "modelo":"Mi 8 Lite",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
-            "chagelog":"",
-            "author":"Community",
-            "versao":2.0
-         },
-         {
-            "modelo":"Pocophone F1",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
-            "chagelog":"",
-            "author":"Community",
-            "versao":2.0
-         },
-         {
-            "modelo":"OnePlus 6/T",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
-            "chagelog":"",
-            "author":"Community",
-            "versao":2.0
-         },
-         {
-            "modelo":"Mi Mix 2S",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
-            "chagelog":"",
-            "author":"Community",
-            "versao":2.0
-         },
-         {
-            "modelo":"Mi Mix 2",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
-            "chagelog":"Corrections\nImprovement of noise in photo",
-            "author":"Community",
-            "versao":2.0
-         },
-         {
-            "modelo":"Mi Mix 3",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
-            "chagelog":"",
-            "author":"Community",
-            "versao":2.0
-         },
-         {
-            "modelo":"Mi 6",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
-            "chagelog":"Corrections\nImprovement of noise in photo",
-            "author":"Community",
-            "versao":2.0
-         },
-         {
-            "modelo":"Mi 9",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
-            "chagelog":"",
-            "author":"Community",
-            "versao":2.0
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.0"
-   },
+    "nome":"ShotFastPlus",
+    "descricao":"Profile de disparo quase que imediato (ZSL) com excelente nitidez e qualidade, ótimo para tirar foto de crianças que tende a se mexer a qualquer momento, assim não perdemos o click.",
+    "desc_global":"Almost Immediate Shooting Profile (ZSL) with excellent sharpness and quality, great for taking pictures of kids who tend to move anytime, so we don't miss the click.",
+    "author":"Jairo Rossi",
+    "dispo_compativeis":[
+      {
+        "modelo":"Zenfone Max Pro (M1)",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlusV2.xml",
+        "chagelog":"---",
+        "author":"Jairo Rossi",
+        "versao":2.0
+      },
+      {
+        "modelo":"Mi 8/Pro/EE",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
+        "chagelog":"",
+        "author":"Community",
+        "versao":2.0
+      },
+      {
+        "modelo":"Mi 8 Lite",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
+        "chagelog":"",
+        "author":"Community",
+        "versao":2.0
+      },
+      {
+        "modelo":"Pocophone F1",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
+        "chagelog":"",
+        "author":"Community",
+        "versao":2.0
+      },
+      {
+        "modelo":"OnePlus 6/T",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
+        "chagelog":"",
+        "author":"Community",
+        "versao":2.0
+      },
+      {
+        "modelo":"Mi Mix 2S",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
+        "chagelog":"",
+        "author":"Community",
+        "versao":2.0
+      },
+      {
+        "modelo":"Mi Mix 2",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
+        "chagelog":"Corrections\nImprovement of noise in photo",
+        "author":"Community",
+        "versao":2.0
+      },
+      {
+        "modelo":"Mi Mix 3",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
+        "chagelog":"",
+        "author":"Community",
+        "versao":2.0
+      },
+      {
+        "modelo":"Mi 6",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
+        "chagelog":"Corrections\nImprovement of noise in photo",
+        "author":"Community",
+        "versao":2.0
+      },
+      {
+        "modelo":"Mi 9",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotFastPlus-Mi8-Poco.xml",
+        "chagelog":"",
+        "author":"Community",
+        "versao":2.0
+      }
+    ],
+    "chagelog":"---",
+    "versao":"1.0"
+  },
   {
-      "nome":"Shot XQuality",
-      "descricao":"Para uso de dia e noite, usado modelo Nexus 5x na camera traseira causando mais detalhes nas fotos, excelente XML com redução de dots em 90%.",
-      "desc_global":"For day and night use, used Nexus 5x model in rear camera causing more detail in photos, excellent XML with 90% dot reduction.",
-      "author":"Jairo Rossi",
-      "dispo_compativeis":[
-         {
-            "modelo":"Zenfone Max Pro (M1)",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotNexus5XQuality-R10Y.xml",
-            "chagelog":"---",
-            "author":"Jairo Rossi",
-            "versao":1.0
-         },
-        {
-            "modelo":"Mi 9",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Jairo.xml",
-            "chagelog":"---",
-            "author":"Hedertone Almeida",
-            "versao":1.0
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.0"
-   },
+    "nome":"Shot XQuality",
+    "descricao":"Para uso de dia e noite, usado modelo Nexus 5x na camera traseira causando mais detalhes nas fotos, excelente XML com redução de dots em 90%.",
+    "desc_global":"For day and night use, used Nexus 5x model in rear camera causing more detail in photos, excellent XML with 90% dot reduction.",
+    "author":"Jairo Rossi",
+    "dispo_compativeis":[
+      {
+        "modelo":"Zenfone Max Pro (M1)",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/ShotNexus5XQuality-R10Y.xml",
+        "chagelog":"---",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 9",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Jairo.xml",
+        "chagelog":"---",
+        "author":"Hedertone Almeida",
+        "versao":1.0
+      }
+    ],
+    "chagelog":"---",
+    "versao":"1.0"
+  },
   {
-      "nome":"Coterx",
-      "descricao":"Para uso diurno e noturno - Hdr frame - 12, Hdr exposição - 1/15s, Exposição visão noturna - 1/2s, Saturação ajustada (mais natural), Redução de ruido ativado, Libs -Stock Google, Mapeamento de cor - Stock Google, HDR+ retrato off (para modo retrato mais rápido), Grade de ouro, Fluxo de Bit - 60MBps (vídeo)",
-      "desc_global":"For day and night use - HDR frame - 12, HDR exposure - 1 / 15s, Night vision exposure - 1 / 2s, Adjusted saturation (more natural), Noise reduction enabled, Libs -Stock Google, Color mapping - Google stock, HDR + portrait off (for mode Fastest Portrait), Gold Grid, Bit Stream - 60MBps (video)",
-      "author":"Marcos Almeida",
-      "dispo_compativeis":[
-         {
-            "modelo":"MI A2/6X",
-            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/CortexV1.xml",
-            "chagelog":"---",
-            "author":"Marcos Almeida",
-            "versao":1.0
-         }
-      ],
-      "chagelog":"---",
-      "versao":"1.0"
-   }
+    "nome":"Coterx",
+    "descricao":"Para uso diurno e noturno - Hdr frame - 12, Hdr exposição - 1/15s, Exposição visão noturna - 1/2s, Saturação ajustada (mais natural), Redução de ruido ativado, Libs -Stock Google, Mapeamento de cor - Stock Google, HDR+ retrato off (para modo retrato mais rápido), Grade de ouro, Fluxo de Bit - 60MBps (vídeo)",
+    "desc_global":"For day and night use - HDR frame - 12, HDR exposure - 1 / 15s, Night vision exposure - 1 / 2s, Adjusted saturation (more natural), Noise reduction enabled, Libs -Stock Google, Color mapping - Google stock, HDR + portrait off (for mode Fastest Portrait), Gold Grid, Bit Stream - 60MBps (video)",
+    "author":"Marcos Almeida",
+    "dispo_compativeis":[
+      {
+        "modelo":"MI A2/6X",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/CortexV1.xml",
+        "chagelog":"---",
+        "author":"Marcos Almeida",
+        "versao":1.0
+      }
+    ],
+    "chagelog":"---",
+    "versao":"1.0"
+  }
 ]
