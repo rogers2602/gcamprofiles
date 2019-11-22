@@ -5,14 +5,14 @@
     "desc_global":"Some users are having license issue after purchase, to resolve this, simply click the button they already purchased, will not be charged again! \nWe are working to resolve this issue as soon as possible.",
     "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/general-ledger-icon-26.jpg",
     "action":3,
-    "vs":"1.7.6",
+    "vs":"1.7.7",
     "url":"https://telegra.ph/ImportanteImportant-10-01"
   },
   {
     "nomegcam":"Profiles Pro",
     "descricao":"Seja pro, tenha uma aplicação sem anúncios e perfils exclusivos na sessão GB Oficial, para isso basta apenas clicar no icone pro, no canto superior direito.",
     "desc_global":"Be pro, have an app with no ads and unique profiles in the Official GB session, just click on the pro icon in the upper right corner.",
-    "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/logo-pro-only-black-512.png",
+    "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/logo-pro-only-black.png",
     "action":3,
     "vs":"1.7.5",
     "url":"null"
@@ -30,7 +30,7 @@
     "nomegcam":"Celso Azevedo Downloads",
     "descricao":"G-Camera de diversos desenvolvedores!",
     "desc_global":"G-Camera from various developers!",
-    "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/avatarq.png",
+    "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/avatarpro.png",
     "action":2,
     "vs":"1.5.7",
     "url":"https://www.celsoazevedo.com/files/android/google-camera/"
