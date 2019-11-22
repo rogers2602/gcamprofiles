@@ -17,6 +17,23 @@
       "versao":"1.0"
    },
   {
+      "nome":"Drika.E1",
+      "descricao":"Cores vivas, uso geral se sai bem tanto de dia como a noite",
+      "desc_global":"Bright colors, general use fits well both day and night",
+      "author":"Adriana",
+      "dispo_compativeis":[
+         {
+            "modelo":"Mi Max 3",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.E1.xml",
+            "chagelog":"---",
+            "author":"Adriana",
+            "versao":1.0
+         }
+      ],
+      "chagelog":"---",
+      "versao":"1.0"
+   },
+  {
       "nome":"ShotFastPlus",
       "descricao":"Profile de disparo quase que imediato (ZSL) com excelente nitidez e qualidade, ótimo para tirar foto de crianças que tende a se mexer a qualquer momento, assim não perdemos o click.",
       "desc_global":"Almost Immediate Shooting Profile (ZSL) with excellent sharpness and quality, great for taking pictures of kids who tend to move anytime, so we don't miss the click.",
