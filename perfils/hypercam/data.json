@@ -275,6 +275,30 @@
     "versao":"1.0"
   },
   {
+    "nome":"Zoro em wano @Nathang0m3s",
+    "descricao":"Frontal quebra muro, Traseira apocalíptica.",
+    "desc_global":"Front break wall, Rear apocalyptic.",
+    "author":"@NathanG0m3s",
+    "dispo_compativeis":[
+        {
+            "modelo":"Galaxy S9/Plus",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Zoro%20em%20wano%20%40Nathang0m3s.xml",
+            "chagelog":"",
+            "author":"@NathanG0m3s",
+            "versao":1.0
+         },
+         {
+            "modelo":"Galaxy Note 9",
+            "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Zoro%20em%20wano%20%40Nathang0m3s.xml",
+            "chagelog":"",
+            "author":"@NathanG0m3s",
+            "versao":1.0
+         }
+    ],
+    "chagelog":"---",
+    "versao":"1.0"
+  },
+  {
     "nome":"Shot XQuality",
     "descricao":"Para uso de dia e noite, usado modelo Nexus 5x na camera traseira causando mais detalhes nas fotos, excelente XML com redução de dots em 90%.",
     "desc_global":"For day and night use, used Nexus 5x model in rear camera causing more detail in photos, excellent XML with 90% dot reduction.",
