@@ -1,5 +1,14 @@
 [
   {
+    "nomegcam":"20% Off Christmas!",
+    "descricao":"Aproveite nossa oferta de natal, 20% off, disponível até 11:59 de 25/12.",
+    "desc_global":"Take advantage of our Christmas offer, 20% off, available until 11:59 of 25/12.",
+    "icone":"https://media.gettyimages.com/videos/black-friday-sale-video-id1064914214?s=192x192",
+    "action":3,
+    "vs":"1.7.7",
+    "url":"https://telegra.ph/ImportanteImportant-10-01"
+  },
+  {
     "nomegcam":"Licença/Licence",
     "descricao":"Alguns usuários estão com problema de licença após a compra (Apenas PROFILES CAM - a compra do GB CLUB não irá ativar versão pro neste app), para resolver isso, basta clicar no botão que já comprou, não será cobrado novamente! \nEstamos trabalhando para resolver este problema o mais rápido possível.",
     "desc_global":"Some users are having license issue after purchase, to resolve this, simply click the button they already purchased, will not be charged again! \nWe are working to resolve this issue as soon as possible.",
