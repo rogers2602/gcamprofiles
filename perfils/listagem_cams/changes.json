@@ -2,7 +2,7 @@
   {
     "title":"Cortex V4.",
     "title_global":"Cortex V4.",
-    "data":"02/01/2020 - 07:52",
+    "data":"02-01-2020 - 07:52",
     "descricao":"Desativado a vinheta<br>Corrigido saturação das sombras<br>Adicionado um pouco mais de saturação nos realçes <br>Balanço de branco IMX586 (se encaixa bem com vários outros IMX) <br>Nitidez padrão<br>Redução de ruído reduzido (um pouco granulado mas com mais detalhes em extrema baixa luz.",
     "desc_global":"Vignetting disabled <br> Fixed shadow saturation <br>Added a bit more saturation in highlights <br>IMX586 white balance (fits well with several other IMX) <br>Standard sharpness <br>Reduced noise reduction (slightly grainy but with more detail in extreme low light."
   },
