@@ -1054,5 +1054,274 @@
     ],
     "chagelog":"---",
     "versao":"2.0"
+  },
+  {
+    "nome":"Metroid Black XML (Ads)",
+    "descricao":"XML para uso noturno e diurno, com leve redução de ruídos mantendo assim uma boa nitidez, disparo rapido em boas condições de luz e médio em low light.",
+    "desc_global":"XML for night and day use, with slight noise reduction thus maintaining good sharpness, fast shooting in good light and low light conditions.",
+    "author":"Jairo Rossi",
+    "dispo_compativeis":[
+      {
+        "modelo":"MI A2/6X",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"Correções/Fix",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi Max 3",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"Correções/Fix",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 8/Pro/EE",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-E3-JR10.xml",
+        "chagelog":"",
+        "author":" Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 8 Lite",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-E3-JR10.xml",
+        "chagelog":"",
+        "author":" Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Pocophone F1",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-E3-JR10.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"OnePlus 6/T",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-E3-JR10.xml",
+        "chagelog":"",
+        "author":" Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi Mix 2S",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-E3-JR10.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi Mix 2",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-E3-JR10.xml",
+        "chagelog":"Corrections\nImprovement of noise in photo",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi Mix 3",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-E3-JR10.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 6",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-E3-JR10.xml",
+        "chagelog":"Corrections\nImprovement of noise in photo",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 9",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 9 SE",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-E3-JR10-SE.xml",
+        "chagelog":"",
+        "author":" Richard",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi A1",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10%20G7.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":2.1
+      },
+      {
+        "modelo":"Galaxy S9/Plus",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YRS.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Galaxy Note 9",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YRS.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 7/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"minor corrections",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 8",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"minor corrections",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 6/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"minor corrections",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 5/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"minor corrections",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"G7 Plus",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10%20G7.xml",
+        "chagelog":"",
+        "author":"Richard, Alterações de Nathan",
+        "versao":1.0
+      },
+      {
+        "modelo":"Zenfone 4",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10%20G7.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Zenfone 5",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10%20G7.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"G7",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10%20G7.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi A2 Lite",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10%20G7.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"G6",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10%20G7.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"LG G8S",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Lenovo Z6 Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi A3",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"K20/9T/PRO",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi 7",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"minor corrections",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Pixel 1/XL",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Pixel 2/XL",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Pixel 3/XL",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"Pixel 3A",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-YR10.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"LG G7 ThinQ",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-LG.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"LG V20",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-LG.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      },
+      {
+        "modelo":"LG V30 ThinQ",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/MetroidBlack-LG.xml",
+        "chagelog":"",
+        "author":"Jairo Rossi",
+        "versao":1.0
+      }
+    ],
+    "chagelog":"",
+    "versao":"2.0"
   }
 ]
