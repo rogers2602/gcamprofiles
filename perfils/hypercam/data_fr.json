@@ -567,7 +567,7 @@
     "versao":"1.0"
   },
   {
-    "nome":"Jiraya 2.0 Hyper E3",
+    "nome":"Jiraya 2.0 Hyper E3 (Ads)",
     "descricao":"Perfil focado em multiuso com ótima nitidez e contraste.\nAutoexposição automática para adaptar-se ao ambiente da fotografia. \nObs: caso o modo noturno não funcione, desligue a opção de Sabre nas configurações.",
     "desc_global":"Multipurpose focused profile for optimum sharpness and contrast. \nAuto exposure to adapt to the shooting environment. \nObs: If the night mode does not work, turn off the Saber option in the settings.",
     "author":"@Geovitito/DevMarques",
@@ -766,7 +766,7 @@
     "versao":"2.0"
   },
   {
-    "nome":"Hashira V2",
+    "nome":"Hashira V2 (Ads)",
     "descricao":"Redução de ruído agressiva, Pretos intensos, Disparo um pouco mais lento, Nitidez moderada (devido a redução de ruído), Contraste mais leve, Pequeno aumento na saturação ainda buscando cores reais (aumente a saturação dos destaques caso queira fotos mais vivas)",
     "desc_global":"Aggressive noise reduction, Intense blacks, Slower shooting, Moderate sharpness (due to noise reduction), Lighter contrast, Slight increase in saturation while still searching for true color (increase highlight saturation if you want more vivid photos).",
     "author":"Enzo",
@@ -1056,7 +1056,7 @@
     "versao":"2.0"
   },
   {
-    "nome":"Metroid Black XML",
+    "nome":"Metroid Black XML (Ads)",
     "descricao":"XML para uso noturno e diurno, com leve redução de ruídos mantendo assim uma boa nitidez, disparo rapido em boas condições de luz e médio em low light.",
     "desc_global":"XML for night and day use, with slight noise reduction thus maintaining good sharpness, fast shooting in good light and low light conditions.",
     "author":"Jairo Rossi",
