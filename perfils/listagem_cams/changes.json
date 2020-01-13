@@ -1,5 +1,12 @@
 [
   {
+    "title":"Cortex V4.1",
+    "title_global":"Cortex V4.1",
+    "data":"12-01-2020 - 22:47",
+    "descricao":"Melhora na redução de ruído.",
+    "desc_global":"Improved noise reduction"
+  },
+  {
     "title":"Cortex V4.",
     "title_global":"Cortex V4.",
     "data":"02-01-2020 - 07:52",
