@@ -195,6 +195,208 @@
     "versao":"1.0"
   },
   {
+    "nome":"Drika.LibGoogle.E3",
+    "descricao":"Sem descrição",
+    "desc_global":"No description",
+    "author":"Adriana",
+    "dispo_compativeis":[
+      {
+        "modelo":"Mi Max 3",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.LibGoogle.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi A1",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.LibGoogle.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 5/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.LibGoogle.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 6/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.LibGoogle.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 7/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.LibGoogle.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 8",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.LibGoogle.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"G7 Plus",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.LibGoogle.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Zenfone 4",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.LibGoogle.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Zenfone 5",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.LibGoogle.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"G7",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.LibGoogle.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi A2 Lite",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.LibGoogle.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"G6",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.LibGoogle.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 9",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.LibGoogle.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      }
+    ],
+    "chagelog":"---",
+    "versao":"1.0"
+  },
+  {
+    "nome":"Drika.gmm18.E3",
+    "descricao":"Sem descrição",
+    "desc_global":"No description",
+    "author":"Adriana",
+    "dispo_compativeis":[
+      {
+        "modelo":"Mi Max 3",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.gmm18.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi A1",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.gmm18.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 5/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.gmm18.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 6/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.gmm18.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 7/Pro",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.gmm18.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Redmi Note 8",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.gmm18.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"G7 Plus",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.gmm18.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Zenfone 4",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.gmm18.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Zenfone 5",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.gmm18.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"G7",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.gmm18.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi A2 Lite",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.gmm18.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"G6",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.gmm18.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      },
+      {
+        "modelo":"Mi 9",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Drika.gmm18.E3.xml",
+        "chagelog":"---",
+        "author":"Adriana",
+        "versao":1.0
+      }
+    ],
+    "chagelog":"---",
+    "versao":"1.0"
+  },
+  {
     "nome":"ShotFastPlus",
     "descricao":"Profile de disparo quase que imediato (ZSL) com excelente nitidez e qualidade, ótimo para tirar foto de crianças que tende a se mexer a qualquer momento, assim não perdemos o click.",
     "desc_global":"Almost Immediate Shooting Profile (ZSL) with excellent sharpness and quality, great for taking pictures of kids who tend to move anytime, so we don't miss the click.",
