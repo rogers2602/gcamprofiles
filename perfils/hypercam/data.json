@@ -528,7 +528,7 @@
     "nome":"Coterx",
     "descricao":"Para uso diurno e noturno - Hdr frame - 12, Hdr exposição - 1/15s, Exposição visão noturna - 1/2s, Saturação ajustada (mais natural), Redução de ruido ativado, Libs -Stock Google, Mapeamento de cor - Stock Google, HDR+ retrato off (para modo retrato mais rápido), Grade de ouro, Fluxo de Bit - 60MBps (vídeo)",
     "desc_global":"For day and night use - HDR frame - 12, HDR exposure - 1 / 15s, Night vision exposure - 1 / 2s, Adjusted saturation (more natural), Noise reduction enabled, Libs -Stock Google, Color mapping - Google stock, HDR + portrait off (for mode Fastest Portrait), Gold Grid, Bit Stream - 60MBps (video)",
-    "author":"Marcos Almeida",
+    "author":"Marcos Almeida/DevMarques",
     "dispo_compativeis":[
       {
         "modelo":"MI A2/6X",
@@ -640,6 +640,83 @@
         "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Coterx%20V5.0.xml",
         "chagelog":"Change log on tab changes.",
         "author":"Marcos Almeida",
+        "versao":5.0
+      },
+	  {
+        "modelo":"Mi 8/Pro/EE",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/cotexJR10.xml",
+        "chagelog":"---",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"Mi 8 Lite",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/cotexJR10.xml",
+        "chagelog":"---",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"Pocophone F1",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/cotexJR10.xml",
+        "chagelog":"---",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"OnePlus 6/T",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/cotexJR10.xml",
+        "chagelog":"---",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"Mi Mix 2S",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/cotexJR10.xml",
+        "chagelog":"---",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"Mi Mix 2",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/cotexJR10.xml",
+        "chagelog":"---",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"Mi Mix 3",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/cotexJR10.xml",
+        "chagelog":"---",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"Mi 6",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/cotexJR10.xml",
+        "chagelog":"---",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"LG G7 ThinQ",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/cotexJR10.xml",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"LG V20",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/cotexJR10.xml",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"LG V30 ThinQ",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/cotexJR10.xml'",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
         "versao":5.0
       }
     ],
