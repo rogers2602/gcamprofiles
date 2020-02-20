@@ -718,6 +718,97 @@
         "chagelog":"",
         "author":"Marcos Almeida/DevMarques",
         "versao":5.1
+      },
+      {
+        "modelo":"Galaxy S9/Plus",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Coterx-YRS.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":5.0
+      },
+      {
+        "modelo":"Galaxy Note 9",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/Coterx-YRS.xml",
+        "chagelog":"",
+        "author":"Richard",
+        "versao":5.0
+      },
+      {
+        "modelo":"G7 Plus",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/coterxYR10G7.xml",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"Zenfone 4",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/coterxYR10G7.xml",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"G7",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/coterxYR10G7.xml",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"Mi A2 Lite",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/coterxYR10G7.xml",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"G6",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/coterxYR10G7.xml",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"Mi A3",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/coterxYR10G7.xml",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"K20/9T/PRO",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/coterxYR10G7.xml",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"Pixel 1/XL",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/coterxYR10G7.xml",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"Pixel 2/XL",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/coterxYR10G7.xml",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"Pixel 3/XL",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/coterxYR10G7.xml",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
+      },
+      {
+        "modelo":"Pixel 3A",
+        "link":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/files/heypercam/coterxYR10G7.xml",
+        "chagelog":"",
+        "author":"Marcos Almeida/DevMarques",
+        "versao":5.0
       }
     ],
     "chagelog":"---",
