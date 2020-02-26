@@ -90,7 +90,7 @@
     <string name="m_focus_key">13.14</string>
     <string name="pref_2ndauxback_denoise_chroma_0_key">800</string>
     <string name="pref_enable_dbl_key">1</string>
-    <string name="model_f_key">6</string>
+    <string name="model_f_key">2</string>
     <string name="cs_video_key">0</string>
     <string name="gamma_factor_key">0</string>
     <string name="lib_curve_highlights_key">4</string>
