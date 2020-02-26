@@ -56,7 +56,7 @@
     <string name="lib_sharpness_key">2000</string>
     <string name="pref_video_quality_back_key">medium</string>
     <string name="pref_2ndauxback_denoise_revert_1_key">3000</string>
-    <string name="model_a_key">6</string>
+    <string name="model_a_key">2</string>
     <string name="pref_2ndauxback_tuningmode_key">0</string>
     <string name="libs_aux_key">0</string>
     <string name="pref_camera_video_back_flashmode_key">off</string>
@@ -179,7 +179,7 @@
     <string name="pref_1staux_more_key">0</string>
     <string name="pref_1staux_slowmotion_key">0</string>
     <string name="pref_auxback_denoise_revert_1_key">1500</string>
-    <string name="pref_force_raw10_front_key">0</string>
+    <string name="pref_force_raw10_front_key">1</string>
     <string name="pref_2ndaux_portrait_key">0</string>
     <string name="pref_enable_lowlight_key">0</string>
     <string name="pref_camera_hdr_plus_key">auto</string>
