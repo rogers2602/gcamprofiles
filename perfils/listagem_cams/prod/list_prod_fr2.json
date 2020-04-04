@@ -1,5 +1,14 @@
 [
   {
+    "nomegcam":"Aviso - Warning",
+    "descricao":"Reserve um minuto para ler nosso aviso, é importante, esse aviso é sobre o futuro do app.",
+    "desc_global":"Take a minute to read our notice, it is important, this notice is about the future of the app.",
+    "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/attention.png",
+    "action":3,
+    "vs":"1.7.7",
+    "url":"https://telegra.ph/Aviso-02-11"
+  },
+  {
     "nomegcam":"Licença/Licence",
     "descricao":"Alguns usuários estão com problema de licença após a compra (Apenas PROFILES CAM - a compra do GB CLUB não irá ativar versão pro neste app), para resolver isso, basta clicar no botão que já comprou, não será cobrado novamente! \nEstamos trabalhando para resolver este problema o mais rápido possível.",
     "desc_global":"Some users are having license issue after purchase, to resolve this, simply click the button they already purchased, will not be charged again! \nWe are working to resolve this issue as soon as possible.",
