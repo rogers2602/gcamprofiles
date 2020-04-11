@@ -61,7 +61,7 @@
     <string name="libs_aux_key">0</string>
     <string name="pref_camera_video_back_flashmode_key">off</string>
     <string name="google_photos_key">0</string>
-    <string name="highlight_f_key">11</string>
+    <string name="highlight_f_key">14</string>
     <string name="exp_ns_key">5000</string>
     <string name="pref_back_noise_model_as_key">847150</string>
     <string name="pref_2ndaux_setting_key">0</string>
@@ -182,7 +182,7 @@
     <string name="pref_force_raw10_front_key">1</string>
     <string name="pref_2ndaux_portrait_key">0</string>
     <string name="pref_enable_lowlight_key">0</string>
-    <string name="pref_camera_hdr_plus_key">auto</string>
+    <string name="pref_camera_hdr_plus_key">on</string>
     <string name="pref_video_stabilization_key">1</string>
     <string name="vfp_ae_key">1</string>
     <string name="pref_1staux_video_key">0</string>
