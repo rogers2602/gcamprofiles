@@ -188,7 +188,7 @@
     <string name="pref_1staux_video_key">0</string>
     <string name="pref_bitrate_key">0</string>
     <string name="pref_back_tuningmode_key">1</string>
-    <string name="pixel_awb_key">0</string>
+    <string name="pixel_awb_key">5</string>
     <string name="pref_back_customdenoiseparam_key">1</string>
     <string name="lib_curve_offset_key">0</string>
     <string name="pref_front_denoise_chroma_2_key">230</string>
