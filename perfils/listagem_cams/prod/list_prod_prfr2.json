@@ -1,12 +1,12 @@
 [
    {
-    "nomegcam":"Aviso - Warning",
-    "descricao":"Reserve um minuto para ler nosso aviso, é importante, esse aviso é sobre o futuro do app.",
-    "desc_global":"Take a minute to read our notice, it is important, this notice is about the future of the app.",
+    "nomegcam":"Update soon",
+    "descricao":"Atualização em breve, leia nosso aviso.",
+    "desc_global":"Update soon, read our disclaimer.",
     "icone":"https://raw.githubusercontent.com/rogers2602/gcamprofiles/master/perfils/listagem_cams/icons/attention.png",
     "action":3,
     "vs":"1.7.7",
-    "url":"https://telegra.ph/Aviso-02-11"
+    "url":"https://telegra.ph/Update-soon-08-09"
   },
    {
       "nomegcam":"Arnova ",
